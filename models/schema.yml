@@ -1,0 +1,39 @@
+
+version: 2
+
+models:
+  - name: bronze_accounts
+    description: " Account with unique account_id"
+    columns:
+      - name: account_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+      
+  - name: bronze_products
+    description: " Account with unique account_id"
+    columns:
+      - name: product_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+  - name: bronze_orders
+    description: ""
+    columns:
+      - name: opportunity_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+
+  - name: bronze_bronze_sales
+    description: ""
+    columns:
+      - name: sales_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+          

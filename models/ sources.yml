@@ -2,6 +2,10 @@ version: 2
 
 sources:
   - name: crmhetic
-    schema: raw_data  # Schéma réel de votre table source dans BigQuery
+    schema: raw_data
     tables:
       - name: accounts
+      - name: products
+      - name: sales_pepline  # Assurez-vous que le nom correspond à celui utilisé dans votre modèle
+      - name: team_sales
+
