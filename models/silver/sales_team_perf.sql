@@ -2,7 +2,7 @@ with cte_sales as (
     select
         sale_id,
         sales_agent
-    from {{ ref('bronze_sales') }}
+    from {{ ref('bronze_accounts') }}
 ),
 
 cte_products as (

@@ -1,7 +1,7 @@
 {{ config(
     materialized='incremental',
     unique_key='account_id',
-    alias='orders_profitability'
+    alias='sales_profitability'
 ) }}
 
 with cte_accounts as (
