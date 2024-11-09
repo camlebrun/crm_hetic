@@ -37,5 +37,4 @@ from base_data
 {% if is_incremental() %}
     where
         deal_stage in ('Engaging', 'Prospecting')
-        or close_date >= DATE_SUB(CURRENT_DATE, interval 1 day)
 {% endif %}

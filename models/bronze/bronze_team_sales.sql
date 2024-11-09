@@ -1,7 +1,7 @@
 {{ config(
     materialized='incremental',
     unique_key='sales_id',
-    alias='sales_accounts',
+    alias='team_sales',
 ) }}
 
 select
