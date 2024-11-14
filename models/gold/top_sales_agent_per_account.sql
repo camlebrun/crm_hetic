@@ -32,7 +32,7 @@ select
     t.sales_agent as top_sales_agent,
     t.total_profit
 from
-    top_sales_agent_per_account as t
+    top_sales_agent_per_account ats 
 inner join
     agent_count_per_account as a
     on t.account_name = a.account_name
