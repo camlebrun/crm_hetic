@@ -37,7 +37,7 @@ models:
           - unique
           - not_null
         
-  - name: silver_account_sales_profitability
+  - name: sales_team_perf
     description: ""
     columns:
       - name: account_id

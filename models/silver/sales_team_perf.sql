@@ -1,7 +1,7 @@
 {{ config(
     materialized='table',
     unique_key='opportunity_id',
-    alias='account_client_profitability'
+    alias='sales_profitability'
 ) }}
 
 
@@ -9,8 +9,8 @@
 with cte_sales as (
     select
         account_id,
-        account_name, 
-        sector,
+        account_name,
+        sector
     from {{ ref('bronze_accounts') }}
 ),
 
@@ -28,18 +28,20 @@ cte_orders as (
         opportunity_id,
         account_id,
         sale_id,
+        sales_agent,
         product_id,
         product,
         engage_at,
         close_at,
         date_diff(close_at, engage_at, day) as sales_cycle_days,
-        close_value
+        close_value,
+        deal_stage
     from {{ ref('bronze_orders') }}
-    where account_id is not null and deal_stage = 'Won'
+    where account_id is not null
 )
 
 select
-    cte_orders.account_id,
+    cte_orders.sales_agent,
     cte_sales.account_name,
     cte_sales.sector,
     cte_orders.product_id,
@@ -49,6 +51,7 @@ select
     cte_orders.sales_cycle_days,
     cte_orders.close_value,
     cte_products.sales_price,
+    cte_orders.deal_stage,
     (cte_orders.close_value - cte_products.sales_price) as sales_margin
 from cte_sales
 inner join cte_orders
