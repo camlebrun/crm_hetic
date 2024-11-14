@@ -16,6 +16,12 @@ with base_data as (
         deal_stage,
         engage_date as engage_at,
         close_date as close_at,
+        /* 
+        conseils:
+        backoofice =
+        - rajout champs blabla  
+        Prospecting_date 
+        */
         close_value
     from {{ source('crmhetic', 'sales_pepline') }}
 )
@@ -33,8 +39,9 @@ select
     close_at,
     close_value
 from base_data
-
+where account_id is not null
 {% if is_incremental() %}
-    where
+    and 
         deal_stage in ('Engaging', 'Prospecting')
 {% endif %}
+

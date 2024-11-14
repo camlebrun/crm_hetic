@@ -37,6 +37,8 @@ cte_orders as (
         close_value,
         deal_stage
     from {{ ref('bronze_orders') }}
+        where account_id is not null and deal_stage = 'Won'
+
 )
 
 select
