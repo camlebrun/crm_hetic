@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: sales_analysis
+    description: The sales analysis (deals won, total sales revenues, and total sales margin).
+    config:
+      materialized: table
+
+    columns:
+      - name: deals_won 
+        description: The number of deals won.
+      - name: total_sales_revenues
+        description: The total sales revenues.
+      - name: total_sales_margin
+        description: The total sales margin.

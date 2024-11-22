@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: avg_sales_revenues
+    description: The average sales revenues.
+    config:
+      materialized: table
+
+    columns:
+      - name : opportunity_id
+        description: The opportunity id.
+      
+      - name: avg_sales_revenues
+        description: The average sales revenues.
+ 

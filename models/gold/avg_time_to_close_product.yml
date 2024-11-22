@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: avg_time_to_close_product
+    description: The average time to close a product.
+    config:
+      materialized: table
+
+    columns:
+      - name: product
+        description: The product name.
+
+      - name: avg_time_to_close
+        description: The average time to close the product.
+        type: numeric

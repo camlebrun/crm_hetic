@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name:  top_agents
+    description: The top agents by sales revenues.
+    config:
+      materialized: table
+
+    columns:
+      - name: agent
+        description: The agent name.
+
+      - name: sales_revenues
+        description: The sales revenues for the agent.
+        type: numeric

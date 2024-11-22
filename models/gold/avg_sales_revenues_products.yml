@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: avg_sales_revenues_products
+    description: The average sales revenues for products.
+    config:
+      materialized: table
+
+    columns:
+      - name: product
+        description: The product name.
+
+
+      - name: avg_sales_revenues
+        description: The average sales revenues for the product.
+        type: numeric

@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: avg_sales_revenues_sector
+    description: The average sales revenues for sectors.
+    config:
+      materialized: table
+
+    columns:
+      - name: sector
+        description: The sector name.
+
+      - name: avg_sales_revenues
+        description: The average sales revenues for the sector.
+        type: numeric

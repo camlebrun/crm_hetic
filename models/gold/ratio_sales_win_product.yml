@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: ratio_sales_win_product
+    description: The ratio of sales to wins for products.
+    config:
+      materialized: table
+
+    columns:
+      - name: product
+        description: The product name.
+
+      - name: ratio_sales_win
+        description: The ratio of sales to wins.
+        type: numeric

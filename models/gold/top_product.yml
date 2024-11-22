@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: top_product
+    description: The top products by sales revenues.
+    config:
+      materialized: table
+
+    columns:
+      - name: product
+        description: The product name.
+
+      - name: sales_revenues
+        description: The sales revenues for the product.
+        type: numeric
