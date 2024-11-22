@@ -36,4 +36,27 @@ models:
         tests:
           - unique
           - not_null
-          
+        
+  - name: sales_team_perf
+    description: ""
+    columns:
+      - name: account_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+      - name: sales_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+      - name: opportunity_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+      - name: product_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
