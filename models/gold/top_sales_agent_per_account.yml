@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: top_sales_agent_per_account
+    description: The top sales agent per account by total profit.
+    config:
+      materialized: table
+
+    columns:
+      - name: account_name
+        description: The account name.
+      - name: top_sales_agent
+        description: The top sales agent for the account.
+      - name: total_profit
+        description: The total profit for the account.

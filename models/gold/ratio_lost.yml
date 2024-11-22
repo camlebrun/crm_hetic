@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: ratio_lost
+    description: The ratio of sales to lost.
+    config:
+      materialized: table
+
+    columns:
+      - name: ratio_lost
+        description: The ratio of sales to lost.
+        type: numeric

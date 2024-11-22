@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: ratio_sales_win_region
+    description: The ratio of sales to wins for regions.
+    config:
+      materialized: table
+
+    columns:
+      - name: region
+        description: The region name.
+
+      - name: ratio_sales_win
+        description: The ratio of sales to wins.
+        type: numeric

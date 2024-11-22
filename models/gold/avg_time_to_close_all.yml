@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: avg_time_to_close_all
+    description: The average time to close all opportunities.
+    config:
+      materialized: table
+
+    columns:
+      - name: avg_time_to_close
+        description: The average time to close all opportunities.
+        type: numeric

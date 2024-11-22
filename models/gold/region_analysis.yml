@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: region_analysis
+    description: The analysis of sales and wins by region (total sales, total wins, ratio of wins to sales, and ratio of sales to wins).
+    config:
+      materialized: table
+
+    columns:
+      - name: region
+        description: The region name.
+
+      - name: total_sales
+        description: The total sales for the region.
+
+      - name: total_wins
+        description: The total wins for the region.
+
+      - name: ratio_wins
+        description: The ratio of wins to sales for the region.
+      - name: avg_sales_revenues
+        description: The ratio of sales to wins for the region.
+  

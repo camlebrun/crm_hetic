@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: ratio_sales_win_sector
+    description: The ratio of sales to wins for sectors.
+    config:
+      materialized: table
+
+    columns:
+      - name: sector
+        description: The sector name.
+
+      - name: ratio_sales_win
+        description: The ratio of sales to wins.
+        type: numeric

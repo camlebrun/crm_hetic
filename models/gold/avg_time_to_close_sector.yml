@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: avg_time_to_close_sector
+    description: The average time to close an opportunity by sector.
+    config:
+      materialized: table
+
+    columns:
+      - name: sector
+        description: The sector name.
+
+      - name: avg_time_to_close
+        description: The average time to close an opportunity.
+        type: numeric
