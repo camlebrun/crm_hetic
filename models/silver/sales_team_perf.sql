@@ -61,7 +61,6 @@ select
     cte_orders.close_value,
     cte_products.sales_price,
     cte_orders.deal_stage,
-    (cte_orders.close_value - cte_products.sales_price) as sales_margin
 from cte_sales
 inner join cte_orders
     on cte_sales.account_id = cte_orders.account_id
