@@ -1,0 +1,1476 @@
+sector,product,account,sales_agent,regional_office,manager,sales_price,revenue,series,office_location,number_of_employees,y_true,y_pred
+finance,MG Advanced,Golddex,Rosalina Dieter,West,Celia Rouche,3393.0,52.5,MG,United States,165.0,1490.9155118462227,2017.945870710091
+medical,MG Special,Isdom,Versie Hillebrand,Central,Dustin Brinkmann,55.0,3178.24,MG,United States,4540.0,0.0,214.0450500475638
+technolgy,GTX Plus Pro,Rundofase,Anna Snelling,Central,Dustin Brinkmann,5482.0,1008.06,GTX,United States,1238.0,5373.0,3167.6987830896796
+software,MG Special,Codehow,Darcel Schlecht,Central,Melvin Marxen,55.0,2714.9,MG,United States,2641.0,47.0,203.55536267228194
+services,GTX Pro,Newex,Zane Levy,West,Summer Sewald,4821.0,1012.72,GTX,Germany,3492.0,4313.0,2951.3723440699764
+finance,GTX Plus Basic,Stanredtax,Marty Freudenburg,Central,Melvin Marxen,1096.0,1698.1999999999998,GTX,United States,3798.0,0.0,780.7294092033949
+medical,GTX Basic,Labdrill,Kary Hendrixson,West,Summer Sewald,550.0,2741.37,GTX,United States,9226.0,528.0,546.7271854755966
+services,GTX Pro,Newex,Kami Bicknell,West,Summer Sewald,4821.0,1012.72,GTX,Germany,3492.0,4865.0,2946.8102524676033
+retail,MG Special,Kinnamplus,Darcel Schlecht,East,Rocco Neubert,55.0,702.7199999999998,MG,United States,1831.0,0.0,336.4811465324649
+finance,GTX Basic,Opentech,Violet Mclelland,East,Cara Losch,550.0,355.23,GTX,United States,853.0,542.0,448.8779801606988
+marketing,MG Advanced,Mathtouch,Cassey Cress,East,Rocco Neubert,3393.0,3027.46,MG,Jordan,9516.0,3600.0,1946.051101248918
+marketing,MG Special,Sunnamplex,James Ascencio,West,Summer Sewald,55.0,894.3699999999999,MG,Poland,1593.0,0.0,362.12451340165967
+technolgy,MG Advanced,Iselectrics,Cassey Cress,East,Rocco Neubert,3393.0,527.1099999999999,MG,United States,1428.0,0.0,2011.5297317972074
+medical,MG Advanced,Zumgoity,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,441.0799999999999,MG,United States,1210.0,0.0,1966.0116207924623
+software,GTX Plus Basic,Zotware,Boris Faz,East,Rocco Neubert,1096.0,4478.47,GTX,United States,13809.0,940.0,892.7926716044552
+telecommunications,MG Advanced,Initech,Cassey Cress,East,Rocco Neubert,3393.0,6395.05,MG,United States,20275.0,3042.0,2055.5827793168173
+medical,GTX Basic,Bioholding,Versie Hillebrand,Central,Dustin Brinkmann,550.0,587.3400000000001,GTX,Philipines,1356.0,546.0,372.13947733298255
+marketing,MG Special,Scottech,Versie Hillebrand,Central,Dustin Brinkmann,55.0,45.38999999999987,MG,United States,100.0,51.0,289.92501273851417
+technolgy,MG Special,Doncon,Markita Hansen,West,Celia Rouche,55.0,587.72,MG,United States,1501.0,54.0,370.8575258484591
+technolgy,GTX Plus Basic,Donquadtech,Cassey Cress,East,Rocco Neubert,1096.0,1712.68,GTX,United States,3194.0,0.0,818.4552692708129
+medical,MG Advanced,Labdrill,Hayden Neloms,West,Celia Rouche,3393.0,2741.37,MG,United States,9226.0,0.0,2056.197086870574
+marketing,GTX Basic,Goodsilron,Markita Hansen,West,Celia Rouche,550.0,2952.73,GTX,United States,5107.0,605.0,441.13540056109696
+software,GTX Basic,Dalttechnology,Kary Hendrixson,West,Summer Sewald,550.0,98.78999999999996,GTX,United States,96.0,0.0,516.4635029432567
+retail,GTX Basic,Genco Pura Olive Oil Company,Moses Frase,Central,Dustin Brinkmann,550.0,894.3299999999999,GTX,Italy,1635.0,455.0,319.4077503985941
+software,GTX Plus Pro,Zotware,Darcel Schlecht,East,Rocco Neubert,5482.0,4478.47,GTX,United States,13809.0,0.0,3277.9408379093993
+retail,MG Special,Gekko & Co,Violet Mclelland,East,Cara Losch,55.0,2520.83,MG,United States,3502.0,55.0,261.3431317832294
+services,GTX Plus Basic,Green-Plus,Kary Hendrixson,West,Summer Sewald,1096.0,692.19,GTX,United States,1922.0,993.0,895.0953269731135
+entertainment,MG Advanced,Xx-zobam,Reed Clapper,East,Rocco Neubert,3393.0,3838.39,MG,United States,8274.0,3962.0,1965.984594725047
+marketing,GTX Plus Basic,Inity,Marty Freudenburg,Central,Melvin Marxen,1096.0,2403.58,GTX,United States,8801.0,1204.0,821.1096845168428
+software,GTX Pro,Zotware,Corliss Cosme,East,Cara Losch,4821.0,4478.47,GTX,United States,13809.0,0.0,2997.744438978898
+marketing,GTX Plus Basic,Mathtouch,Violet Mclelland,East,Cara Losch,1096.0,3027.46,GTX,Jordan,9516.0,941.0,777.4035531535408
+medical,GTX Pro,Zumgoity,Darcel Schlecht,Central,Melvin Marxen,4821.0,441.0799999999999,GTX,United States,1210.0,0.0,2932.6088230822497
+finance,GTX Plus Basic,Stanredtax,Moses Frase,Central,Dustin Brinkmann,1096.0,1698.1999999999998,GTX,United States,3798.0,1174.0,776.6876567796297
+retail,GTX Basic,Gekko & Co,Wilburn Farren,East,Cara Losch,550.0,2520.83,GTX,United States,3502.0,497.0,395.46325324167356
+medical,GTX Basic,Ron-tech,Lajuana Vencill,Central,Dustin Brinkmann,550.0,3922.42,GTX,United States,6837.0,595.0,358.42716874860366
+retail,GTX Pro,Singletechno,Vicki Laflamme,West,Celia Rouche,4821.0,2214.94,GTX,United States,5374.0,5099.0,3000.172830680104
+finance,MG Special,Funholding,Lajuana Vencill,Central,Dustin Brinkmann,55.0,2819.5,MG,United States,7227.0,0.0,255.338515905323
+services,MG Special,Hatfan,Maureen Marcano,West,Summer Sewald,55.0,792.46,MG,United States,1299.0,59.0,377.1906080664053
+medical,GTX Pro,Betatech,Jonathan Berthelot,Central,Melvin Marxen,4821.0,647.1799999999998,GTX,Kenya,1185.0,0.0,2828.6295180578495
+marketing,GTX Plus Basic,Scottech,Darcel Schlecht,Central,Melvin Marxen,1096.0,45.38999999999987,GTX,United States,100.0,1160.0,794.248052186806
+finance,MG Advanced,Xx-holding,Hayden Neloms,West,Celia Rouche,3393.0,7537.24,MG,United States,20293.0,2927.0,2025.2332974402393
+technolgy,GTX Basic,Zencorporation,Cassey Cress,East,Rocco Neubert,550.0,40.789999999999964,GTX,China,142.0,578.0,405.02880439719866
+medical,GTX Plus Pro,Betasoloin,Boris Faz,East,Rocco Neubert,5482.0,251.40999999999985,GTX,United States,495.0,5479.0,3198.3785286528177
+retail,GTX Basic,Plexzap,Marty Freudenburg,Central,Melvin Marxen,550.0,2437.85,GTX,United States,4874.0,1490.9155118462227,400.9288640330076
+medical,GTX Basic,Betatech,Gladys Colclough,Central,Melvin Marxen,550.0,647.1799999999998,GTX,Kenya,1185.0,560.0,333.44194997815
+medical,GTX Plus Pro,Bioholding,Moses Frase,Central,Dustin Brinkmann,5482.0,587.3400000000001,GTX,Philipines,1356.0,5018.0,3125.577785285117
+software,GTX Plus Basic,Codehow,Darcel Schlecht,Central,Melvin Marxen,1096.0,2714.9,GTX,United States,2641.0,1217.0,709.0070201794988
+technolgy,GTX Pro,Hottechi,Darcel Schlecht,Central,Melvin Marxen,4821.0,8170.379999999999,GTX,Korea,16499.0,0.0,2777.1108105703925
+marketing,MG Special,Sunnamplex,Kary Hendrixson,West,Summer Sewald,55.0,894.3699999999999,MG,Poland,1593.0,65.0,363.03693172213434
+entertainment,GTX Basic,Cheers,Zane Levy,West,Summer Sewald,550.0,4269.9,GTX,United States,6472.0,605.0,406.9834042924531
+telecommunications,GTX Pro,Initech,Darcel Schlecht,East,Rocco Neubert,4821.0,6395.05,GTX,United States,20275.0,4859.0,3022.0920419048966
+technolgy,MG Advanced,Iselectrics,Vicki Laflamme,West,Celia Rouche,3393.0,527.1099999999999,MG,United States,1428.0,1490.9155118462227,2049.307747962373
+marketing,GTX Basic,Mathtouch,Wilburn Farren,East,Cara Losch,550.0,3027.46,GTX,Jordan,9516.0,0.0,406.0720171047685
+retail,MG Special,Zathunicon,Corliss Cosme,East,Cara Losch,55.0,71.11999999999989,MG,United States,144.0,0.0,336.37169460810196
+entertainment,GTX Basic,Cheers,Maureen Marcano,West,Summer Sewald,550.0,4269.9,GTX,United States,6472.0,619.0,403.94200989087085
+technolgy,MG Advanced,Konex,Hayden Neloms,West,Celia Rouche,3393.0,7708.379999999999,MG,United States,13756.0,3700.0,1922.6388933899761
+medical,GTX Basic,Bioplex,Reed Clapper,East,Rocco Neubert,550.0,326.82000000000016,GTX,United States,1016.0,0.0,456.2986980729718
+services,GTX Pro,Hatfan,Vicki Laflamme,West,Celia Rouche,4821.0,792.46,GTX,United States,1299.0,4907.0,2988.8105907086974
+retail,MG Advanced,Plussunin,Reed Clapper,East,Rocco Neubert,3393.0,1419.98,MG,United States,4018.0,0.0,2013.513268202972
+retail,GTX Plus Pro,Blackzim,Kami Bicknell,West,Summer Sewald,5482.0,497.1100000000001,GTX,United States,1588.0,4755.0,3264.4879801133147
+technolgy,GTX Pro,Rundofase,Darcel Schlecht,Central,Melvin Marxen,4821.0,1008.06,GTX,United States,1238.0,0.0,2913.4897956410105
+technolgy,GTX Pro,Zencorporation,Darcel Schlecht,East,Rocco Neubert,4821.0,40.789999999999964,GTX,China,142.0,5244.0,2900.824651357215
+finance,GTX Basic,Opentech,Boris Faz,East,Rocco Neubert,550.0,355.23,GTX,United States,853.0,0.0,459.57047993291144
+marketing,MG Special,dambase,Lajuana Vencill,Central,Dustin Brinkmann,55.0,2173.98,MG,United States,2928.0,0.0,248.56253468314094
+finance,MG Special,Funholding,Versie Hillebrand,Central,Dustin Brinkmann,55.0,2819.5,MG,United States,7227.0,62.0,258.075770866747
+finance,MG Advanced,Xx-holding,Rosalina Dieter,West,Celia Rouche,3393.0,7537.24,MG,United States,20293.0,3145.0,2028.882970722138
+retail,GTX Basic,J-Texon,Kami Bicknell,West,Summer Sewald,550.0,1388.67,GTX,United States,3583.0,0.0,518.0150799187959
+entertainment,GTX Plus Basic,Xx-zobam,Cassey Cress,East,Rocco Neubert,1096.0,3838.39,GTX,United States,8274.0,1112.0,802.2508970388758
+technolgy,MG Advanced,Iselectrics,Reed Clapper,East,Rocco Neubert,3393.0,527.1099999999999,MG,United States,1428.0,0.0,2017.612520600372
+services,GTX Basic,Warephase,Jonathan Berthelot,Central,Melvin Marxen,550.0,2041.73,GTX,United States,5276.0,0.0,438.8902122549159
+medical,MG Special,Condax,Lajuana Vencill,Central,Dustin Brinkmann,55.0,4.539999999999964,MG,United States,9.0,55.0,268.5001287083512
+retail,GTX Basic,Fasehatice,Zane Levy,West,Summer Sewald,550.0,4968.91,GTX,United States,7523.0,0.0,415.3335281691443
+medical,GTX Pro,Condax,Kami Bicknell,West,Summer Sewald,4821.0,4.539999999999964,GTX,United States,9.0,0.0,2998.7906025450166
+software,MG Advanced,Kan-code,Kary Hendrixson,West,Summer Sewald,3393.0,11698.03,MG,United States,34288.0,3546.0,2090.0609899514643
+medical,GTX Basic,Condax,Zane Levy,West,Summer Sewald,550.0,4.539999999999964,GTX,United States,9.0,544.0,509.0775443881653
+entertainment,GTX Basic,Dalttechnology,Niesha Huffines,Central,Melvin Marxen,550.0,217.8699999999999,GTX,United States,551.0,527.0,395.5731603597171
+employment,GTX Plus Basic,Statholdings,Anna Snelling,Central,Dustin Brinkmann,1096.0,291.27,GTX,United States,586.0,0.0,773.4440351036419
+medical,GTX Basic,Silis,Zane Levy,West,Summer Sewald,550.0,2818.38,GTX,United States,6290.0,1490.9155118462227,508.05386531850706
+telecommunications,GTX Basic,Rantouch,Vicki Laflamme,West,Celia Rouche,550.0,1188.42,GTX,United States,3015.0,581.0,529.0914250973716
+entertainment,MG Special,Dalttechnology,Anna Snelling,Central,Dustin Brinkmann,55.0,217.8699999999999,MG,United States,551.0,63.0,250.72021879402632
+medical,GTX Basic,Lexiqvolax,Kami Bicknell,West,Summer Sewald,550.0,1618.89,GTX,United States,3889.0,1490.9155118462227,510.96887212668673
+technolgy,GTX Pro,Konex,Vicki Laflamme,West,Celia Rouche,4821.0,7708.379999999999,GTX,United States,13756.0,5348.0,2892.1895503796377
+employment,MG Special,Statholdings,Anna Snelling,Central,Dustin Brinkmann,55.0,291.27,MG,United States,586.0,56.0,267.99237759642506
+marketing,GTX Basic,Goodsilron,Kami Bicknell,West,Summer Sewald,550.0,2952.73,GTX,United States,5107.0,0.0,458.8231074569485
+software,GTX Pro,Zotware,Corliss Cosme,East,Cara Losch,4821.0,4478.47,GTX,United States,13809.0,5088.0,2997.744438978898
+technolgy,GTX Pro,Bluth Company,Darcel Schlecht,Central,Melvin Marxen,4821.0,1242.32,GTX,United States,3027.0,1490.9155118462227,2906.9379145546545
+technolgy,MG Special,Conecom,Jonathan Berthelot,Central,Melvin Marxen,55.0,1520.66,MG,United States,1806.0,60.0,251.49338044544038
+retail,MG Advanced,Cancity,Anna Snelling,Central,Dustin Brinkmann,3393.0,718.6199999999999,MG,United States,2448.0,0.0,1937.1496385299376
+medical,GTX Plus Basic,Ron-tech,Marty Freudenburg,Central,Melvin Marxen,1096.0,3922.42,GTX,United States,6837.0,1133.0,735.3211544219321
+medical,GTX Basic,Ron-tech,Lajuana Vencill,Central,Dustin Brinkmann,550.0,3922.42,GTX,United States,6837.0,0.0,358.42716874860366
+software,MG Advanced,Kan-code,Boris Faz,East,Rocco Neubert,3393.0,11698.03,MG,United States,34288.0,0.0,2036.7242429715548
+retail,GTX Basic,Singletechno,James Ascencio,West,Summer Sewald,550.0,2214.94,GTX,United States,5374.0,403.0,520.2398539749909
+finance,GTX Plus Basic,Funholding,Niesha Huffines,Central,Melvin Marxen,1096.0,2819.5,GTX,United States,7227.0,0.0,766.9609019174125
+retail,MG Special,Fasehatice,Elease Gluck,West,Celia Rouche,55.0,4968.91,MG,United States,7523.0,53.0,256.5304926912088
+services,GTX Plus Basic,Nam-zim,Cassey Cress,East,Rocco Neubert,1096.0,405.59000000000015,GTX,Brazil,1179.0,1490.9155118462227,744.4166897844134
+retail,GTX Pro,Kinnamplus,Vicki Laflamme,West,Celia Rouche,4821.0,702.7199999999998,GTX,United States,1831.0,1490.9155118462227,3000.829597274351
+marketing,GTX Basic,dambase,Anna Snelling,Central,Dustin Brinkmann,550.0,2173.98,GTX,United States,2928.0,626.0,377.51228565889573
+technolgy,MG Advanced,Conecom,Anna Snelling,Central,Dustin Brinkmann,3393.0,1520.66,MG,United States,1806.0,0.0,1905.992102809525
+software,MG Advanced,Codehow,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,2714.9,MG,United States,2641.0,0.0,1867.78654712143
+software,GTX Pro,Scotfind,Kary Hendrixson,West,Summer Sewald,4821.0,6354.87,GTX,United States,16780.0,0.0,3021.2421290379825
+retail,GTX Pro,Streethex,Darcel Schlecht,Central,Melvin Marxen,4821.0,1376.8,GTX,Belgium,1165.0,4323.0,2771.0845583362097
+software,MG Special,Codehow,Cecily Lampkin,Central,Dustin Brinkmann,55.0,2714.9,MG,United States,2641.0,61.0,197.99291304772578
+employment,MG Special,Finjob,Vicki Laflamme,West,Celia Rouche,55.0,2059.9,MG,United States,3644.0,56.0,309.23759841383117
+retail,MG Special,Gekko & Co,Wilburn Farren,East,Cara Losch,55.0,2520.83,MG,United States,3502.0,0.0,261.64727122338763
+software,MG Advanced,Kan-code,Vicki Laflamme,West,Celia Rouche,3393.0,11698.03,MG,United States,34288.0,0.0,2074.8063985768786
+telecommunications,GTX Pro,Treequote,Gladys Colclough,Central,Melvin Marxen,4821.0,5266.09,GTX,United States,8595.0,0.0,2852.6906982619403
+software,MG Special,Dontechi,Versie Hillebrand,Central,Dustin Brinkmann,55.0,4618.0,MG,United States,10083.0,53.0,242.91210421095002
+telecommunications,GTX Pro,Gogozoom,Darcel Schlecht,Central,Melvin Marxen,4821.0,86.67999999999984,GTX,United States,187.0,4923.0,2928.0951428840676
+finance,GTX Plus Pro,Finhigh,Rosalina Dieter,West,Celia Rouche,5482.0,1102.43,GTX,United States,1759.0000000000005,1490.9155118462227,3218.2567287231172
+retail,MG Special,Streethex,Gladys Colclough,Central,Melvin Marxen,55.0,1376.8,MG,Belgium,1165.0,53.0,144.20998431933162
+medical,GTX Plus Basic,Lexiqvolax,Hayden Neloms,West,Celia Rouche,1096.0,1618.89,GTX,United States,3889.0,0.0,863.092004078816
+retail,GTX Basic,Singletechno,Markita Hansen,West,Celia Rouche,550.0,2214.94,GTX,United States,5374.0,0.0,503.16042595945555
+entertainment,MG Advanced,Cheers,Hayden Neloms,West,Celia Rouche,3393.0,4269.9,MG,United States,6472.0,3397.0,1912.1953535252153
+employment,MG Advanced,Y-corporation,Rosalina Dieter,West,Celia Rouche,3393.0,2871.35,MG,United States,9561.0,3242.0,2057.2538710414988
+technolgy,GTX Pro,Rangreen,Darcel Schlecht,Central,Melvin Marxen,4821.0,2938.67,GTX,Panama,8775.0,4888.0,2914.3788062782087
+entertainment,MG Special,Plusstrip,Violet Mclelland,East,Cara Losch,55.0,349.80999999999995,MG,United States,315.0,1490.9155118462227,303.0324099224538
+technolgy,GTX Pro,Hottechi,James Ascencio,West,Summer Sewald,4821.0,8170.379999999999,GTX,Korea,16499.0,5157.0,2877.093236846731
+medical,GTX Pro,Zumgoity,Darcel Schlecht,Central,Melvin Marxen,4821.0,441.0799999999999,GTX,United States,1210.0,0.0,2932.6088230822497
+entertainment,MG Special,Dalttechnology,Anna Snelling,Central,Dustin Brinkmann,55.0,217.8699999999999,MG,United States,551.0,0.0,250.72021879402632
+finance,GTX Plus Basic,Xx-holding,Maureen Marcano,West,Summer Sewald,1096.0,7537.24,GTX,United States,20293.0,1035.0,888.6156292948252
+retail,GTX Pro,Fasehatice,Vicki Laflamme,West,Celia Rouche,4821.0,4968.91,GTX,United States,7523.0,4577.0,2890.096134391568
+retail,GTX Plus Basic,Ganjaflex,Daniell Hammack,East,Rocco Neubert,1096.0,5158.71,GTX,Japan,17479.0,1054.0,812.0806561661387
+technolgy,GTX Basic,Hottechi,Vicki Laflamme,West,Celia Rouche,550.0,8170.379999999999,GTX,Korea,16499.0,651.0,368.47591403339516
+employment,GTX Basic,Finjob,Kami Bicknell,West,Summer Sewald,550.0,2059.9,GTX,United States,3644.0,0.0,458.00403236654506
+marketing,GTX Plus Pro,Mathtouch,Garret Kinder,East,Cara Losch,5482.0,3027.46,GTX,Jordan,9516.0,4995.0,3155.252372894687
+finance,MG Special,Stanredtax,Moses Frase,Central,Dustin Brinkmann,55.0,1698.1999999999998,MG,United States,3798.0,52.0,271.23599927241276
+entertainment,GTK 500,Cheers,Elease Gluck,West,Celia Rouche,26768.0,4269.9,GTK,United States,6472.0,0.0,14333.895579501303
+medical,GTX Plus Basic,Condax,Kami Bicknell,West,Summer Sewald,1096.0,4.539999999999964,GTX,United States,9.0,994.0,876.1511282747224
+marketing,GTX Plus Pro,Goodsilron,Corliss Cosme,East,Cara Losch,5482.0,2952.73,GTX,United States,5107.0,1490.9155118462227,3143.0617981742703
+entertainment,GTX Basic,Xx-zobam,Reed Clapper,East,Rocco Neubert,550.0,3838.39,GTX,United States,8274.0,494.0,436.6980103531098
+technolgy,GTX Basic,Rangreen,Moses Frase,Central,Dustin Brinkmann,550.0,2938.67,GTX,Panama,8775.0,574.0,419.71157737711746
+retail,GTX Pro,Gekko & Co,Wilburn Farren,East,Cara Losch,4821.0,2520.83,GTX,United States,3502.0,6135.0,2889.7384030008984
+services,GTX Plus Basic,Green-Plus,Maureen Marcano,West,Summer Sewald,1096.0,692.19,GTX,United States,1922.0,0.0,896.3118847337464
+retail,GTX Basic,Cancity,Versie Hillebrand,Central,Dustin Brinkmann,550.0,718.6199999999999,GTX,United States,2448.0,672.0,415.46654016195635
+technolgy,GTX Plus Basic,Zencorporation,Reed Clapper,East,Rocco Neubert,1096.0,40.789999999999964,GTX,China,142.0,1024.0,782.7472686892935
+software,GTX Plus Basic,Dalttechnology,Hayden Neloms,West,Celia Rouche,1096.0,98.78999999999996,GTX,United States,96.0,1195.0,868.2824954552278
+medical,GTX Basic,Bioholding,Anna Snelling,Central,Dustin Brinkmann,550.0,587.3400000000001,GTX,Philipines,1356.0,475.0,364.53599132902696
+entertainment,GTX Basic,Cheers,Kary Hendrixson,West,Summer Sewald,550.0,4269.9,GTX,United States,6472.0,538.0,402.72545213023795
+finance,GTX Pro,Funholding,Gladys Colclough,Central,Melvin Marxen,4821.0,2819.5,GTX,United States,7227.0,0.0,2886.2548423459666
+marketing,MG Special,Scottech,Maureen Marcano,West,Summer Sewald,55.0,45.38999999999987,MG,United States,100.0,1490.9155118462227,390.9077970370356
+software,MG Advanced,Zotware,Rosie Papadopoulos,East,Cara Losch,3393.0,4478.47,MG,United States,13809.0,0.0,2038.8386623947745
+entertainment,GTX Basic,Cheers,Corliss Cosme,East,Cara Losch,550.0,4269.9,GTX,United States,6472.0,1490.9155118462227,331.7009982544764
+entertainment,MG Advanced,Plusstrip,Markita Hansen,West,Celia Rouche,3393.0,349.80999999999995,MG,United States,315.0,3973.0,2012.172376728789
+retail,GTX Basic,Cancity,Jonathan Berthelot,Central,Melvin Marxen,550.0,718.6199999999999,GTX,United States,2448.0,479.0,416.4668981841394
+telecommunications,MG Special,Initech,Violet Mclelland,East,Cara Losch,55.0,6395.05,MG,United States,20275.0,61.0,381.48357371422367
+services,GTX Pro,Warephase,Gladys Colclough,Central,Melvin Marxen,4821.0,2041.73,GTX,United States,5276.0,4375.0,2932.2529436936666
+technolgy,MG Advanced,Rangreen,Anna Snelling,Central,Dustin Brinkmann,3393.0,2938.67,MG,Panama,8775.0,0.0,1942.9153729458899
+medical,GTX Basic,Labdrill,Zane Levy,West,Summer Sewald,550.0,2741.37,GTX,United States,9226.0,0.0,550.9851376378117
+marketing,GTX Basic,Konmatfix,Jonathan Berthelot,Central,Melvin Marxen,550.0,375.42999999999984,GTX,United States,1190.0,0.0,419.3580126847153
+technolgy,GTX Basic,Rangreen,Moses Frase,Central,Dustin Brinkmann,550.0,2938.67,GTX,Panama,8775.0,0.0,419.71157737711746
+software,GTX Basic,Scotfind,Kami Bicknell,West,Summer Sewald,550.0,6354.87,GTX,United States,16780.0,549.0,526.6628398385991
+entertainment,GTX Plus Pro,Cheers,James Ascencio,West,Summer Sewald,5482.0,4269.9,GTX,United States,6472.0,5616.0,3156.7720389626884
+retail,GTX Basic,Plexzap,James Ascencio,West,Summer Sewald,550.0,2437.85,GTX,United States,4874.0,537.0,497.2616170274475
+retail,MG Special,Zathunicon,Violet Mclelland,East,Cara Losch,55.0,71.11999999999989,MG,United States,144.0,0.0,343.3669017317411
+marketing,MG Special,Mathtouch,Vicki Laflamme,West,Celia Rouche,55.0,3027.46,MG,Jordan,9516.0,1490.9155118462227,320.72655102386057
+entertainment,GTX Plus Basic,Dalttechnology,Darcel Schlecht,Central,Melvin Marxen,1096.0,217.8699999999999,GTX,United States,551.0,1327.0,762.6467442462741
+marketing,MG Special,Sunnamplex,Kary Hendrixson,West,Summer Sewald,55.0,894.3699999999999,MG,Poland,1593.0,0.0,363.03693172213434
+medical,GTX Plus Basic,Lexiqvolax,Vicki Laflamme,West,Celia Rouche,1096.0,1618.89,GTX,United States,3889.0,960.0,867.6540956811895
+retail,GTX Plus Pro,Plexzap,Vicki Laflamme,West,Celia Rouche,5482.0,2437.85,GTX,United States,4874.0,0.0,3237.8784491262613
+technolgy,GTX Basic,Rundofase,Jonathan Berthelot,Central,Melvin Marxen,550.0,1008.06,GTX,United States,1238.0,580.0,421.34362196289294
+marketing,MG Special,Mathtouch,Violet Mclelland,East,Cara Losch,55.0,3027.46,MG,Jordan,9516.0,66.0,271.95189564632415
+medical,GTX Basic,Lexiqvolax,Markita Hansen,West,Celia Rouche,550.0,1618.89,GTX,United States,3889.0,0.0,493.281165230835
+finance,GTX Plus Basic,Finhigh,Niesha Huffines,Central,Melvin Marxen,1096.0,1102.43,GTX,United States,1759.0000000000005,0.0,754.7676557597432
+services,MG Advanced,Hatfan,Hayden Neloms,West,Celia Rouche,3393.0,792.46,MG,United States,1299.0,2811.0,2019.259933719036
+retail,MG Advanced,J-Texon,Elease Gluck,West,Celia Rouche,3393.0,1388.67,MG,United States,3583.0,3308.0,2026.876702433457
+retail,MG Special,Ganjaflex,Violet Mclelland,East,Cara Losch,55.0,5158.71,MG,Japan,17479.0,0.0,294.7199411260765
+employment,GTX Basic,Ontomedia,Cassey Cress,East,Rocco Neubert,550.0,882.1199999999999,GTX,United States,2769.0,512.0,457.6876337803699
+software,GTX Plus Basic,Codehow,Jonathan Berthelot,Central,Melvin Marxen,1096.0,2714.9,GTX,United States,2641.0,1093.0,711.1359962606064
+retail,MG Advanced,Fasehatice,Kami Bicknell,West,Summer Sewald,3393.0,4968.91,MG,United States,7523.0,3064.0,1940.0580209387076
+telecommunications,GTX Plus Basic,Gogozoom,Jonathan Berthelot,Central,Melvin Marxen,1096.0,86.67999999999984,GTX,United States,187.0,1100.0,807.5846446948808
+retail,GTX Basic,Fasehatice,Cecily Lampkin,Central,Dustin Brinkmann,550.0,4968.91,GTX,United States,7523.0,1490.9155118462227,304.6182817855595
+marketing,MG Advanced,dambase,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,2173.98,MG,United States,2928.0,3785.0,1907.7112883513073
+technolgy,GTX Basic,Rangreen,Jonathan Berthelot,Central,Melvin Marxen,550.0,2938.67,GTX,Panama,8775.0,544.0,422.2326326000914
+retail,GTX Basic,Sumace,Violet Mclelland,East,Cara Losch,550.0,167.88999999999987,GTX,Romania,493.0,592.0,464.50039468661475
+software,GTX Plus Basic,Dontechi,Darcel Schlecht,Central,Melvin Marxen,1096.0,4618.0,GTX,United States,10083.0,1237.0,747.2351436592421
+software,GTX Plus Pro,Zotware,Corliss Cosme,East,Cara Losch,5482.0,4478.47,GTX,United States,13809.0,4648.0,3258.4282943725984
+technolgy,GTX Plus Pro,Acme Corporation,Darcel Schlecht,East,Rocco Neubert,5482.0,1100.04,GTX,United States,2822.0,5366.0,3217.213650081023
+retail,GTX Plus Basic,Genco Pura Olive Oil Company,Lajuana Vencill,Central,Dustin Brinkmann,1096.0,894.3299999999999,GTX,Italy,1635.0,1127.0,689.8268681268917
+medical,MG Advanced,Isdom,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,3178.24,MG,United States,4540.0,2955.0,1870.456548754306
+employment,GTX Plus Basic,Statholdings,Jonathan Berthelot,Central,Melvin Marxen,1096.0,291.27,GTX,United States,586.0,0.0,782.0478791297804
+telecommunications,GTX Plus Pro,Initech,Zane Levy,West,Summer Sewald,5482.0,6395.05,GTX,United States,20275.0,1490.9155118462227,3338.5457597997724
+technolgy,MG Advanced,Doncon,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,587.72,MG,United States,1501.0,1490.9155118462227,1952.1857120368034
+software,GTX Plus Basic,Kan-code,Maureen Marcano,West,Summer Sewald,1096.0,11698.03,GTX,United States,34288.0,1490.9155118462227,933.6266388290909
+retail,MG Special,Singletechno,Markita Hansen,West,Celia Rouche,55.0,2214.94,MG,United States,5374.0,57.0,369.3444439411694
+medical,MG Special,Isdom,Anna Snelling,Central,Dustin Brinkmann,55.0,3178.24,MG,United States,4540.0,58.0,206.4415640436082
+software,GTX Pro,Dontechi,Darcel Schlecht,Central,Melvin Marxen,4821.0,4618.0,GTX,United States,10083.0,4565.0,2869.8746179295367
+technolgy,MG Advanced,Hottechi,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,8170.379999999999,MG,Korea,16499.0,3831.0,1806.5597955585483
+retail,MG Advanced,Genco Pura Olive Oil Company,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,894.3299999999999,MG,Italy,1635.0,0.0,1843.5239642878412
+medical,GTX Plus Basic,Ron-tech,Anna Snelling,Central,Dustin Brinkmann,1096.0,3922.42,GTX,United States,6837.0,1160.0,725.1966131950024
+retail,MG Advanced,Streethex,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,1376.8,MG,Belgium,1165.0,0.0,1804.4873560464225
+technolgy,MG Advanced,Rangreen,Anna Snelling,Central,Dustin Brinkmann,3393.0,2938.67,MG,Panama,8775.0,0.0,1942.9153729458899
+medical,GTX Pro,Isdom,Gladys Colclough,Central,Melvin Marxen,4821.0,3178.24,GTX,United States,4540.0,0.0,2842.224121526783
+marketing,GTX Basic,dambase,Lajuana Vencill,Central,Dustin Brinkmann,550.0,2173.98,GTX,United States,2928.0,0.0,382.3785167014273
+retail,GTX Plus Pro,Streethex,Marty Freudenburg,Central,Melvin Marxen,5482.0,1376.8,GTX,Belgium,1165.0,4181.0,3035.418087011809
+technolgy,GTX Plus Pro,Donquadtech,Boris Faz,East,Rocco Neubert,5482.0,1712.68,GTX,United States,3194.0,0.0,3201.4744594946496
+retail,GTX Plus Basic,Gekko & Co,Darcel Schlecht,East,Rocco Neubert,1096.0,2520.83,GTX,United States,3502.0,0.0,779.3121257036076
+medical,GTX Pro,Silis,Rosie Papadopoulos,East,Cara Losch,4821.0,2818.38,GTX,United States,6290.0,5546.0,2933.12939784292
+finance,MG Advanced,Finhigh,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,1102.43,MG,United States,1759.0000000000005,3641.0,1908.985091099301
+retail,GTX Plus Basic,Blackzim,Kami Bicknell,West,Summer Sewald,1096.0,497.1100000000001,GTX,United States,1588.0,0.0,881.1646504493201
+finance,GTX Pro,Finhigh,Jonathan Berthelot,Central,Melvin Marxen,4821.0,1102.43,GTX,United States,1759.0000000000005,4138.0,2874.9740145087717
+services,GTX Pro,Nam-zim,Markita Hansen,West,Celia Rouche,4821.0,405.59000000000015,GTX,Brazil,1179.0,5169.0,2902.096925258449
+retail,MG Special,Streethex,Anna Snelling,Central,Dustin Brinkmann,55.0,1376.8,MG,Belgium,1165.0,0.0,136.5185586136679
+medical,GTX Plus Basic,Zumgoity,Jonathan Berthelot,Central,Melvin Marxen,1096.0,441.0799999999999,GTX,United States,1210.0,1189.0,812.0983248930628
+technolgy,GTX Plus Basic,Rangreen,Darcel Schlecht,Central,Melvin Marxen,1096.0,2938.67,GTX,Panama,8775.0,1132.0,791.7393320079143
+technolgy,GTX Basic,Iselectrics,Kami Bicknell,West,Summer Sewald,550.0,527.1099999999999,GTX,United States,1428.0,1490.9155118462227,534.9716155248638
+finance,GTX Pro,Opentech,Zane Levy,West,Summer Sewald,4821.0,355.23,GTX,United States,853.0,1490.9155118462227,3011.440328834261
+retail,MG Special,Sumace,Cecily Lampkin,Central,Dustin Brinkmann,55.0,167.88999999999987,MG,Romania,493.0,1490.9155118462227,288.25636519908085
+software,GTX Basic,Bubba Gump,Daniell Hammack,East,Rocco Neubert,550.0,987.3899999999999,GTX,United States,2253.0,0.0,456.35655341933557
+retail,MG Special,Sumace,Wilburn Farren,East,Cara Losch,55.0,167.88999999999987,MG,Romania,493.0,51.0,330.9885521084864
+software,MG Special,Dontechi,Anna Snelling,Central,Dustin Brinkmann,55.0,4618.0,MG,United States,10083.0,0.0,235.30861820699442
+finance,GTX Pro,Golddex,Kami Bicknell,West,Summer Sewald,4821.0,52.5,GTX,United States,165.0,0.0,2998.7973063522813
+technolgy,GTX Plus Basic,Zencorporation,Cassey Cress,East,Rocco Neubert,1096.0,40.789999999999964,GTX,China,142.0,0.0,776.664479886129
+technolgy,GTX Basic,Globex Corporation,Lajuana Vencill,Central,Dustin Brinkmann,550.0,1223.72,GTX,Norway,2497.0,0.0,372.35529741757
+retail,GTX Basic,J-Texon,Zane Levy,West,Summer Sewald,550.0,1388.67,GTX,United States,3583.0,696.0,522.5771715211692
+marketing,MG Special,Goodsilron,Kami Bicknell,West,Summer Sewald,55.0,2952.73,MG,United States,5107.0,51.0,325.00712543866234
+retail,MG Special,Gekko & Co,Corliss Cosme,East,Cara Losch,55.0,2520.83,MG,United States,3502.0,59.0,254.34792465959003
+software,MG Advanced,Kan-code,Rosie Papadopoulos,East,Cara Losch,3393.0,11698.03,MG,United States,34288.0,3913.0,2025.1193248788675
+retail,MG Special,Singletechno,Vicki Laflamme,West,Celia Rouche,55.0,2214.94,MG,United States,5374.0,61.0,372.0816989025934
+medical,GTX Plus Basic,Zumgoity,Marty Freudenburg,Central,Melvin Marxen,1096.0,441.0799999999999,GTX,United States,1210.0,1490.9155118462227,813.6190220938539
+marketing,GTX Plus Basic,dambase,Anna Snelling,Central,Dustin Brinkmann,1096.0,2173.98,GTX,United States,2928.0,866.0,749.1479611478263
+medical,GTX Plus Pro,Condax,Cassey Cress,East,Rocco Neubert,5482.0,4.539999999999964,GTX,United States,9.0,1490.9155118462227,3206.7459898391235
+medical,MG Special,Bioholding,Marty Freudenburg,Central,Melvin Marxen,55.0,587.3400000000001,MG,Philipines,1356.0,0.0,240.84455053767033
+medical,GTX Pro,Betatech,Darcel Schlecht,Central,Melvin Marxen,4821.0,647.1799999999998,GTX,Kenya,1185.0,4688.0,2826.500541976742
+services,GTX Basic,Hatfan,Kami Bicknell,West,Summer Sewald,550.0,792.46,GTX,United States,1299.0,0.0,509.4858928839003
+medical,MG Advanced,Lexiqvolax,Vicki Laflamme,West,Celia Rouche,3393.0,1618.89,MG,United States,3889.0,1490.9155118462227,2025.3050045641958
+medical,GTX Plus Basic,Ron-tech,Niesha Huffines,Central,Melvin Marxen,1096.0,3922.42,GTX,United States,6837.0,0.0,736.2335727424069
+technolgy,GTX Pro,Zencorporation,Darcel Schlecht,East,Rocco Neubert,4821.0,40.789999999999964,GTX,China,142.0,0.0,2900.824651357215
+marketing,MG Special,Konmatfix,Zane Levy,West,Summer Sewald,55.0,375.42999999999984,MG,United States,1190.0,1490.9155118462227,388.56585134435
+software,GTX Pro,Dontechi,Daniell Hammack,East,Rocco Neubert,4821.0,4618.0,GTX,United States,10083.0,1490.9155118462227,2918.6492733070727
+employment,GTX Plus Pro,Y-corporation,Kary Hendrixson,West,Summer Sewald,5482.0,2871.35,GTX,United States,9561.0,0.0,3299.093301517548
+employment,MG Advanced,Ontomedia,Darcel Schlecht,East,Rocco Neubert,3393.0,882.1199999999999,MG,United States,2769.0,3421.0,1988.4949153530977
+finance,GTX Plus Basic,Golddex,Maureen Marcano,West,Summer Sewald,1096.0,52.5,GTX,United States,165.0,1222.0,877.6785292827781
+medical,GTX Basic,Silis,Corliss Cosme,East,Cara Losch,550.0,2818.38,GTX,United States,6290.0,0.0,432.77145928053073
+telecommunications,GTX Basic,Treequote,Jonathan Berthelot,Central,Melvin Marxen,550.0,5266.09,GTX,United States,8595.0,576.0,359.3279668231901
+entertainment,GTX Basic,Dalttechnology,Versie Hillebrand,Central,Dustin Brinkmann,550.0,217.8699999999999,GTX,United States,551.0,0.0,392.1396868162683
+marketing,GTX Pro,Scottech,Jonathan Berthelot,Central,Melvin Marxen,4821.0,45.38999999999987,GTX,United States,100.0,0.0,2919.0165025382084
+telecommunications,GTX Pro,Faxquote,Rosalina Dieter,West,Celia Rouche,4821.0,1825.82,GTX,United States,5595.0,0.0,3018.2383612628373
+technolgy,MG Special,Doncon,Vicki Laflamme,West,Celia Rouche,55.0,587.72,MG,United States,1501.0,59.0,373.5947808098831
+retail,GTX Plus Basic,Cancity,Cecily Lampkin,Central,Dustin Brinkmann,1096.0,718.6199999999999,GTX,United States,2448.0,986.0,780.4111479674059
+technolgy,GTX Pro,Acme Corporation,Darcel Schlecht,East,Rocco Neubert,4821.0,1100.04,GTX,United States,2822.0,0.0,2956.5297946873225
+retail,MG Advanced,Kinnamplus,Rosie Papadopoulos,East,Cara Losch,3393.0,702.7199999999998,MG,United States,1831.0,1490.9155118462227,1986.1539581890515
+software,MG Advanced,Codehow,Darcel Schlecht,Central,Melvin Marxen,3393.0,2714.9,MG,United States,2641.0,0.0,1866.6579290625052
+medical,GTX Plus Pro,Labdrill,Kary Hendrixson,West,Summer Sewald,5482.0,2741.37,GTX,United States,9226.0,5158.0,3301.686190628522
+medical,GTX Pro,Silis,Reed Clapper,East,Rocco Neubert,4821.0,2818.38,GTX,United States,6290.0,4064.0,2951.12124417893
+software,GTX Basic,Scotfind,Kary Hendrixson,West,Summer Sewald,550.0,6354.87,GTX,United States,16780.0,0.0,526.9669792787573
+marketing,GTX Pro,Sunnamplex,Kary Hendrixson,West,Summer Sewald,4821.0,894.3699999999999,GTX,Poland,1593.0,0.0,2991.1280634996456
+finance,GTX Plus Pro,Stanredtax,Marty Freudenburg,Central,Melvin Marxen,5482.0,1698.1999999999998,GTX,United States,3798.0,5422.0,3164.0527388673895
+technolgy,GTX Plus Basic,Hottechi,Jonathan Berthelot,Central,Melvin Marxen,1096.0,8170.379999999999,GTX,Korea,16499.0,1132.0,656.600312381206
+retail,MG Advanced,Kinnamplus,Violet Mclelland,East,Cara Losch,3393.0,702.7199999999998,MG,United States,1831.0,3172.0,1987.0663765095262
+services,MG Special,Newex,James Ascencio,West,Summer Sewald,55.0,1012.72,MG,Germany,3492.0,45.0,318.1108418097756
+retail,GTX Plus Basic,Blackzim,Kami Bicknell,West,Summer Sewald,1096.0,497.1100000000001,GTX,United States,1588.0,0.0,881.1646504493201
+finance,GTX Pro,Funholding,Darcel Schlecht,Central,Melvin Marxen,4821.0,2819.5,GTX,United States,7227.0,5088.0,2885.0382845853333
+retail,GTX Plus Basic,Cancity,Niesha Huffines,Central,Melvin Marxen,1096.0,718.6199999999999,GTX,United States,2448.0,0.0,790.5356891943356
+finance,MG Advanced,Finhigh,Gladys Colclough,Central,Melvin Marxen,3393.0,1102.43,MG,United States,1759.0000000000005,3215.0,1909.073030801009
+marketing,GTX Pro,Donware,Rosie Papadopoulos,East,Cara Losch,4821.0,1197.44,GTX,United States,2570.0,0.0,2920.7334321750222
+finance,GTX Plus Pro,Finhigh,Moses Frase,Central,Dustin Brinkmann,5482.0,1102.43,GTX,United States,1759.0000000000005,0.0,3133.136814679498
+services,MG Special,Nam-zim,Rosalina Dieter,West,Celia Rouche,55.0,405.59000000000015,MG,Brazil,1179.0,0.0,275.83063012188745
+services,MG Advanced,Newex,Zane Levy,West,Summer Sewald,3393.0,1012.72,MG,Germany,3492.0,4234.0,1986.3837786826884
+technolgy,MG Special,Hottechi,Versie Hillebrand,Central,Dustin Brinkmann,55.0,8170.379999999999,MG,Korea,16499.0,58.0,150.14829685180598
+marketing,GTX Basic,Mathtouch,Daniell Hammack,East,Rocco Neubert,550.0,3027.46,GTX,Jordan,9516.0,1490.9155118462227,417.6769351974558
+telecommunications,GTX Plus Basic,Initech,Corliss Cosme,East,Cara Losch,1096.0,6395.05,GTX,United States,20275.0,1074.0,879.940024097801
+telecommunications,GTX Plus Basic,Gogozoom,Darcel Schlecht,Central,Melvin Marxen,1096.0,86.67999999999984,GTX,United States,187.0,927.0,805.4556686137731
+medical,GTX Plus Pro,Silis,Marty Freudenburg,Central,Melvin Marxen,5482.0,2818.38,GTX,United States,6290.0,1490.9155118462227,3161.509746994303
+technolgy,GTX Basic,Conecom,Darcel Schlecht,Central,Melvin Marxen,550.0,1520.66,GTX,United States,1806.0,589.0,383.18038638261896
+medical,GTX Plus Basic,Condax,Anna Snelling,Central,Dustin Brinkmann,1096.0,4.539999999999964,GTX,United States,9.0,0.0,769.0855551730364
+technolgy,GTX Basic,Rundofase,Versie Hillebrand,Central,Dustin Brinkmann,550.0,1008.06,GTX,United States,1238.0,563.0,420.3432639407099
+finance,MG Advanced,Golddex,Kary Hendrixson,West,Summer Sewald,3393.0,52.5,MG,United States,165.0,3550.0,2034.1128804051516
+finance,GTX Plus Pro,Opentech,Reed Clapper,East,Rocco Neubert,5482.0,355.23,GTX,United States,853.0,5406.0,3220.9164133291592
+marketing,GTX Pro,Inity,Gladys Colclough,Central,Melvin Marxen,4821.0,2403.58,GTX,United States,8801.0,4981.0,2941.3160432658715
+medical,MG Advanced,Isdom,Darcel Schlecht,Central,Melvin Marxen,3393.0,3178.24,MG,United States,4540.0,0.0,1876.0189983788623
+entertainment,GTX Pro,Massive Dynamic,Cassey Cress,East,Rocco Neubert,4821.0,665.06,GTX,United States,1095.0,0.0,2937.183654389203
+telecommunications,MG Advanced,Initech,Rosie Papadopoulos,East,Cara Losch,3393.0,6395.05,MG,United States,20275.0,0.0,2043.673721783972
+medical,GTX Plus Pro,Betasoloin,Wilburn Farren,East,Cara Losch,5482.0,251.40999999999985,GTX,United States,495.0,0.0,3187.9901683207636
+medical,GTX Plus Pro,Labdrill,Kary Hendrixson,West,Summer Sewald,5482.0,2741.37,GTX,United States,9226.0,0.0,3301.686190628522
+retail,GTX Basic,Cancity,Lajuana Vencill,Central,Dustin Brinkmann,550.0,718.6199999999999,GTX,United States,2448.0,648.0,412.72928520053233
+entertainment,GTX Plus Basic,Cheers,Hayden Neloms,West,Celia Rouche,1096.0,4269.9,GTX,United States,6472.0,1490.9155118462227,754.544444642209
+software,GTX Basic,Kan-code,Maureen Marcano,West,Summer Sewald,550.0,11698.03,GTX,United States,34288.0,0.0,561.9909633401604
+marketing,GTX Basic,Inity,Jonathan Berthelot,Central,Melvin Marxen,550.0,2403.58,GTX,United States,8801.0,504.0,447.95331182712107
+retail,MG Advanced,Yearin,Violet Mclelland,East,Cara Losch,3393.0,2261.05,MG,United States,3851.0,0.0,1967.3150348435172
+retail,MG Advanced,Sumace,Cassey Cress,East,Rocco Neubert,3393.0,167.88999999999987,MG,Romania,493.0,2871.0,2004.7836182709223
+telecommunications,MG Advanced,Gogozoom,Darcel Schlecht,Central,Melvin Marxen,3393.0,86.67999999999984,MG,United States,187.0,0.0,1963.1065774967797
+software,MG Advanced,Dalttechnology,Elease Gluck,West,Celia Rouche,3393.0,98.78999999999996,MG,United States,96.0,0.0,2025.0209860177597
+telecommunications,GTX Plus Basic,Treequote,Darcel Schlecht,Central,Melvin Marxen,1096.0,5266.09,GTX,United States,8595.0,0.0,728.8346662310131
+software,GTX Plus Basic,Dontechi,Jonathan Berthelot,Central,Melvin Marxen,1096.0,4618.0,GTX,United States,10083.0,0.0,749.3641197403497
+finance,MG Advanced,Finhigh,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,1102.43,MG,United States,1759.0000000000005,0.0,1902.29402341582
+retail,GTX Plus Pro,Zathunicon,Darcel Schlecht,Central,Melvin Marxen,5482.0,71.11999999999989,GTX,United States,144.0,1490.9155118462227,3195.2762910582614
+services,GTX Pro,Warephase,Darcel Schlecht,Central,Melvin Marxen,4821.0,2041.73,GTX,United States,5276.0,4575.0,2931.0363859330337
+finance,GTX Plus Pro,Funholding,Marty Freudenburg,Central,Melvin Marxen,5482.0,2819.5,GTX,United States,7227.0,5788.0,3149.3718132609324
+retail,GTX Plus Basic,Zathunicon,Wilburn Farren,East,Cara Losch,1096.0,71.11999999999989,GTX,United States,144.0,1144.0,849.1226986791158
+marketing,GTX Plus Pro,Goodsilron,James Ascencio,West,Summer Sewald,5482.0,2952.73,GTX,United States,5107.0,0.0,3213.1738337295574
+medical,GTX Pro,Ron-tech,Darcel Schlecht,Central,Melvin Marxen,4821.0,3922.42,GTX,United States,6837.0,0.0,2854.3109554103276
+marketing,MG Special,Inity,Rosie Papadopoulos,East,Cara Losch,55.0,2403.58,MG,United States,8801.0,1490.9155118462227,347.9615332519438
+finance,GTX Plus Pro,Vehement Capital Partners,Garret Kinder,East,Cara Losch,5482.0,646.0999999999999,GTX,United States,883.0,0.0,3196.3037145389344
+entertainment,GTX Basic,Cheers,Kami Bicknell,West,Summer Sewald,550.0,4269.9,GTX,United States,6472.0,0.0,402.4213126900795
+telecommunications,MG Special,Rantouch,Vicki Laflamme,West,Celia Rouche,55.0,1188.42,MG,United States,3015.0,64.0,395.27544307908533
+services,GTX Pro,Warephase,Darcel Schlecht,Central,Melvin Marxen,4821.0,2041.73,GTX,United States,5276.0,5033.0,2931.0363859330337
+retail,GTX Basic,Sumace,Cassey Cress,East,Rocco Neubert,550.0,167.88999999999987,GTX,Romania,493.0,629.0,475.4970338989856
+medical,GTX Plus Basic,Silis,Rosie Papadopoulos,East,Cara Losch,1096.0,2818.38,GTX,United States,6290.0,965.0,810.4899235726255
+telecommunications,GTX Basic,Initech,Darcel Schlecht,East,Rocco Neubert,550.0,6395.05,GTX,United States,20275.0,0.0,527.8168921456718
+services,GTX Basic,Newex,Kary Hendrixson,West,Summer Sewald,550.0,1012.72,GTX,Germany,3492.0,585.0,452.8392421485364
+medical,GTX Pro,Zumgoity,Darcel Schlecht,Central,Melvin Marxen,4821.0,441.0799999999999,GTX,United States,1210.0,4861.0,2932.6088230822497
+finance,MG Advanced,Xx-holding,Vicki Laflamme,West,Celia Rouche,3393.0,7537.24,MG,United States,20293.0,0.0,2029.795389042613
+marketing,MG Special,Sunnamplex,Markita Hansen,West,Celia Rouche,55.0,894.3699999999999,MG,Poland,1593.0,0.0,345.04508538612436
+marketing,GTX Plus Basic,Sunnamplex,Hayden Neloms,West,Celia Rouche,1096.0,894.3699999999999,GTX,Poland,1593.0,1170.0,848.6719062523921
+employment,MG Special,Y-corporation,Rosalina Dieter,West,Celia Rouche,55.0,2871.35,MG,United States,9561.0,0.0,394.1513046512755
+entertainment,GTX Plus Pro,Dalttechnology,Cecily Lampkin,Central,Dustin Brinkmann,5482.0,217.8699999999999,GTX,United States,551.0,0.0,3140.4076242857127
+finance,MG Special,Finhigh,Versie Hillebrand,Central,Dustin Brinkmann,55.0,1102.43,MG,United States,1759.0000000000005,60.0,245.88252470907764
+medical,GTX Plus Basic,Isdom,Violet Mclelland,East,Cara Losch,1096.0,3178.24,GTX,United States,4540.0,1490.9155118462227,755.2336873405467
+technolgy,MG Special,Rundofase,Versie Hillebrand,Central,Dustin Brinkmann,55.0,1008.06,MG,United States,1238.0,53.0,286.52728192242375
+medical,GTX Pro,Betatech,Darcel Schlecht,Central,Melvin Marxen,4821.0,647.1799999999998,GTX,Kenya,1185.0,0.0,2826.500541976742
+technolgy,MG Special,Doncon,Markita Hansen,West,Celia Rouche,55.0,587.72,MG,United States,1501.0,0.0,370.8575258484591
+technolgy,GTX Basic,Hottechi,Marty Freudenburg,Central,Melvin Marxen,550.0,8170.379999999999,GTX,Korea,16499.0,0.0,286.4853340930665
+retail,GTX Pro,Yearin,Daniell Hammack,East,Rocco Neubert,4821.0,2261.05,GTX,United States,3851.0,0.0,2944.212657763651
+medical,GTX Pro,Condax,Zane Levy,West,Summer Sewald,4821.0,4.539999999999964,GTX,United States,9.0,5644.0,3003.35269414739
+finance,GTX Pro,Stanredtax,Darcel Schlecht,Central,Melvin Marxen,4821.0,1698.1999999999998,GTX,United States,3798.0,3779.0,2899.719210191791
+technolgy,MG Special,Iselectrics,Violet Mclelland,East,Cara Losch,55.0,527.1099999999999,MG,United States,1428.0,48.0,337.43052619461355
+finance,MG Special,Stanredtax,Versie Hillebrand,Central,Dustin Brinkmann,55.0,1698.1999999999998,MG,United States,3798.0,43.0,272.7566964732039
+retail,MG Advanced,Ganjaflex,Cassey Cress,East,Rocco Neubert,3393.0,5158.71,MG,Japan,17479.0,2613.0,1968.8191467286706
+medical,GTX Plus Pro,Bioplex,Garret Kinder,East,Cara Losch,5482.0,326.82000000000016,GTX,United States,1016.0,0.0,3188.7037652875133
+employment,GTX Pro,Statholdings,Darcel Schlecht,Central,Melvin Marxen,4821.0,291.27,GTX,United States,586.0,5423.0,2902.5583773189674
+finance,MG Special,Umbrella Corporation,Corliss Cosme,East,Cara Losch,55.0,2022.14,MG,United States,5113.0,54.0,312.06218753890175
+employment,GTX Basic,Y-corporation,Kary Hendrixson,West,Summer Sewald,550.0,2871.35,GTX,United States,9561.0,628.0,544.1342963646223
+software,GTX Pro,Dontechi,Gladys Colclough,Central,Melvin Marxen,4821.0,4618.0,GTX,United States,10083.0,5142.0,2871.0911756901696
+entertainment,GTX Pro,Zoomit,Rosalina Dieter,West,Celia Rouche,4821.0,324.19000000000005,GTX,United States,978.0,4614.0,3004.36193994748
+retail,GTX Basic,Yearin,Darcel Schlecht,East,Rocco Neubert,550.0,2261.05,GTX,United States,3851.0,595.0,450.54578688474226
+medical,MG Advanced,Condax,Vicki Laflamme,West,Celia Rouche,3393.0,4.539999999999964,MG,United States,9.0,0.0,2018.8515852233008
+employment,GTX Basic,Y-corporation,Kary Hendrixson,West,Summer Sewald,550.0,2871.35,GTX,United States,9561.0,500.0,544.1342963646223
+telecommunications,GTX Plus Pro,Faxquote,James Ascencio,West,Summer Sewald,5482.0,1825.82,GTX,United States,5595.0,5625.0,3294.176808031124
+employment,MG Advanced,Y-corporation,Hayden Neloms,West,Celia Rouche,3393.0,2871.35,MG,United States,9561.0,0.0,2053.6041977595996
+finance,MG Special,Funholding,Versie Hillebrand,Central,Dustin Brinkmann,55.0,2819.5,MG,United States,7227.0,65.0,258.075770866747
+finance,GTX Basic,Vehement Capital Partners,Corliss Cosme,East,Cara Losch,550.0,646.0999999999999,GTX,United States,883.0,0.0,439.82401218521795
+finance,MG Advanced,Xx-holding,Kary Hendrixson,West,Summer Sewald,3393.0,7537.24,MG,United States,20293.0,1490.9155118462227,2045.0499804171986
+marketing,MG Special,Mathtouch,Violet Mclelland,East,Cara Losch,55.0,3027.46,MG,Jordan,9516.0,59.0,271.95189564632415
+telecommunications,GTX Plus Basic,Treequote,Moses Frase,Central,Dustin Brinkmann,1096.0,5266.09,GTX,United States,8595.0,1490.9155118462227,728.4425870891466
+finance,MG Advanced,Xx-holding,Elease Gluck,West,Celia Rouche,3393.0,7537.24,MG,United States,20293.0,0.0,2024.3208791197646
+technolgy,GTX Plus Basic,Conecom,Anna Snelling,Central,Dustin Brinkmann,1096.0,1520.66,GTX,United States,1806.0,1300.0,748.3411939265186
+entertainment,GTX Basic,Zoomit,Vicki Laflamme,West,Celia Rouche,550.0,324.19000000000005,GTX,United States,978.0,573.0,510.9992085087298
+services,GTX Pro,Hatfan,Kary Hendrixson,West,Summer Sewald,4821.0,792.46,GTX,United States,1299.0,0.0,3004.0651820832836
+entertainment,MG Special,Zoomit,Moses Frase,Central,Dustin Brinkmann,55.0,324.19000000000005,MG,United States,978.0,1490.9155118462227,291.1508941263496
+software,GTX Pro,Zotware,Cassey Cress,East,Rocco Neubert,4821.0,4478.47,GTX,United States,13809.0,1490.9155118462227,3015.736285314908
+retail,GTX Basic,Ganjaflex,Cassey Cress,East,Rocco Neubert,550.0,5158.71,GTX,Japan,17479.0,0.0,439.53256235673393
+medical,GTX Plus Pro,Ron-tech,Darcel Schlecht,Central,Melvin Marxen,5482.0,3922.42,GTX,United States,6837.0,5175.0,3114.994810804028
+telecommunications,MG Advanced,Gogozoom,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,86.67999999999984,MG,United States,187.0,0.0,1964.2351955557042
+marketing,GTX Plus Basic,Goodsilron,Vicki Laflamme,West,Celia Rouche,1096.0,2952.73,GTX,United States,5107.0,1176.0,815.5083310114513
+entertainment,MG Advanced,Xx-zobam,Wilburn Farren,East,Cara Losch,3393.0,3838.39,MG,United States,8274.0,3596.0,1949.2093061496698
+software,GTX Pro,Bubba Gump,Violet Mclelland,East,Cara Losch,4821.0,987.3899999999999,GTX,United States,2253.0,4634.0,2938.7226456457147
+finance,MG Special,Finhigh,Cecily Lampkin,Central,Dustin Brinkmann,55.0,1102.43,MG,United States,1759.0000000000005,60.0,239.19145702559672
+marketing,GTX Plus Pro,Donware,Daniell Hammack,East,Rocco Neubert,5482.0,1197.44,GTX,United States,2570.0,0.0,3194.2387634220427
+retail,GTX Plus Pro,Zathunicon,Daniell Hammack,East,Rocco Neubert,5482.0,71.11999999999989,GTX,United States,144.0,4848.0,3244.050946435798
+finance,MG Advanced,Funholding,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,2819.5,MG,United States,7227.0,3668.0,1914.4872695734891
+finance,MG Special,Opentech,Violet Mclelland,East,Cara Losch,55.0,355.23,MG,United States,853.0,0.0,315.0619981424127
+finance,GTX Basic,Umbrella Corporation,Reed Clapper,East,Rocco Neubert,550.0,2022.14,GTX,United States,5113.0,415.0,469.9528046963626
+technolgy,GTX Basic,Hottechi,Vicki Laflamme,West,Celia Rouche,550.0,8170.379999999999,GTX,Korea,16499.0,0.0,368.47591403339516
+software,MG Special,Scotfind,Anna Snelling,Central,Dustin Brinkmann,55.0,6354.87,MG,United States,16780.0,1490.9155118462227,285.7812847186269
+software,GTX Basic,Dontechi,Corliss Cosme,East,Cara Losch,550.0,4618.0,GTX,United States,10083.0,1490.9155118462227,405.4698588913634
+medical,GTX Basic,Bioholding,Moses Frase,Central,Dustin Brinkmann,550.0,587.3400000000001,GTX,Philipines,1356.0,547.0,370.61878013219143
+entertainment,GTX Plus Pro,Xx-zobam,Corliss Cosme,East,Cara Losch,5482.0,3838.39,GTX,United States,8274.0,4631.0,3167.58238036686
+telecommunications,MG Special,Gogozoom,Anna Snelling,Central,Dustin Brinkmann,55.0,86.67999999999984,MG,United States,187.0,54.0,293.5291431615253
+medical,GTX Basic,Condax,Moses Frase,Central,Dustin Brinkmann,550.0,4.539999999999964,GTX,United States,9.0,1490.9155118462227,403.5326684872705
+retail,GTX Basic,Cancity,Niesha Huffines,Central,Melvin Marxen,550.0,718.6199999999999,GTX,United States,2448.0,546.0,418.9000137054052
+technolgy,GTX Plus Basic,Hottechi,Marty Freudenburg,Central,Melvin Marxen,1096.0,8170.379999999999,GTX,Korea,16499.0,0.0,658.1210095819971
+medical,GTX Basic,Zumgoity,Gladys Colclough,Central,Melvin Marxen,550.0,441.0799999999999,GTX,United States,1210.0,640.0,439.55023108365776
+telecommunications,GTX Plus Pro,Sonron,Vicki Laflamme,West,Celia Rouche,5482.0,1699.85,GTX,United States,5108.0,4673.0,3298.2950764463185
+software,MG Special,Codehow,Jonathan Berthelot,Central,Melvin Marxen,55.0,2714.9,MG,United States,2641.0,0.0,205.6843387533895
+finance,GTX Plus Pro,Xx-holding,Vicki Laflamme,West,Celia Rouche,5482.0,7537.24,GTX,United States,20293.0,0.0,3255.467809823601
+medical,MG Special,Lexiqvolax,Markita Hansen,West,Celia Rouche,55.0,1618.89,MG,United States,3889.0,0.0,359.4651832125485
+medical,GTX Pro,Condax,Darcel Schlecht,Central,Melvin Marxen,4821.0,4.539999999999964,GTX,United States,9.0,1490.9155118462227,2898.1998973883615
+technolgy,MG Special,Rangreen,Cecily Lampkin,Central,Dustin Brinkmann,55.0,2938.67,MG,Panama,8775.0,0.0,280.7252248761413
+telecommunications,GTX Plus Basic,Initech,Daniell Hammack,East,Rocco Neubert,1096.0,6395.05,GTX,United States,20275.0,0.0,898.8442887542856
+marketing,GTX Plus Pro,Scottech,Cassey Cress,East,Rocco Neubert,5482.0,45.38999999999987,GTX,United States,100.0,1490.9155118462227,3225.4336189078626
+software,GTX Basic,Scotfind,Markita Hansen,West,Celia Rouche,550.0,6354.87,GTX,United States,16780.0,464.0,508.97513294274734
+services,GTX Plus Basic,Hatfan,Hayden Neloms,West,Celia Rouche,1096.0,792.46,GTX,United States,1299.0,881.0,861.6090248360298
+retail,MG Special,Blackzim,Markita Hansen,West,Celia Rouche,55.0,497.1100000000001,MG,United States,1588.0,0.0,358.0252860462517
+software,MG Advanced,Scotfind,Hayden Neloms,West,Celia Rouche,3393.0,6354.87,MG,United States,16780.0,2997.0,2036.4368806737348
+entertainment,GTX Basic,Zoomit,James Ascencio,West,Summer Sewald,550.0,324.19000000000005,GTX,United States,978.0,0.0,525.3413815628411
+marketing,GTX Basic,Goodsilron,Zane Levy,West,Summer Sewald,550.0,2952.73,GTX,United States,5107.0,1490.9155118462227,463.3851990593221
+technolgy,GTX Pro,Donquadtech,James Ascencio,West,Summer Sewald,4821.0,1712.68,GTX,United States,3194.0,1490.9155118462227,2993.214932760384
+software,GTX Basic,Kan-code,Darcel Schlecht,East,Rocco Neubert,550.0,11698.03,GTX,United States,34288.0,0.0,509.2624952405671
+retail,GTX Basic,Plexzap,Elease Gluck,West,Celia Rouche,550.0,2437.85,GTX,United States,4874.0,452.0,477.4449340504882
+marketing,GTX Pro,dambase,Darcel Schlecht,Central,Melvin Marxen,4821.0,2173.98,GTX,United States,2928.0,5113.0,2878.2623033631517
+retail,GTX Plus Pro,Genco Pura Olive Oil Company,Moses Frase,Central,Dustin Brinkmann,5482.0,894.3299999999999,GTX,Italy,1635.0,1490.9155118462227,3074.3667555515194
+technolgy,GTX Pro,Konex,Daniell Hammack,East,Rocco Neubert,4821.0,7708.379999999999,GTX,United States,13756.0,5676.0,2855.323952534947
+technolgy,MG Special,Bluth Company,Cassey Cress,East,Rocco Neubert,55.0,1242.32,MG,United States,3027.0,1490.9155118462227,326.7090198342055
+software,GTX Pro,Codehow,Darcel Schlecht,Central,Melvin Marxen,4821.0,2714.9,GTX,United States,2641.0,0.0,2831.646494449793
+retail,GTX Plus Basic,Plussunin,Cassey Cress,East,Rocco Neubert,1096.0,1419.98,GTX,United States,4018.0,1198.0,849.779570516801
+marketing,MG Special,Goodsilron,Elease Gluck,West,Celia Rouche,55.0,2952.73,MG,United States,5107.0,0.0,304.58216358138657
+retail,GTX Pro,Blackzim,Zane Levy,West,Summer Sewald,4821.0,497.1100000000001,GTX,United States,1588.0,5876.0,3008.366216321988
+telecommunications,MG Advanced,Faxquote,Niesha Huffines,Central,Melvin Marxen,3393.0,1825.82,MG,United States,5595.0,1490.9155118462227,1973.08405257617
+retail,GTX Plus Pro,Cancity,Moses Frase,Central,Dustin Brinkmann,5482.0,718.6199999999999,GTX,United States,2448.0,6102.0,3168.904848114091
+medical,GTX Basic,Bioholding,Kary Hendrixson,West,Summer Sewald,550.0,587.3400000000001,GTX,Philipines,1356.0,1490.9155118462227,471.9057038708713
+medical,MG Advanced,Betatech,Darcel Schlecht,Central,Melvin Marxen,3393.0,647.1799999999998,MG,Kenya,1185.0,3822.0,1861.5119765894538
+retail,GTX Plus Basic,Gekko & Co,Violet Mclelland,East,Cara Losch,1096.0,2520.83,GTX,United States,3502.0,1004.0,766.7947892904458
+retail,MG Special,Genco Pura Olive Oil Company,Darcel Schlecht,Central,Melvin Marxen,55.0,894.3299999999999,MG,Italy,1635.0,54.0,185.98384752217407
+software,GTX Basic,Dontechi,Anna Snelling,Central,Dustin Brinkmann,550.0,4618.0,GTX,United States,10083.0,0.0,369.1246002252806
+retail,GTX Pro,Sumace,Corliss Cosme,East,Cara Losch,4821.0,167.88999999999987,GTX,Romania,493.0,0.0,2951.7803373222005
+retail,MG Special,Blackzim,Rosalina Dieter,West,Celia Rouche,55.0,497.1100000000001,MG,United States,1588.0,51.0,359.85012268720106
+services,GTX Pro,Nam-zim,Zane Levy,West,Summer Sewald,4821.0,405.59000000000015,GTX,Brazil,1179.0,5185.0,2924.3467237566742
+telecommunications,GTX Plus Pro,Treequote,Marty Freudenburg,Central,Melvin Marxen,5482.0,5266.09,GTX,United States,8595.0,5516.0,3115.8076691769065
+finance,GTX Pro,Funholding,Jonathan Berthelot,Central,Melvin Marxen,4821.0,2819.5,GTX,United States,7227.0,5080.0,2887.167260666441
+retail,GTX Basic,Ganjaflex,Darcel Schlecht,East,Rocco Neubert,550.0,5158.71,GTX,Japan,17479.0,547.0,441.05325955752505
+retail,MG Special,Streethex,Anna Snelling,Central,Dustin Brinkmann,55.0,1376.8,MG,Belgium,1165.0,65.0,136.5185586136679
+technolgy,GTX Basic,Hottechi,Moses Frase,Central,Dustin Brinkmann,550.0,8170.379999999999,GTX,Korea,16499.0,537.0,282.44358166930147
+telecommunications,GTX Plus Pro,Sonron,Elease Gluck,West,Celia Rouche,5482.0,1699.85,GTX,United States,5108.0,0.0,3292.820566523471
+marketing,MG Special,Konmatfix,Versie Hillebrand,Central,Dustin Brinkmann,55.0,375.42999999999984,MG,United States,1190.0,1490.9155118462227,284.5416726442461
+marketing,GTX Basic,dambase,Moses Frase,Central,Dustin Brinkmann,550.0,2173.98,GTX,United States,2928.0,589.0,383.5950744620602
+technolgy,GTX Basic,Rangreen,Lajuana Vencill,Central,Dustin Brinkmann,550.0,2938.67,GTX,Panama,8775.0,492.0,418.49501961648457
+employment,MG Special,Y-corporation,Rosalina Dieter,West,Celia Rouche,55.0,2871.35,MG,United States,9561.0,0.0,394.1513046512755
+technolgy,MG Advanced,Donquadtech,Boris Faz,East,Rocco Neubert,3393.0,1712.68,MG,United States,3194.0,3677.0,1975.8020387136612
+medical,GTX Plus Pro,Bioholding,Anna Snelling,Central,Dustin Brinkmann,5482.0,587.3400000000001,GTX,Philipines,1356.0,6659.0,3119.4949964819525
+retail,GTX Pro,Plussunin,Rosie Papadopoulos,East,Cara Losch,4821.0,1419.98,GTX,United States,4018.0,4566.0,2960.50998725425
+marketing,GTX Plus Basic,Konmatfix,Darcel Schlecht,Central,Melvin Marxen,1096.0,375.42999999999984,GTX,United States,1190.0,1020.0,788.8647120925382
+marketing,GTX Basic,Donware,Reed Clapper,East,Rocco Neubert,550.0,1197.44,GTX,United States,2570.0,0.0,444.45012875180737
+telecommunications,GTX Basic,Faxquote,Kary Hendrixson,West,Summer Sewald,550.0,1825.82,GTX,United States,5595.0,0.0,540.1302211986731
+technolgy,GTX Plus Pro,Rangreen,Marty Freudenburg,Central,Melvin Marxen,5482.0,2938.67,GTX,Panama,8775.0,5916.0,3178.712334953808
+medical,GTX Plus Basic,Betatech,Darcel Schlecht,Central,Melvin Marxen,1096.0,647.1799999999998,GTX,Kenya,1185.0,1071.0,703.8610677064476
+software,MG Advanced,Codehow,Darcel Schlecht,Central,Melvin Marxen,3393.0,2714.9,MG,United States,2641.0,2969.0,1866.6579290625052
+technolgy,GTX Plus Pro,Konex,Vicki Laflamme,West,Celia Rouche,5482.0,7708.379999999999,GTX,United States,13756.0,5848.0,3152.873405773338
+retail,GTX Plus Basic,J-Texon,Kami Bicknell,West,Summer Sewald,1096.0,1388.67,GTX,United States,3583.0,1088.0,889.6507554077264
+retail,GTX Basic,Gekko & Co,Garret Kinder,East,Cara Losch,550.0,2520.83,GTX,United States,3502.0,607.0,389.6846038786673
+marketing,GTX Basic,dambase,Niesha Huffines,Central,Melvin Marxen,550.0,2173.98,GTX,United States,2928.0,0.0,388.54924520629993
+retail,GTX Basic,Genco Pura Olive Oil Company,Jonathan Berthelot,Central,Melvin Marxen,550.0,894.3299999999999,GTX,Italy,1635.0,577.0,321.928805621568
+telecommunications,GTX Plus Basic,Faxquote,Markita Hansen,West,Celia Rouche,1096.0,1825.82,GTX,United States,5595.0,0.0,893.7740503515936
+technolgy,GTX Plus Pro,Konex,Corliss Cosme,East,Cara Losch,5482.0,7708.379999999999,GTX,United States,13756.0,5159.0,3097.1035432721624
+technolgy,GTX Pro,Acme Corporation,Cassey Cress,East,Rocco Neubert,4821.0,1100.04,GTX,United States,2822.0,5318.0,2955.0090974865316
+medical,MG Special,Lexiqvolax,Markita Hansen,West,Celia Rouche,55.0,1618.89,MG,United States,3889.0,1490.9155118462227,359.4651832125485
+technolgy,GTX Basic,Acme Corporation,Violet Mclelland,East,Cara Losch,550.0,1100.04,GTX,United States,2822.0,0.0,449.73730851493565
+entertainment,GTX Basic,Massive Dynamic,Violet Mclelland,East,Cara Losch,550.0,665.06,GTX,United States,1095.0,533.0,431.9118654176075
+telecommunications,GTX Pro,Gogozoom,Darcel Schlecht,Central,Melvin Marxen,4821.0,86.67999999999984,GTX,United States,187.0,5647.0,2928.0951428840676
+employment,GTX Basic,Finjob,Maureen Marcano,West,Summer Sewald,550.0,2059.9,GTX,United States,3644.0,522.0,459.5247295673362
+retail,MG Advanced,Plexzap,Vicki Laflamme,West,Celia Rouche,3393.0,2437.85,MG,United States,4874.0,0.0,2012.206028345273
+retail,GTX Basic,Sumace,Darcel Schlecht,East,Rocco Neubert,550.0,167.88999999999987,GTX,Romania,493.0,0.0,477.0177310997767
+retail,MG Special,Kinnamplus,Wilburn Farren,East,Cara Losch,55.0,702.7199999999998,MG,United States,1831.0,52.0,324.2679495594616
+marketing,GTX Basic,Sunnamplex,Kami Bicknell,West,Summer Sewald,550.0,894.3699999999999,GTX,Poland,1593.0,501.0,496.5487743002626
+technolgy,GTX Plus Basic,Hottechi,Zane Levy,West,Summer Sewald,1096.0,8170.379999999999,GTX,Korea,16499.0,1149.0,759.6241330591267
+medical,GTX Plus Basic,Isdom,Lajuana Vencill,Central,Dustin Brinkmann,1096.0,3178.24,GTX,United States,4540.0,0.0,716.7594525933565
+telecommunications,GTX Basic,Gogozoom,Darcel Schlecht,Central,Melvin Marxen,550.0,86.67999999999984,GTX,United States,187.0,510.0,433.81999312484254
+telecommunications,GTX Pro,Treequote,Darcel Schlecht,Central,Melvin Marxen,4821.0,5266.09,GTX,United States,8595.0,4570.0,2851.4741405013074
+finance,MG Advanced,Stanredtax,Anna Snelling,Central,Dustin Brinkmann,3393.0,1698.1999999999998,MG,United States,3798.0,0.0,1928.2557768594716
+retail,MG Special,Streethex,Anna Snelling,Central,Dustin Brinkmann,55.0,1376.8,MG,Belgium,1165.0,53.0,136.5185586136679
+medical,GTX Plus Pro,Condax,Kary Hendrixson,West,Summer Sewald,5482.0,4.539999999999964,GTX,United States,9.0,4454.0,3259.778597378875
+marketing,GTX Plus Basic,Scottech,Niesha Huffines,Central,Melvin Marxen,1096.0,45.38999999999987,GTX,United States,100.0,1133.0,798.8101437891795
+software,MG Special,Scotfind,Elease Gluck,West,Celia Rouche,55.0,6354.87,MG,United States,16780.0,0.0,372.4218959630375
+marketing,MG Special,Donware,Garret Kinder,East,Cara Losch,55.0,1197.44,MG,United States,2570.0,55.0,288.0802087951379
+medical,MG Advanced,Condax,Gladys Colclough,Central,Melvin Marxen,3393.0,4.539999999999964,MG,United States,9.0,3139.0,1934.4278897617066
+employment,GTX Pro,Y-corporation,Kary Hendrixson,West,Summer Sewald,4821.0,2871.35,GTX,United States,9561.0,5539.0,3038.4094461238474
+retail,GTX Pro,Plussunin,Corliss Cosme,East,Cara Losch,4821.0,1419.98,GTX,United States,4018.0,0.0,2954.4271984510856
+finance,GTX Plus Pro,Umbrella Corporation,Cassey Cress,East,Rocco Neubert,5482.0,2022.14,GTX,United States,5113.0,4701.0,3218.8290210461228
+telecommunications,MG Advanced,Faxquote,Hayden Neloms,West,Celia Rouche,3393.0,1825.82,MG,United States,5595.0,3281.0,2049.6001225936507
+technolgy,GTX Basic,Zencorporation,Darcel Schlecht,East,Rocco Neubert,550.0,40.789999999999964,GTX,China,142.0,574.0,406.54950159799
+services,GTX Basic,Warephase,Darcel Schlecht,Central,Melvin Marxen,550.0,2041.73,GTX,United States,5276.0,561.0,436.76123617380836
+finance,MG Advanced,Funholding,Anna Snelling,Central,Dustin Brinkmann,3393.0,2819.5,MG,United States,7227.0,0.0,1913.5748512530145
+telecommunications,GTX Plus Pro,Initech,Rosie Papadopoulos,East,Cara Losch,5482.0,6395.05,GTX,United States,20275.0,0.0,3269.3461425649602
+marketing,GTX Pro,dambase,Niesha Huffines,Central,Melvin Marxen,4821.0,2173.98,GTX,United States,2928.0,0.0,2882.8243949655252
+software,GTX Plus Pro,Kan-code,James Ascencio,West,Summer Sewald,5482.0,11698.03,GTX,United States,34288.0,5284.0,3314.8209924119783
+technolgy,MG Advanced,Rangreen,Moses Frase,Central,Dustin Brinkmann,3393.0,2938.67,MG,Panama,8775.0,3679.0,1948.9981617490544
+technolgy,GTX Pro,Hottechi,Darcel Schlecht,Central,Melvin Marxen,4821.0,8170.379999999999,GTX,Korea,16499.0,0.0,2777.1108105703925
+software,GTX Basic,Dontechi,Cecily Lampkin,Central,Dustin Brinkmann,550.0,4618.0,GTX,United States,10083.0,541.0,370.03701854575525
+marketing,GTX Plus Basic,Donware,Vicki Laflamme,West,Celia Rouche,1096.0,1197.44,GTX,United States,2570.0,1490.9155118462227,847.781031602739
+finance,GTX Plus Basic,Xx-holding,Vicki Laflamme,West,Celia Rouche,1096.0,7537.24,GTX,United States,20293.0,0.0,872.1444801596064
+technolgy,GTX Plus Pro,Donquadtech,James Ascencio,West,Summer Sewald,5482.0,1712.68,GTX,United States,3194.0,1490.9155118462227,3253.8987881540843
+technolgy,GTX Plus Basic,Globex Corporation,Jonathan Berthelot,Central,Melvin Marxen,1096.0,1223.72,GTX,Norway,2497.0,1040.0,747.7285858901074
+technolgy,GTX Basic,Hottechi,Niesha Huffines,Central,Melvin Marxen,550.0,8170.379999999999,GTX,Korea,16499.0,531.0,287.3977524135414
+software,MG Special,Kan-code,Maureen Marcano,West,Summer Sewald,55.0,11698.03,MG,United States,34288.0,0.0,428.17498132187416
+medical,GTX Pro,Ron-tech,Darcel Schlecht,Central,Melvin Marxen,4821.0,3922.42,GTX,United States,6837.0,0.0,2854.3109554103276
+telecommunications,GTX Plus Pro,Faxquote,Vicki Laflamme,West,Celia Rouche,5482.0,1825.82,GTX,United States,5595.0,5624.0,3279.8346349770127
+software,GTX Plus Basic,Dontechi,Anna Snelling,Central,Dustin Brinkmann,1096.0,4618.0,GTX,United States,10083.0,0.0,740.7602757142113
+retail,GTX Pro,Genco Pura Olive Oil Company,Gladys Colclough,Central,Melvin Marxen,4821.0,894.3299999999999,GTX,Italy,1635.0,0.0,2815.2915370603187
+software,GTX Basic,Bubba Gump,Cassey Cress,East,Rocco Neubert,550.0,987.3899999999999,GTX,United States,2253.0,606.0,455.4441350988609
+software,MG Special,Bubba Gump,Cassey Cress,East,Rocco Neubert,55.0,987.3899999999999,MG,United States,2253.0,0.0,321.62815308057475
+retail,GTX Basic,Cancity,Marty Freudenburg,Central,Melvin Marxen,550.0,718.6199999999999,GTX,United States,2448.0,477.0,417.9875953849305
+marketing,GTX Basic,Konmatfix,Lajuana Vencill,Central,Dustin Brinkmann,550.0,375.42999999999984,GTX,United States,1190.0,537.0,415.62039970110845
+software,MG Advanced,Kan-code,Darcel Schlecht,East,Rocco Neubert,3393.0,11698.03,MG,United States,34288.0,0.0,2038.549079612504
+employment,MG Advanced,Ontomedia,Reed Clapper,East,Rocco Neubert,3393.0,882.1199999999999,MG,United States,2769.0,0.0,1993.057006955471
+technolgy,GTX Pro,Rangreen,Marty Freudenburg,Central,Melvin Marxen,4821.0,2938.67,GTX,Panama,8775.0,0.0,2918.0284795601074
+finance,GTX Plus Basic,Funholding,Niesha Huffines,Central,Melvin Marxen,1096.0,2819.5,GTX,United States,7227.0,1135.0,766.9609019174125
+finance,GTX Basic,Xx-holding,Rosalina Dieter,West,Celia Rouche,550.0,7537.24,GTX,United States,20293.0,501.0,499.5963863502012
+finance,GTX Plus Basic,Stanredtax,Niesha Huffines,Central,Melvin Marxen,1096.0,1698.1999999999998,GTX,United States,3798.0,1129.0,781.6418275238696
+technolgy,MG Advanced,Hottechi,Zane Levy,West,Summer Sewald,3393.0,8170.379999999999,MG,Korea,16499.0,0.0,1917.2750419421332
+retail,GTX Basic,Cancity,Jonathan Berthelot,Central,Melvin Marxen,550.0,718.6199999999999,GTX,United States,2448.0,504.0,416.4668981841394
+finance,MG Special,Golddex,Maureen Marcano,West,Summer Sewald,55.0,52.5,MG,United States,165.0,0.0,372.2268717755612
+medical,GTX Basic,Silis,Rosie Papadopoulos,East,Cara Losch,550.0,2818.38,GTX,United States,6290.0,574.0,438.8542480836952
+telecommunications,GTX Basic,Sonron,Kami Bicknell,West,Summer Sewald,550.0,1699.85,GTX,United States,5108.0,0.0,558.2865232278212
+services,GTX Plus Pro,Green-Plus,Vicki Laflamme,West,Celia Rouche,5482.0,692.19,GTX,United States,1922.0,5532.0,3263.164065262522
+entertainment,MG Advanced,Cheers,Kami Bicknell,West,Summer Sewald,3393.0,4269.9,MG,United States,6472.0,0.0,1931.7078970620164
+marketing,GTX Basic,dambase,Lajuana Vencill,Central,Dustin Brinkmann,550.0,2173.98,GTX,United States,2928.0,0.0,382.3785167014273
+marketing,MG Advanced,Donware,Reed Clapper,East,Rocco Neubert,3393.0,1197.44,MG,United States,2570.0,2984.0,1973.7367131237443
+retail,GTX Basic,Groovestreet,Vicki Laflamme,West,Celia Rouche,550.0,223.80000000000018,GTX,United States,299.0,0.0,498.98236126277584
+entertainment,MG Special,Xx-zobam,Violet Mclelland,East,Cara Losch,55.0,3838.39,MG,United States,8274.0,0.0,285.80260031928833
+retail,GTX Basic,Streethex,Gladys Colclough,Central,Melvin Marxen,550.0,1376.8,GTX,Belgium,1165.0,0.0,278.025966337618
+medical,GTX Plus Basic,Bioholding,Moses Frase,Central,Dustin Brinkmann,1096.0,587.3400000000001,GTX,Philipines,1356.0,1017.0,742.2544556211219
+entertainment,MG Special,Plusstrip,Vicki Laflamme,West,Celia Rouche,55.0,349.80999999999995,MG,United States,315.0,60.0,351.80706529999
+medical,GTK 500,Lexiqvolax,Elease Gluck,West,Celia Rouche,26768.0,1618.89,GTK,United States,3889.0,1490.9155118462227,14442.44313893791
+technolgy,GTX Basic,Rundofase,Jonathan Berthelot,Central,Melvin Marxen,550.0,1008.06,GTX,United States,1238.0,528.0,421.34362196289294
+medical,GTX Basic,Labdrill,Zane Levy,West,Summer Sewald,550.0,2741.37,GTX,United States,9226.0,518.0,550.9851376378117
+retail,GTX Basic,Fasehatice,Elease Gluck,West,Celia Rouche,550.0,4968.91,GTX,United States,7523.0,504.0,390.34647470949494
+entertainment,MG Special,Dalttechnology,Lajuana Vencill,Central,Dustin Brinkmann,55.0,217.8699999999999,MG,United States,551.0,56.0,255.58644983655813
+telecommunications,MG Special,Sonron,Elease Gluck,West,Celia Rouche,55.0,1699.85,MG,United States,5108.0,56.0,404.0455793522592
+technolgy,MG Special,Doncon,Zane Levy,West,Summer Sewald,55.0,587.72,MG,United States,1501.0,51.0,393.1073243466842
+medical,MG Advanced,Condax,Cassey Cress,East,Rocco Neubert,3393.0,4.539999999999964,MG,United States,9.0,0.0,1981.0735690581355
+software,GTX Basic,Scotfind,Zane Levy,West,Summer Sewald,550.0,6354.87,GTX,United States,16780.0,0.0,531.2249314409725
+technolgy,GTX Basic,Conecom,Anna Snelling,Central,Dustin Brinkmann,550.0,1520.66,GTX,United States,1806.0,522.0,376.7055184375881
+technolgy,GTX Plus Basic,Conecom,Anna Snelling,Central,Dustin Brinkmann,1096.0,1520.66,GTX,United States,1806.0,0.0,748.3411939265186
+retail,GTX Plus Basic,J-Texon,Maureen Marcano,West,Summer Sewald,1096.0,1388.67,GTX,United States,3583.0,0.0,891.1714526085175
+marketing,GTX Basic,Konmatfix,Versie Hillebrand,Central,Dustin Brinkmann,550.0,375.42999999999984,GTX,United States,1190.0,466.0,418.35765466253247
+marketing,GTX Basic,Konmatfix,Darcel Schlecht,Central,Melvin Marxen,550.0,375.42999999999984,GTX,United States,1190.0,1490.9155118462227,417.2290366036077
+entertainment,GTX Pro,Cheers,Vicki Laflamme,West,Celia Rouche,4821.0,4269.9,GTX,United States,6472.0,0.0,2881.7460105148766
+technolgy,GTX Basic,Konex,Vicki Laflamme,West,Celia Rouche,550.0,7708.379999999999,GTX,United States,13756.0,587.0,397.91440062041283
+marketing,GTX Basic,Goodsilron,Kami Bicknell,West,Summer Sewald,550.0,2952.73,GTX,United States,5107.0,519.0,458.8231074569485
+software,GTX Plus Pro,Codehow,Moses Frase,Central,Dustin Brinkmann,5482.0,2714.9,GTX,United States,2641.0,0.0,3091.938270701627
+technolgy,GTX Plus Basic,Donquadtech,Garret Kinder,East,Cara Losch,1096.0,1712.68,GTX,United States,3194.0,0.0,801.984120135594
+marketing,GTX Plus Basic,Scottech,Anna Snelling,Central,Dustin Brinkmann,1096.0,45.38999999999987,GTX,United States,100.0,918.0,787.7731842417751
+marketing,MG Special,dambase,Versie Hillebrand,Central,Dustin Brinkmann,55.0,2173.98,MG,United States,2928.0,53.0,251.29978964456495
+retail,MG Special,Cancity,Marty Freudenburg,Central,Melvin Marxen,55.0,718.6199999999999,MG,United States,2448.0,56.0,284.1716133666441
+software,GTX Plus Basic,Codehow,Lajuana Vencill,Central,Dustin Brinkmann,1096.0,2714.9,GTX,United States,2641.0,1060.0,707.3983832769995
+medical,MG Advanced,Zumgoity,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,441.0799999999999,MG,United States,1210.0,3669.0,1966.0116207924623
+entertainment,GTX Pro,Xx-zobam,Boris Faz,East,Rocco Neubert,4821.0,3838.39,GTX,United States,8274.0,4401.0,2924.5862318690115
+services,GTX Basic,Green-Plus,James Ascencio,West,Summer Sewald,550.0,692.19,GTX,United States,1922.0,0.0,522.5472331637083
+technolgy,GTX Basic,Konex,Garret Kinder,East,Cara Losch,550.0,7708.379999999999,GTX,United States,13756.0,469.0,343.6652353200284
+medical,GTX Plus Pro,Condax,Gladys Colclough,Central,Melvin Marxen,5482.0,4.539999999999964,GTX,United States,9.0,5138.0,3160.100310542695
+medical,GTX Basic,Lexiqvolax,Rosalina Dieter,West,Celia Rouche,550.0,1618.89,GTX,United States,3889.0,650.0,495.1060018717843
+employment,GTX Basic,Finjob,Zane Levy,West,Summer Sewald,550.0,2059.9,GTX,United States,3644.0,532.0,462.5661239689184
+finance,GTX Pro,Stanredtax,Darcel Schlecht,Central,Melvin Marxen,4821.0,1698.1999999999998,GTX,United States,3798.0,0.0,2899.719210191791
+services,GTX Plus Pro,Warephase,Anna Snelling,Central,Dustin Brinkmann,5482.0,2041.73,GTX,United States,5276.0,0.0,3185.2453733817024
+software,GTX Basic,Kan-code,Boris Faz,East,Rocco Neubert,550.0,11698.03,GTX,United States,34288.0,564.0,507.43765859961775
+retail,MG Special,Streethex,Versie Hillebrand,Central,Dustin Brinkmann,55.0,1376.8,MG,Belgium,1165.0,0.0,144.12204461762326
+retail,MG Advanced,Zathunicon,Darcel Schlecht,East,Rocco Neubert,3393.0,71.11999999999989,MG,United States,144.0,0.0,2018.9868045351259
+entertainment,MG Special,Zoomit,Anna Snelling,Central,Dustin Brinkmann,55.0,324.19000000000005,MG,United States,978.0,1490.9155118462227,285.06810532318514
+services,GTX Basic,Nam-zim,Kami Bicknell,West,Summer Sewald,550.0,405.59000000000015,GTX,Brazil,1179.0,0.0,425.5094823950765
+medical,GTX Basic,Bioplex,Cassey Cress,East,Rocco Neubert,550.0,326.82000000000016,GTX,United States,1016.0,572.0,450.2159092698073
+marketing,GTX Basic,Inity,Lajuana Vencill,Central,Dustin Brinkmann,550.0,2403.58,GTX,United States,8801.0,528.0,444.21569884351425
+software,GTX Plus Basic,Bubba Gump,Cassey Cress,East,Rocco Neubert,1096.0,987.3899999999999,GTX,United States,2253.0,1251.0,827.0798105877913
+services,GTX Basic,Green-Plus,Vicki Laflamme,West,Celia Rouche,550.0,692.19,GTX,United States,1922.0,0.0,508.20506010959696
+software,MG Advanced,Bubba Gump,Reed Clapper,East,Rocco Neubert,3393.0,987.3899999999999,MG,United States,2253.0,0.0,1990.8135082739623
+finance,MG Advanced,Umbrella Corporation,Moses Frase,Central,Dustin Brinkmann,3393.0,2022.14,MG,United States,5113.0,1490.9155118462227,1944.902284066207
+technolgy,MG Advanced,Rangreen,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,2938.67,MG,Panama,8775.0,0.0,1943.8277912663643
+technolgy,MG Special,Doncon,Elease Gluck,West,Celia Rouche,55.0,587.72,MG,United States,1501.0,41.0,368.1202708870351
+medical,GTX Basic,Isdom,Moses Frase,Central,Dustin Brinkmann,550.0,3178.24,GTX,United States,4540.0,588.0,346.34033486505905
+services,MG Advanced,Hatfan,Vicki Laflamme,West,Celia Rouche,3393.0,792.46,MG,United States,1299.0,0.0,2023.8220253214095
+retail,MG Special,Singletechno,Markita Hansen,West,Celia Rouche,55.0,2214.94,MG,United States,5374.0,0.0,369.3444439411694
+technolgy,MG Advanced,Hottechi,Hayden Neloms,West,Celia Rouche,3393.0,8170.379999999999,MG,Korea,16499.0,0.0,1893.2004068029585
+entertainment,GTX Basic,Cheers,Kami Bicknell,West,Summer Sewald,550.0,4269.9,GTX,United States,6472.0,563.0,402.4213126900795
+software,GTX Plus Basic,Dontechi,Kami Bicknell,West,Summer Sewald,1096.0,4618.0,GTX,United States,10083.0,1490.9155118462227,847.8258488158972
+medical,MG Advanced,Condax,Daniell Hammack,East,Rocco Neubert,3393.0,4.539999999999964,MG,United States,9.0,0.0,1981.9859873786102
+retail,GTX Pro,Ganjaflex,Boris Faz,East,Rocco Neubert,4821.0,5158.71,GTX,Japan,17479.0,5052.0,2933.5035726758006
+retail,MG Special,Blackzim,Markita Hansen,West,Celia Rouche,55.0,497.1100000000001,MG,United States,1588.0,0.0,358.0252860462517
+retail,GTX Plus Basic,Fasehatice,Maureen Marcano,West,Summer Sewald,1096.0,4968.91,GTX,United States,7523.0,0.0,783.9278092564925
+finance,GTX Pro,Umbrella Corporation,Vicki Laflamme,West,Celia Rouche,4821.0,2022.14,GTX,United States,5113.0,1490.9155118462227,2995.9231818175886
+software,GTX Basic,Kan-code,Markita Hansen,West,Celia Rouche,550.0,11698.03,GTX,United States,34288.0,560.0,542.7825592435175
+software,GTX Pro,Bubba Gump,Darcel Schlecht,East,Rocco Neubert,4821.0,987.3899999999999,GTX,United States,2253.0,4669.0,2951.239982058877
+services,GTX Plus Basic,Nam-zim,Kary Hendrixson,West,Summer Sewald,1096.0,405.59000000000015,GTX,Brazil,1179.0,1014.0,797.4492973241651
+retail,GTX Basic,Streethex,Marty Freudenburg,Central,Melvin Marxen,550.0,1376.8,GTX,Belgium,1165.0,661.0,280.4590818588838
+medical,GTX Pro,Condax,Darcel Schlecht,Central,Melvin Marxen,4821.0,4.539999999999964,GTX,United States,9.0,4598.0,2898.199897388362
+medical,GTX Pro,The New York Inquirer,Cassey Cress,East,Rocco Neubert,4821.0,439.21000000000026,GTX,United States,792.0,5857.0,2967.042059818489
+retail,GTX Pro,Ganjaflex,Darcel Schlecht,East,Rocco Neubert,4821.0,5158.71,GTX,Japan,17479.0,0.0,2935.3284093167495
+retail,MG Special,Groovestreet,Markita Hansen,West,Celia Rouche,55.0,223.80000000000018,MG,United States,299.0,45.0,362.42912428306545
+finance,GTX Pro,Funholding,Niesha Huffines,Central,Melvin Marxen,4821.0,2819.5,GTX,United States,7227.0,0.0,2889.600376187707
+services,GTX Plus Pro,Hatfan,Vicki Laflamme,West,Celia Rouche,5482.0,792.46,GTX,United States,1299.0,0.0,3249.494446102398
+retail,GTX Basic,Singletechno,Kary Hendrixson,West,Summer Sewald,550.0,2214.94,GTX,United States,5374.0,526.0,521.1522722954655
+employment,MG Advanced,Y-corporation,Kary Hendrixson,West,Summer Sewald,3393.0,2871.35,MG,United States,9561.0,3021.0,2073.4208807365594
+software,MG Special,Codehow,Anna Snelling,Central,Dustin Brinkmann,55.0,2714.9,MG,United States,2641.0,0.0,197.0804947272511
+entertainment,GTX Plus Basic,Plusstrip,Kami Bicknell,West,Summer Sewald,1096.0,349.80999999999995,GTX,United States,315.0,1082.0,872.2091747416343
+technolgy,MG Special,Conecom,Anna Snelling,Central,Dustin Brinkmann,55.0,1520.66,MG,United States,1806.0,1490.9155118462227,242.88953641930175
+technolgy,MG Advanced,Conecom,Darcel Schlecht,Central,Melvin Marxen,3393.0,1520.66,MG,United States,1806.0,0.0,1912.4669707545559
+medical,MG Special,Condax,Versie Hillebrand,Central,Dustin Brinkmann,55.0,4.539999999999964,MG,United States,9.0,55.0,271.2373836697752
+services,GTX Plus Basic,Newex,Hayden Neloms,West,Celia Rouche,1096.0,1012.72,GTX,Germany,3492.0,0.0,804.6582346605074
+technolgy,MG Special,Rangreen,Gladys Colclough,Central,Melvin Marxen,55.0,2938.67,MG,Panama,8775.0,52.0,287.5042322613301
+software,GTX Plus Pro,Scotfind,Anna Snelling,Central,Dustin Brinkmann,5482.0,6354.87,GTX,United States,16780.0,1490.9155118462227,3174.556271889838
+medical,MG Advanced,Condax,Cassey Cress,East,Rocco Neubert,3393.0,4.539999999999964,MG,United States,9.0,3908.0,1981.0735690581355
+medical,GTX Basic,Bioholding,Moses Frase,Central,Dustin Brinkmann,550.0,587.3400000000001,GTX,Philipines,1356.0,516.0,370.61878013219143
+technolgy,GTX Basic,Donquadtech,Corliss Cosme,East,Cara Losch,550.0,1712.68,GTX,United States,3194.0,1490.9155118462227,428.82774744587255
+technolgy,GTX Basic,Hottechi,Maureen Marcano,West,Summer Sewald,550.0,8170.379999999999,GTX,Korea,16499.0,0.0,384.94706316861425
+technolgy,GTX Basic,Rangreen,Anna Snelling,Central,Dustin Brinkmann,550.0,2938.67,GTX,Panama,8775.0,524.0,413.628788573953
+medical,GTX Plus Basic,Ron-tech,Marty Freudenburg,Central,Melvin Marxen,1096.0,3922.42,GTX,United States,6837.0,0.0,735.3211544219321
+technolgy,MG Advanced,Rundofase,Gladys Colclough,Central,Melvin Marxen,3393.0,1008.06,MG,United States,1238.0,0.0,1949.717788014355
+software,GTX Basic,Kan-code,Zane Levy,West,Summer Sewald,550.0,11698.03,GTX,United States,34288.0,0.0,565.0323577417427
+retail,GTX Basic,Groovestreet,Kami Bicknell,West,Summer Sewald,550.0,223.80000000000018,GTX,United States,299.0,441.0,513.9328131972034
+finance,MG Special,Finhigh,Marty Freudenburg,Central,Melvin Marxen,55.0,1102.43,MG,United States,1759.0000000000005,48.0,248.4035799320518
+medical,MG Special,Betatech,Versie Hillebrand,Central,Dustin Brinkmann,55.0,647.1799999999998,MG,Kenya,1185.0,50.0,199.53802825815524
+retail,GTX Plus Pro,Plexzap,Maureen Marcano,West,Summer Sewald,5482.0,2437.85,GTX,United States,4874.0,4519.0,3254.3495982614804
+retail,MG Advanced,Streethex,Moses Frase,Central,Dustin Brinkmann,3393.0,1376.8,MG,Belgium,1165.0,3161.0,1805.7039138070554
+retail,MG Advanced,Blackzim,Vicki Laflamme,West,Celia Rouche,3393.0,497.1100000000001,MG,United States,1588.0,3930.0,2023.865107397899
+employment,MG Advanced,Statholdings,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,291.27,MG,United States,586.0,2749.0,1938.698429990604
+medical,GTX Plus Basic,Isdom,Darcel Schlecht,Central,Melvin Marxen,1096.0,3178.24,GTX,United States,4540.0,0.0,718.3680894958559
+employment,GTX Basic,Y-corporation,Vicki Laflamme,West,Celia Rouche,550.0,2871.35,GTX,United States,9561.0,0.0,528.8797049900365
+technolgy,GTX Plus Basic,Iselectrics,Boris Faz,East,Rocco Neubert,1096.0,527.1099999999999,GTX,United States,1428.0,0.0,853.5746834740427
+technolgy,MG Advanced,Rangreen,Niesha Huffines,Central,Melvin Marxen,3393.0,2938.67,MG,Panama,8775.0,3696.0,1953.952332493294
+medical,GTX Plus Basic,Ron-tech,Anna Snelling,Central,Dustin Brinkmann,1096.0,3922.42,GTX,United States,6837.0,0.0,725.1966131950024
+retail,GTX Plus Basic,Streethex,Anna Snelling,Central,Dustin Brinkmann,1096.0,1376.8,GTX,Belgium,1165.0,0.0,641.9702161208846
+entertainment,GTX Plus Pro,Plusstrip,James Ascencio,West,Summer Sewald,5482.0,349.80999999999995,GTX,United States,315.0,5533.0,3254.924225525313
+employment,GTX Basic,Finjob,Kary Hendrixson,West,Summer Sewald,550.0,2059.9,GTX,United States,3644.0,0.0,458.3081718067033
+medical,GTX Basic,Bioplex,Violet Mclelland,East,Cara Losch,550.0,326.82000000000016,GTX,United States,1016.0,491.0,439.21927005743646
+retail,MG Special,Ganjaflex,Darcel Schlecht,East,Rocco Neubert,55.0,5158.71,MG,Japan,17479.0,49.0,307.23727753923845
+medical,GTX Plus Basic,Bioholding,Marty Freudenburg,Central,Melvin Marxen,1096.0,587.3400000000001,GTX,Philipines,1356.0,0.0,746.2962080448874
+services,GTX Basic,Green-Plus,Elease Gluck,West,Celia Rouche,550.0,692.19,GTX,United States,1922.0,0.0,502.7305501867489
+finance,GTX Pro,Stanredtax,Darcel Schlecht,Central,Melvin Marxen,4821.0,1698.1999999999998,GTX,United States,3798.0,4699.0,2899.719210191791
+retail,MG Special,Blackzim,Hayden Neloms,West,Celia Rouche,55.0,497.1100000000001,MG,United States,1588.0,58.0,356.2004494053024
+telecommunications,GTX Plus Basic,Sonron,Kary Hendrixson,West,Summer Sewald,1096.0,1699.85,GTX,United States,5108.0,997.0,930.2263381569101
+services,GTX Basic,Nam-zim,Kary Hendrixson,West,Summer Sewald,550.0,405.59000000000015,GTX,Brazil,1179.0,616.0,425.81362183523447
+technolgy,MG Advanced,Konex,Darcel Schlecht,East,Rocco Neubert,3393.0,7708.379999999999,MG,United States,13756.0,3557.0,1890.9436660279753
+finance,GTX Plus Pro,Vehement Capital Partners,Reed Clapper,East,Rocco Neubert,5482.0,646.0999999999999,GTX,United States,883.0,0.0,3218.857652477318
+finance,GTX Basic,Funholding,Darcel Schlecht,Central,Melvin Marxen,550.0,2819.5,GTX,United States,7227.0,549.0,390.7631348261084
+medical,GTX Pro,Ron-tech,Darcel Schlecht,Central,Melvin Marxen,4821.0,3922.42,GTX,United States,6837.0,0.0,2854.3109554103276
+finance,GTX Pro,Umbrella Corporation,Daniell Hammack,East,Rocco Neubert,4821.0,2022.14,GTX,United States,5113.0,4799.0,2959.057583972897
+retail,GTX Plus Basic,Zathunicon,Reed Clapper,East,Rocco Neubert,1096.0,71.11999999999989,GTX,United States,144.0,1029.0,865.8979872544929
+technolgy,MG Advanced,Bluth Company,Rosie Papadopoulos,East,Cara Losch,3393.0,1242.32,MG,United States,3027.0,0.0,1977.9025286915833
+technolgy,GTX Pro,Konex,Corliss Cosme,East,Cara Losch,4821.0,7708.379999999999,GTX,United States,13756.0,4492.0,2836.4196878784624
+services,MG Advanced,Nam-zim,Kary Hendrixson,West,Summer Sewald,3393.0,405.59000000000015,MG,Brazil,1179.0,0.0,1955.1002062071714
+medical,GTX Plus Pro,Bioholding,Darcel Schlecht,Central,Melvin Marxen,5482.0,587.3400000000001,GTX,Philipines,1356.0,5798.0,3125.969864426983
+entertainment,MG Special,Massive Dynamic,Wilburn Farren,East,Cara Losch,55.0,665.06,MG,United States,1095.0,0.0,298.40002283947956
+entertainment,MG Special,Dalttechnology,Versie Hillebrand,Central,Dustin Brinkmann,55.0,217.8699999999999,MG,United States,551.0,61.0,258.32370479798215
+medical,GTX Pro,Condax,Cassey Cress,East,Rocco Neubert,4821.0,4.539999999999964,GTX,United States,9.0,5113.0,2946.0621344454235
+entertainment,GTX Pro,Massive Dynamic,Rosie Papadopoulos,East,Cara Losch,4821.0,665.06,GTX,United States,1095.0,4829.0,2925.2745968563577
+entertainment,GTX Pro,Xx-zobam,Cassey Cress,East,Rocco Neubert,4821.0,3838.39,GTX,United States,8274.0,0.0,2924.89037130917
+technolgy,GTX Basic,Zencorporation,Boris Faz,East,Rocco Neubert,550.0,40.789999999999964,GTX,China,142.0,560.0,404.72466495704043
+software,MG Advanced,Kan-code,Kami Bicknell,West,Summer Sewald,3393.0,11698.03,MG,United States,34288.0,3290.0,2089.7568505113063
+retail,GTX Plus Basic,Fasehatice,Vicki Laflamme,West,Celia Rouche,1096.0,4968.91,GTX,United States,7523.0,1273.0,767.4566601212737
+finance,GTX Pro,Xx-holding,Maureen Marcano,West,Summer Sewald,4821.0,7537.24,GTX,United States,20293.0,4320.0,3011.2551035651195
+telecommunications,GTX Plus Pro,Treequote,Marty Freudenburg,Central,Melvin Marxen,5482.0,5266.09,GTX,United States,8595.0,5280.0,3115.8076691769065
+finance,GTX Plus Pro,Funholding,Hayden Neloms,West,Celia Rouche,5482.0,2819.5,GTX,United States,7227.0,1490.9155118462227,3226.800301598888
+employment,GTX Pro,Ontomedia,Daniell Hammack,East,Rocco Neubert,4821.0,882.1199999999999,GTX,United States,2769.0,4935.0,2952.875201860069
+finance,MG Special,Golddex,Vicki Laflamme,West,Celia Rouche,55.0,52.5,MG,United States,165.0,57.0,355.75572264034236
+retail,GTX Plus Basic,Zathunicon,Corliss Cosme,East,Cara Losch,1096.0,71.11999999999989,GTX,United States,144.0,0.0,841.8233521153184
+technolgy,GTX Pro,Rundofase,Gladys Colclough,Central,Melvin Marxen,4821.0,1008.06,GTX,United States,1238.0,0.0,2914.7063534016434
+medical,GTX Pro,Condax,Gladys Colclough,Central,Melvin Marxen,4821.0,4.539999999999964,GTX,United States,9.0,0.0,2899.416455148995
+medical,GTX Pro,Ron-tech,Darcel Schlecht,Central,Melvin Marxen,4821.0,3922.42,GTX,United States,6837.0,1490.9155118462227,2854.3109554103276
+technolgy,GTX Plus Basic,Acme Corporation,Cassey Cress,East,Rocco Neubert,1096.0,1100.04,GTX,United States,2822.0,1096.0,832.3696232162367
+retail,MG Special,Fasehatice,Elease Gluck,West,Celia Rouche,55.0,4968.91,MG,United States,7523.0,0.0,256.5304926912088
+telecommunications,GTX Plus Pro,Faxquote,Kary Hendrixson,West,Summer Sewald,5482.0,1825.82,GTX,United States,5595.0,5312.0,3295.0892263515984
+telecommunications,GTX Basic,Rantouch,Maureen Marcano,West,Summer Sewald,550.0,1188.42,GTX,United States,3015.0,0.0,545.5625742325905
+technolgy,MG Special,Konex,Vicki Laflamme,West,Celia Rouche,55.0,7708.379999999999,MG,United States,13756.0,0.0,264.09841860212646
+medical,GTX Plus Basic,Ron-tech,Darcel Schlecht,Central,Melvin Marxen,1096.0,3922.42,GTX,United States,6837.0,0.0,731.6714811400334
+technolgy,GTX Plus Pro,Rangreen,Lajuana Vencill,Central,Dustin Brinkmann,5482.0,2938.67,GTX,Panama,8775.0,5827.0,3173.4540247694094
+retail,GTX Plus Pro,Toughzap,Moses Frase,Central,Dustin Brinkmann,5482.0,332.42999999999984,GTX,United States,799.0,6805.0,3189.391913189799
+finance,GTX Pro,Golddex,Vicki Laflamme,West,Celia Rouche,4821.0,52.5,GTX,United States,165.0,4573.0,2983.846854417853
+retail,GTX Plus Pro,Genco Pura Olive Oil Company,Anna Snelling,Central,Dustin Brinkmann,5482.0,894.3299999999999,GTX,Italy,1635.0,6064.0,3068.283966748355
+technolgy,GTX Basic,Rangreen,Lajuana Vencill,Central,Dustin Brinkmann,550.0,2938.67,GTX,Panama,8775.0,550.0,418.49501961648457
+telecommunications,GTX Basic,Rantouch,Zane Levy,West,Summer Sewald,550.0,1188.42,GTX,United States,3015.0,464.0,548.6039686341727
+technolgy,MG Advanced,Iselectrics,Wilburn Farren,East,Cara Losch,3393.0,527.1099999999999,MG,United States,1428.0,3783.0,2000.8372320249948
+finance,MG Special,Golddex,Anna Snelling,Central,Dustin Brinkmann,55.0,52.5,MG,United States,165.0,1490.9155118462227,263.64060147308396
+employment,GTX Plus Pro,Ontomedia,Cassey Cress,East,Rocco Neubert,5482.0,882.1199999999999,GTX,United States,2769.0,5026.0,3212.6466389332945
+entertainment,GTX Plus Pro,Massive Dynamic,Darcel Schlecht,East,Rocco Neubert,5482.0,665.06,GTX,United States,1095.0,0.0,3199.3882069836945
+finance,GTX Plus Pro,Opentech,Kary Hendrixson,West,Summer Sewald,5482.0,355.23,GTX,United States,853.0,1490.9155118462227,3267.8662320657463
+medical,MG Advanced,Bioholding,Moses Frase,Central,Dustin Brinkmann,3393.0,587.3400000000001,MG,Philipines,1356.0,3985.0,1899.9053645041286
+technolgy,GTX Pro,Konex,Kary Hendrixson,West,Summer Sewald,4821.0,7708.379999999999,GTX,United States,13756.0,0.0,2907.4441417542234
+finance,GTX Plus Basic,Stanredtax,Boris Faz,East,Rocco Neubert,1096.0,1698.1999999999998,GTX,United States,3798.0,1490.9155118462227,824.6378335383996
+medical,GTX Plus Pro,Zumgoity,Versie Hillebrand,Central,Dustin Brinkmann,5482.0,441.0799999999999,GTX,United States,1210.0,5558.0,3194.4212965348747
+marketing,GTX Pro,Goodsilron,Zane Levy,West,Summer Sewald,4821.0,2952.73,GTX,United States,5107.0,0.0,2957.6603488185465
+retail,GTX Basic,Yearin,Rosie Papadopoulos,East,Cara Losch,550.0,2261.05,GTX,United States,3851.0,472.0,437.1160321511056
+telecommunications,GTX Basic,Sonron,Vicki Laflamme,West,Celia Rouche,550.0,1699.85,GTX,United States,5108.0,579.0,543.3360712933935
+marketing,GTX Plus Basic,Goodsilron,Markita Hansen,West,Celia Rouche,1096.0,2952.73,GTX,United States,5107.0,1017.0,812.7710760500273
+software,MG Special,Kan-code,Daniell Hammack,East,Rocco Neubert,55.0,11698.03,MG,United States,34288.0,62.0,374.8382343419646
+finance,MG Advanced,Umbrella Corporation,Cassey Cress,East,Rocco Neubert,3393.0,2022.14,MG,United States,5113.0,3399.0,1993.156600265135
+medical,GTX Pro,Betatech,Darcel Schlecht,Central,Melvin Marxen,4821.0,647.1799999999998,GTX,Kenya,1185.0,0.0,2826.500541976742
+retail,MG Special,Fasehatice,Rosalina Dieter,West,Celia Rouche,55.0,4968.91,MG,United States,7523.0,0.0,261.09258429358215
+medical,GTX Plus Pro,Lexiqvolax,Kary Hendrixson,West,Summer Sewald,5482.0,1618.89,GTX,United States,3889.0,6299.0,3266.23201671977
+employment,GTX Plus Basic,Y-corporation,Cassey Cress,East,Rocco Neubert,1096.0,2871.35,GTX,United States,9561.0,1490.9155118462227,862.7373643138014
+software,MG Advanced,Kan-code,Reed Clapper,East,Rocco Neubert,3393.0,11698.03,MG,United States,34288.0,3558.0,2043.1111712148775
+marketing,GTX Plus Basic,Goodsilron,Kary Hendrixson,West,Summer Sewald,1096.0,2952.73,GTX,United States,5107.0,1077.0,830.7629223860373
+employment,GTX Basic,Y-corporation,Vicki Laflamme,West,Celia Rouche,550.0,2871.35,GTX,United States,9561.0,430.0,528.8797049900365
+finance,MG Special,Golddex,James Ascencio,West,Summer Sewald,55.0,52.5,MG,United States,165.0,49.0,370.09789569445365
+marketing,GTX Basic,Mathtouch,Reed Clapper,East,Rocco Neubert,550.0,3027.46,GTX,Jordan,9516.0,0.0,422.8473056801456
+software,GTX Pro,Kan-code,Maureen Marcano,West,Summer Sewald,4821.0,11698.03,GTX,United States,34288.0,3854.0,3056.2661130993856
+software,MG Advanced,Codehow,James Ascencio,West,Summer Sewald,3393.0,2714.9,MG,United States,2641.0,1490.9155118462227,1966.6403553388438
+finance,GTX Plus Basic,Umbrella Corporation,Cassey Cress,East,Rocco Neubert,1096.0,2022.14,GTX,United States,5113.0,1490.9155118462227,835.5056913821285
+retail,MG Special,Singletechno,James Ascencio,West,Summer Sewald,55.0,2214.94,MG,United States,5374.0,65.0,386.4238719567047
+medical,GTX Basic,Condax,Darcel Schlecht,East,Rocco Neubert,550.0,4.539999999999964,GTX,United States,9.0,564.0,453.3076818869897
+technolgy,GTX Plus Basic,Bluth Company,Cassey Cress,East,Rocco Neubert,1096.0,1242.32,GTX,United States,3027.0,1490.9155118462227,832.1606773414222
+entertainment,MG Advanced,Xx-zobam,Garret Kinder,East,Cara Losch,3393.0,3838.39,MG,United States,8274.0,4291.0,1943.4306567866633
+technolgy,MG Special,Donquadtech,Reed Clapper,East,Rocco Neubert,55.0,1712.68,MG,United States,3194.0,56.0,319.08640056676086
+technolgy,GTX Basic,Konex,Kary Hendrixson,West,Summer Sewald,550.0,7708.379999999999,GTX,United States,13756.0,442.0,413.1689919949988
+marketing,MG Special,Goodsilron,James Ascencio,West,Summer Sewald,55.0,2952.73,MG,United States,5107.0,54.0,324.3988465583459
+technolgy,GTX Basic,Rundofase,Darcel Schlecht,Central,Melvin Marxen,550.0,1008.06,GTX,United States,1238.0,0.0,419.2146458817854
+entertainment,MG Advanced,Cheers,Zane Levy,West,Summer Sewald,3393.0,4269.9,MG,United States,6472.0,3314.0,1936.2699886643898
+software,GTX Basic,Kan-code,Vicki Laflamme,West,Celia Rouche,550.0,11698.03,GTX,United States,34288.0,0.0,545.5198142049418
+services,GTX Pro,Green-Plus,Kami Bicknell,West,Summer Sewald,4821.0,692.19,GTX,United States,1922.0,4899.0,3017.4306618032497
+retail,GTX Basic,Genco Pura Olive Oil Company,Niesha Huffines,Central,Melvin Marxen,550.0,894.3299999999999,GTX,Italy,1635.0,554.0,324.3619211428338
+services,GTX Plus Basic,Green-Plus,Kary Hendrixson,West,Summer Sewald,1096.0,692.19,GTX,United States,1922.0,0.0,895.0953269731135
+technolgy,GTX Pro,Bluth Company,Boris Faz,East,Rocco Neubert,4821.0,1242.32,GTX,United States,3027.0,4096.0,2954.4960121715585
+marketing,MG Advanced,Inity,Moses Frase,Central,Dustin Brinkmann,3393.0,2403.58,MG,United States,8801.0,0.0,1974.718840976084
+software,GTX Pro,Dalttechnology,Vicki Laflamme,West,Celia Rouche,4821.0,98.78999999999996,GTX,United States,96.0,4899.0,2995.4840613278957
+employment,GTX Basic,Finjob,Kary Hendrixson,West,Summer Sewald,550.0,2059.9,GTX,United States,3644.0,468.0,458.3081718067033
+retail,GTX Basic,Singletechno,Kami Bicknell,West,Summer Sewald,550.0,2214.94,GTX,United States,5374.0,518.0,520.8481328553073
+services,GTX Plus Pro,Warephase,Darcel Schlecht,Central,Melvin Marxen,5482.0,2041.73,GTX,United States,5276.0,6276.0,3191.7202413267337
+retail,MG Special,Blackzim,Kami Bicknell,West,Summer Sewald,55.0,497.1100000000001,MG,United States,1588.0,0.0,375.71299294210326
+software,MG Special,Bubba Gump,Rosie Papadopoulos,East,Cara Losch,55.0,987.3899999999999,MG,United States,2253.0,53.0,309.71909554772924
+telecommunications,GTX Pro,Rantouch,Zane Levy,West,Summer Sewald,4821.0,1188.42,GTX,United States,3015.0,0.0,3042.879118393397
+marketing,GTX Plus Basic,dambase,Anna Snelling,Central,Dustin Brinkmann,1096.0,2173.98,GTX,United States,2928.0,1041.0,749.1479611478263
+finance,MG Advanced,Finhigh,Darcel Schlecht,Central,Melvin Marxen,3393.0,1102.43,MG,United States,1759.0000000000005,3269.0,1907.8564730403762
+finance,MG Special,Xx-holding,Hayden Neloms,West,Celia Rouche,55.0,7537.24,MG,United States,20293.0,0.0,362.13073105001627
+finance,GTX Plus Basic,Funholding,Jonathan Berthelot,Central,Melvin Marxen,1096.0,2819.5,GTX,United States,7227.0,0.0,764.5277863961467
+entertainment,GTX Pro,Cheers,Zane Levy,West,Summer Sewald,4821.0,4269.9,GTX,United States,6472.0,0.0,2901.2585540516775
+telecommunications,GTX Basic,Treequote,Niesha Huffines,Central,Melvin Marxen,550.0,5266.09,GTX,United States,8595.0,568.0,361.7610823444559
+medical,GTX Basic,Labdrill,Kary Hendrixson,West,Summer Sewald,550.0,2741.37,GTX,United States,9226.0,1490.9155118462227,546.7271854755966
+marketing,GTX Plus Pro,Donware,Daniell Hammack,East,Rocco Neubert,5482.0,1197.44,GTX,United States,2570.0,0.0,3194.2387634220427
+software,MG Special,Dalttechnology,Hayden Neloms,West,Celia Rouche,55.0,98.78999999999996,MG,United States,96.0,59.0,362.8308379480113
+technolgy,GTX Pro,Hottechi,Darcel Schlecht,Central,Melvin Marxen,4821.0,8170.379999999999,GTX,Korea,16499.0,4346.0,2777.1108105703925
+finance,MG Advanced,Xx-holding,Kami Bicknell,West,Summer Sewald,3393.0,7537.24,MG,United States,20293.0,3517.0,2044.7458409770404
+technolgy,MG Advanced,Rundofase,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,1008.06,MG,United States,1238.0,3558.0,1942.9387806291659
+medical,GTX Basic,Bioholding,Moses Frase,Central,Dustin Brinkmann,550.0,587.3400000000001,GTX,Philipines,1356.0,0.0,370.61878013219143
+services,GTX Plus Pro,Hatfan,Zane Levy,West,Summer Sewald,5482.0,792.46,GTX,United States,1299.0,6499.0,3269.0069896391988
+software,GTX Basic,Codehow,Moses Frase,Central,Dustin Brinkmann,550.0,2714.9,GTX,United States,2641.0,546.0,336.97926554870196
+finance,GTX Plus Basic,Finhigh,Jonathan Berthelot,Central,Melvin Marxen,1096.0,1102.43,GTX,United States,1759.0000000000005,0.0,752.3345402384774
+services,GTX Pro,Green-Plus,Maureen Marcano,West,Summer Sewald,4821.0,692.19,GTX,United States,1922.0,4071.0,3018.9513590040406
+software,GTX Basic,Kan-code,Cassey Cress,East,Rocco Neubert,550.0,11698.03,GTX,United States,34288.0,585.0,507.741798039776
+telecommunications,GTX Pro,Faxquote,Vicki Laflamme,West,Celia Rouche,4821.0,1825.82,GTX,United States,5595.0,0.0,3019.150779583312
+retail,GTX Pro,Streethex,Darcel Schlecht,Central,Melvin Marxen,4821.0,1376.8,GTX,Belgium,1165.0,4162.0,2771.0845583362097
+finance,GTX Pro,Umbrella Corporation,Wilburn Farren,East,Cara Losch,4821.0,2022.14,GTX,United States,5113.0,5077.0,2947.45266588021
+technolgy,GTX Pro,Doncon,Zane Levy,West,Summer Sewald,4821.0,587.72,GTX,United States,1501.0,5283.0,3021.198456124195
+retail,GTX Plus Basic,Streethex,Boris Faz,East,Rocco Neubert,1096.0,1376.8,GTX,Belgium,1165.0,1490.9155118462227,696.003181682819
+software,GTX Plus Basic,Codehow,Marty Freudenburg,Central,Melvin Marxen,1096.0,2714.9,GTX,United States,2641.0,1108.0,712.6566934613975
+telecommunications,MG Advanced,Initech,Wilburn Farren,East,Cara Losch,3393.0,6395.05,MG,United States,20275.0,0.0,2044.890279544605
+software,GTX Pro,Dontechi,Gladys Colclough,Central,Melvin Marxen,4821.0,4618.0,GTX,United States,10083.0,0.0,2871.0911756901696
+entertainment,MG Advanced,Dalttechnology,Darcel Schlecht,Central,Melvin Marxen,3393.0,217.8699999999999,MG,United States,551.0,2572.0,1920.2976531292804
+telecommunications,GTX Plus Basic,Initech,James Ascencio,West,Summer Sewald,1096.0,6395.05,GTX,United States,20275.0,1490.9155118462227,950.0520596530878
+finance,GTX Pro,Funholding,Darcel Schlecht,Central,Melvin Marxen,4821.0,2819.5,GTX,United States,7227.0,5030.0,2885.0382845853333
+retail,GTX Plus Basic,Singletechno,Maureen Marcano,West,Summer Sewald,1096.0,2214.94,GTX,United States,5374.0,1075.0,894.0045055450289
+software,GTX Basic,Kan-code,Boris Faz,East,Rocco Neubert,550.0,11698.03,GTX,United States,34288.0,0.0,507.43765859961775
+technolgy,MG Special,Konex,Vicki Laflamme,West,Celia Rouche,55.0,7708.379999999999,MG,United States,13756.0,61.0,264.09841860212646
+retail,GTX Basic,Kinnamplus,Boris Faz,East,Rocco Neubert,550.0,702.7199999999998,GTX,United States,1831.0,1490.9155118462227,468.4722919098019
+marketing,GTX Basic,dambase,Lajuana Vencill,Central,Dustin Brinkmann,550.0,2173.98,GTX,United States,2928.0,545.0,382.3785167014273
+retail,GTX Pro,Sumace,Cassey Cress,East,Rocco Neubert,4821.0,167.88999999999987,GTX,Romania,493.0,4839.0,2969.7721836582105
+medical,MG Advanced,Ron-tech,Gladys Colclough,Central,Melvin Marxen,3393.0,3922.42,MG,United States,6837.0,1490.9155118462227,1890.5389477836727
+telecommunications,MG Special,Faxquote,Marty Freudenburg,Central,Melvin Marxen,55.0,1825.82,MG,United States,5595.0,1490.9155118462227,309.06906786547233
+retail,GTX Plus Basic,Plussunin,Cassey Cress,East,Rocco Neubert,1096.0,1419.98,GTX,United States,4018.0,1202.0,849.779570516801
+medical,MG Advanced,Ron-tech,Moses Frase,Central,Dustin Brinkmann,3393.0,3922.42,MG,United States,6837.0,3971.0,1888.9303108811735
+entertainment,GTX Basic,Cheers,Jonathan Berthelot,Central,Melvin Marxen,550.0,4269.9,GTX,United States,6472.0,1490.9155118462227,303.9595836145322
+marketing,MG Advanced,Mathtouch,Darcel Schlecht,East,Rocco Neubert,3393.0,3027.46,MG,Jordan,9516.0,0.0,1947.5717984497091
+medical,GTX Basic,Silis,Darcel Schlecht,East,Rocco Neubert,550.0,2818.38,GTX,United States,6290.0,0.0,452.28400281733184
+marketing,GTX Pro,Sunnamplex,Kary Hendrixson,West,Summer Sewald,4821.0,894.3699999999999,GTX,Poland,1593.0,4512.0,2991.1280634996456
+retail,GTX Plus Basic,Plussunin,Boris Faz,East,Rocco Neubert,1096.0,1419.98,GTX,United States,4018.0,1100.0,849.4754310766427
+entertainment,GTX Basic,Cheers,James Ascencio,West,Summer Sewald,550.0,4269.9,GTX,United States,6472.0,0.0,401.81303380976306
+finance,GTX Plus Pro,Vehement Capital Partners,Gladys Colclough,Central,Melvin Marxen,5482.0,646.0999999999999,GTX,United States,883.0,1490.9155118462227,3166.1291843777244
+retail,GTX Basic,Ganjaflex,Darcel Schlecht,East,Rocco Neubert,550.0,5158.71,GTX,Japan,17479.0,566.0,441.05325955752505
+software,MG Advanced,Dontechi,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,4618.0,MG,United States,10083.0,3250.0,1903.2774156397493
+technolgy,GTX Basic,Acme Corporation,Darcel Schlecht,East,Rocco Neubert,550.0,1100.04,GTX,United States,2822.0,586.0,462.2546449280976
+medical,MG Advanced,Bioholding,Moses Frase,Central,Dustin Brinkmann,3393.0,587.3400000000001,MG,Philipines,1356.0,0.0,1899.9053645041286
+medical,GTX Pro,Betasoloin,Corliss Cosme,East,Cara Losch,4821.0,251.40999999999985,GTX,United States,495.0,1490.9155118462227,2920.0069663632657
+services,GTX Pro,Newex,Kary Hendrixson,West,Summer Sewald,4821.0,1012.72,GTX,Germany,3492.0,4780.0,2947.1143919077613
+technolgy,GTX Plus Pro,Konex,Zane Levy,West,Summer Sewald,5482.0,7708.379999999999,GTX,United States,13756.0,4687.0,3172.385949310139
+retail,MG Advanced,Cancity,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,718.6199999999999,MG,United States,2448.0,0.0,1942.0158695724692
+retail,GTX Plus Pro,Plussunin,Darcel Schlecht,East,Rocco Neubert,5482.0,1419.98,GTX,United States,4018.0,5340.0,3234.623597381587
+retail,MG Special,Groovestreet,Rosalina Dieter,West,Celia Rouche,55.0,223.80000000000018,MG,United States,299.0,55.0,364.2539609240148
+software,GTX Plus Pro,Scotfind,Hayden Neloms,West,Celia Rouche,5482.0,6354.87,GTX,United States,16780.0,4761.0,3262.109301454723
+medical,GTX Pro,Lexiqvolax,Vicki Laflamme,West,Celia Rouche,4821.0,1618.89,GTX,United States,3889.0,5054.0,2990.2935699514837
+employment,MG Special,Statholdings,Darcel Schlecht,Central,Melvin Marxen,55.0,291.27,MG,United States,586.0,0.0,274.4672455414559
+software,GTX Plus Basic,Kan-code,James Ascencio,West,Summer Sewald,1096.0,11698.03,GTX,United States,34288.0,0.0,931.4976627479833
+services,GTX Basic,Newex,Kary Hendrixson,West,Summer Sewald,550.0,1012.72,GTX,Germany,3492.0,474.0,452.8392421485364
+employment,GTX Pro,Finjob,Zane Levy,West,Summer Sewald,4821.0,2059.9,GTX,United States,3644.0,0.0,2956.8412737281433
+telecommunications,MG Advanced,Rantouch,Kami Bicknell,West,Summer Sewald,3393.0,1188.42,MG,United States,3015.0,0.0,2073.328461403736
+medical,MG Special,Isdom,Moses Frase,Central,Dustin Brinkmann,55.0,3178.24,MG,United States,4540.0,57.0,212.52435284677267
+finance,MG Special,Stanredtax,Anna Snelling,Central,Dustin Brinkmann,55.0,1698.1999999999998,MG,United States,3798.0,57.0,265.1532104692483
+entertainment,MG Special,Dalttechnology,Niesha Huffines,Central,Melvin Marxen,55.0,217.8699999999999,MG,United States,551.0,61.0,261.757178341431
+finance,MG Special,Xx-holding,Zane Levy,West,Summer Sewald,55.0,7537.24,MG,United States,20293.0,0.0,386.2053661891907
+retail,MG Special,Streethex,Darcel Schlecht,Central,Melvin Marxen,55.0,1376.8,MG,Belgium,1165.0,49.0,142.99342655869873
+marketing,MG Advanced,dambase,Anna Snelling,Central,Dustin Brinkmann,3393.0,2173.98,MG,United States,2928.0,0.0,1906.7988700308326
+services,GTX Basic,Nam-zim,Kary Hendrixson,West,Summer Sewald,550.0,405.59000000000015,GTX,Brazil,1179.0,619.0,425.81362183523447
+marketing,GTX Plus Basic,Mathtouch,Corliss Cosme,East,Cara Losch,1096.0,3027.46,GTX,Jordan,9516.0,1034.0,770.4083460299015
+retail,GTX Basic,Fasehatice,James Ascencio,West,Summer Sewald,550.0,4968.91,GTX,United States,7523.0,0.0,410.16315768645427
+medical,GTX Basic,Bioholding,Versie Hillebrand,Central,Dustin Brinkmann,550.0,587.3400000000001,GTX,Philipines,1356.0,0.0,372.13947733298255
+marketing,GTX Basic,Goodsilron,Vicki Laflamme,West,Celia Rouche,550.0,2952.73,GTX,United States,5107.0,534.0,443.872655522521
+technolgy,GTX Plus Basic,Doncon,James Ascencio,West,Summer Sewald,1096.0,587.72,GTX,United States,1501.0,990.0,893.3886113712109
+entertainment,GTX Plus Basic,Cheers,Kary Hendrixson,West,Summer Sewald,1096.0,4269.9,GTX,United States,6472.0,1195.0,774.3611276191683
+retail,GTX Plus Basic,Kinnamplus,Corliss Cosme,East,Cara Losch,1096.0,702.7199999999998,GTX,United States,1831.0,1180.0,822.4202605028804
+software,GTX Basic,Kan-code,Markita Hansen,West,Celia Rouche,550.0,11698.03,GTX,United States,34288.0,0.0,542.7825592435175
+telecommunications,GTX Plus Basic,Gogozoom,Anna Snelling,Central,Dustin Brinkmann,1096.0,86.67999999999984,GTX,United States,187.0,1166.0,798.9808006687422
+retail,MG Advanced,Ganjaflex,Garret Kinder,East,Cara Losch,3393.0,5158.71,MG,Japan,17479.0,2940.0,1952.3479975934517
+entertainment,MG Special,Dalttechnology,Niesha Huffines,Central,Melvin Marxen,55.0,217.8699999999999,MG,United States,551.0,0.0,261.757178341431
+retail,MG Advanced,Kinnamplus,Wilburn Farren,East,Cara Losch,3393.0,702.7199999999998,MG,United States,1831.0,3645.0,1987.3705159496844
+retail,GTX Pro,Ganjaflex,Reed Clapper,East,Rocco Neubert,4821.0,5158.71,GTX,Japan,17479.0,0.0,2939.890500919123
+retail,GTX Pro,J-Texon,Kary Hendrixson,West,Summer Sewald,4821.0,1388.67,GTX,United States,3583.0,4727.0,3012.594369118179
+finance,MG Advanced,Stanredtax,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,1698.1999999999998,MG,United States,3798.0,0.0,1933.1220079020031
+medical,GTX Pro,Isdom,Darcel Schlecht,Central,Melvin Marxen,4821.0,3178.24,GTX,United States,4540.0,0.0,2841.0075637661503
+employment,GTX Basic,Statholdings,Darcel Schlecht,Central,Melvin Marxen,550.0,291.27,GTX,United States,586.0,0.0,408.2832275597423
+technolgy,GTX Plus Pro,Globex Corporation,Anna Snelling,Central,Dustin Brinkmann,5482.0,1223.72,GTX,Norway,2497.0,6023.0,3122.4480715279633
+software,GTX Pro,Codehow,Darcel Schlecht,Central,Melvin Marxen,4821.0,2714.9,GTX,United States,2641.0,0.0,2831.646494449793
+finance,GTX Plus Basic,Funholding,Gladys Colclough,Central,Melvin Marxen,1096.0,2819.5,GTX,United States,7227.0,1490.9155118462227,763.615368075672
+finance,GTX Basic,Umbrella Corporation,Daniell Hammack,East,Rocco Neubert,550.0,2022.14,GTX,United States,5113.0,536.0,464.78243421367256
+retail,GTX Plus Basic,Zathunicon,Daniell Hammack,East,Rocco Neubert,1096.0,71.11999999999989,GTX,United States,144.0,1065.0,860.727616771803
+finance,GTX Plus Pro,Finhigh,Lajuana Vencill,Central,Dustin Brinkmann,5482.0,1102.43,GTX,United States,1759.0000000000005,5401.0,3131.920256918865
+medical,GTX Pro,Bioplex,Corliss Cosme,East,Cara Losch,4821.0,326.82000000000016,GTX,United States,1016.0,0.0,2926.499212693022
+medical,MG Special,Ron-tech,Versie Hillebrand,Central,Dustin Brinkmann,55.0,3922.42,MG,United States,6837.0,52.0,227.3484416917413
+software,GTX Plus Pro,Scotfind,Elease Gluck,West,Celia Rouche,5482.0,6354.87,GTX,United States,16780.0,6666.0,3261.1968831342488
+retail,MG Special,Zathunicon,Violet Mclelland,East,Cara Losch,55.0,71.11999999999989,MG,United States,144.0,0.0,343.3669017317411
+medical,GTX Pro,Lexiqvolax,Kami Bicknell,West,Summer Sewald,4821.0,1618.89,GTX,United States,3889.0,0.0,3005.244021885911
+marketing,GTX Plus Basic,Scottech,Darcel Schlecht,Central,Melvin Marxen,1096.0,45.38999999999987,GTX,United States,100.0,1013.0,794.248052186806
+retail,MG Special,Fasehatice,Kami Bicknell,West,Summer Sewald,55.0,4968.91,MG,United States,7523.0,56.0,276.95545454848457
+services,GTX Plus Basic,Warephase,Anna Snelling,Central,Dustin Brinkmann,1096.0,2041.73,GTX,United States,5276.0,991.0,801.9220437177079
+software,GTX Basic,Dalttechnology,Kary Hendrixson,West,Summer Sewald,550.0,98.78999999999996,GTX,United States,96.0,0.0,516.4635029432567
+telecommunications,MG Special,Treequote,Anna Snelling,Central,Dustin Brinkmann,55.0,5266.09,MG,United States,8595.0,58.0,216.90814077876507
+retail,GTX Plus Basic,Genco Pura Olive Oil Company,Marty Freudenburg,Central,Melvin Marxen,1096.0,894.3299999999999,GTX,Italy,1635.0,1162.0,695.0851783112898
+retail,GTX Plus Basic,J-Texon,Kami Bicknell,West,Summer Sewald,1096.0,1388.67,GTX,United States,3583.0,1047.0,889.6507554077264
+employment,GTX Plus Basic,Ontomedia,Boris Faz,East,Rocco Neubert,1096.0,882.1199999999999,GTX,United States,2769.0,1022.0,829.0191698291419
+retail,GTX Pro,Yearin,Reed Clapper,East,Rocco Neubert,4821.0,2261.05,GTX,United States,3851.0,0.0,2949.3830282463405
+technolgy,GTX Basic,Doncon,Kami Bicknell,West,Summer Sewald,550.0,587.72,GTX,United States,1501.0,552.0,522.3612147625969
+entertainment,GTX Plus Basic,Plusstrip,Hayden Neloms,West,Celia Rouche,1096.0,349.80999999999995,GTX,United States,315.0,1099.0,852.6966312048332
+technolgy,MG Advanced,Conecom,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,1520.66,MG,United States,1806.0,0.0,1913.5955888134806
+finance,MG Special,Opentech,Boris Faz,East,Rocco Neubert,55.0,355.23,MG,United States,853.0,0.0,325.7544979146253
+medical,GTX Basic,Lexiqvolax,Jonathan Berthelot,Central,Melvin Marxen,550.0,1618.89,GTX,United States,3889.0,1490.9155118462227,412.5071430511391
+technolgy,MG Special,Zencorporation,Violet Mclelland,East,Cara Losch,55.0,40.789999999999964,MG,China,142.0,53.0,260.21618316654167
+medical,GTX Basic,Bioholding,Darcel Schlecht,Central,Melvin Marxen,550.0,587.3400000000001,GTX,Philipines,1356.0,0.0,371.0108592740578
+services,GTX Pro,Warephase,Darcel Schlecht,Central,Melvin Marxen,4821.0,2041.73,GTX,United States,5276.0,0.0,2931.0363859330337
+marketing,GTX Pro,dambase,Darcel Schlecht,Central,Melvin Marxen,4821.0,2173.98,GTX,United States,2928.0,4990.0,2878.2623033631517
+retail,GTX Basic,Kinnamplus,Corliss Cosme,East,Cara Losch,550.0,702.7199999999998,GTX,United States,1831.0,630.0,450.78458501395016
+medical,GTX Basic,Labdrill,Vicki Laflamme,West,Celia Rouche,550.0,2741.37,GTX,United States,9226.0,554.0,531.4725941010106
+services,MG Special,Warephase,Versie Hillebrand,Central,Dustin Brinkmann,55.0,2041.73,MG,United States,5276.0,50.0,304.07387221444674
+retail,GTX Basic,Fasehatice,Maureen Marcano,West,Summer Sewald,550.0,4968.91,GTX,United States,7523.0,0.0,412.29213376756206
+finance,GTX Plus Pro,Golddex,James Ascencio,West,Summer Sewald,5482.0,52.5,GTX,United States,165.0,5116.0,3258.872882865665
+technolgy,GTX Plus Basic,Acme Corporation,Daniell Hammack,East,Rocco Neubert,1096.0,1100.04,GTX,United States,2822.0,1282.0,833.2820415367114
+retail,MG Advanced,Kinnamplus,Violet Mclelland,East,Cara Losch,3393.0,702.7199999999998,MG,United States,1831.0,3342.0,1987.0663765095262
+finance,GTX Plus Basic,Umbrella Corporation,Violet Mclelland,East,Cara Losch,1096.0,2022.14,GTX,United States,5113.0,0.0,824.5090521697578
+marketing,GTX Pro,Scottech,Darcel Schlecht,Central,Melvin Marxen,4821.0,45.38999999999987,GTX,United States,100.0,5416.0,2916.8875264571006
+software,MG Special,Dalttechnology,Elease Gluck,West,Celia Rouche,55.0,98.78999999999996,MG,United States,96.0,0.0,361.91841962753665
+retail,MG Advanced,Plussunin,Corliss Cosme,East,Cara Losch,3393.0,1419.98,MG,United States,4018.0,0.0,1989.4386330637976
+services,GTX Pro,Newex,Kary Hendrixson,West,Summer Sewald,4821.0,1012.72,GTX,Germany,3492.0,4918.0,2947.1143919077613
+marketing,GTX Plus Pro,dambase,Versie Hillebrand,Central,Dustin Brinkmann,5482.0,2173.98,GTX,United States,2928.0,5145.0,3140.074776815776
+marketing,MG Advanced,Donware,Daniell Hammack,East,Rocco Neubert,3393.0,1197.44,MG,United States,2570.0,0.0,1968.5663426410545
+finance,GTX Pro,Stanredtax,Darcel Schlecht,Central,Melvin Marxen,4821.0,1698.1999999999998,GTX,United States,3798.0,0.0,2899.719210191791
+medical,MG Special,Bioplex,Violet Mclelland,East,Cara Losch,55.0,326.82000000000016,MG,United States,1016.0,60.0,305.4032880391501
+software,GTX Pro,Kan-code,Markita Hansen,West,Celia Rouche,4821.0,11698.03,GTX,United States,34288.0,0.0,3037.0577090027427
+software,GTX Plus Basic,Bubba Gump,Daniell Hammack,East,Rocco Neubert,1096.0,987.3899999999999,GTX,United States,2253.0,0.0,827.9922289082659
+entertainment,MG Special,Xx-zobam,Hayden Neloms,West,Celia Rouche,55.0,3838.39,MG,United States,8274.0,1490.9155118462227,330.0151640944514
+technolgy,MG Special,Doncon,James Ascencio,West,Summer Sewald,55.0,587.72,MG,United States,1501.0,54.0,387.9369538639944
+finance,GTX Basic,Funholding,Violet Mclelland,East,Cara Losch,550.0,2819.5,GTX,United States,7227.0,1490.9155118462227,427.6287326707993
+retail,GTX Basic,Sumace,Darcel Schlecht,East,Rocco Neubert,550.0,167.88999999999987,GTX,Romania,493.0,547.0,477.0177310997767
+telecommunications,MG Special,Initech,Rosie Papadopoulos,East,Cara Losch,55.0,6395.05,MG,United States,20275.0,0.0,380.571155393749
+marketing,GTX Plus Pro,Scottech,Marty Freudenburg,Central,Melvin Marxen,5482.0,45.38999999999987,GTX,United States,100.0,5217.0,3181.2210551327
+technolgy,MG Special,Hottechi,Anna Snelling,Central,Dustin Brinkmann,55.0,8170.379999999999,MG,Korea,16499.0,57.0,142.5448108478506
+medical,MG Special,Silis,Violet Mclelland,East,Cara Losch,55.0,2818.38,MG,United States,6290.0,55.0,305.9506843858835
+technolgy,GTX Plus Pro,Rangreen,Marty Freudenburg,Central,Melvin Marxen,5482.0,2938.67,GTX,Panama,8775.0,5787.0,3178.712334953808
+retail,GTX Plus Basic,Streethex,Anna Snelling,Central,Dustin Brinkmann,1096.0,1376.8,GTX,Belgium,1165.0,0.0,641.9702161208846
+telecommunications,GTX Pro,Treequote,Darcel Schlecht,Central,Melvin Marxen,4821.0,5266.09,GTX,United States,8595.0,0.0,2851.4741405013074
+services,GTX Pro,Newex,Vicki Laflamme,West,Celia Rouche,4821.0,1012.72,GTX,Germany,3492.0,4856.0,2931.859800533175
+medical,GTX Plus Basic,Isdom,Lajuana Vencill,Central,Dustin Brinkmann,1096.0,3178.24,GTX,United States,4540.0,991.0,716.7594525933565
+telecommunications,MG Advanced,Faxquote,Markita Hansen,West,Celia Rouche,3393.0,1825.82,MG,United States,5595.0,3442.0,2051.4249592346
+marketing,GTX Basic,Inity,Niesha Huffines,Central,Melvin Marxen,550.0,2403.58,GTX,United States,8801.0,0.0,450.3864273483871
+marketing,GTX Pro,Scottech,Marty Freudenburg,Central,Melvin Marxen,4821.0,45.38999999999987,GTX,United States,100.0,0.0,2920.5371997389993
+software,MG Special,Scotfind,Elease Gluck,West,Celia Rouche,55.0,6354.87,MG,United States,16780.0,49.0,372.4218959630375
+retail,GTX Plus Pro,Streethex,Niesha Huffines,Central,Melvin Marxen,5482.0,1376.8,GTX,Belgium,1165.0,6384.0,3036.330505332284
+retail,GTX Pro,Toughzap,Darcel Schlecht,Central,Melvin Marxen,4821.0,332.42999999999984,GTX,United States,799.0,4201.0,2929.1001369379655
+telecommunications,GTX Basic,Gogozoom,Jonathan Berthelot,Central,Melvin Marxen,550.0,86.67999999999984,GTX,United States,187.0,590.0,435.9489692059501
+technolgy,MG Special,Iselectrics,Violet Mclelland,East,Cara Losch,55.0,527.1099999999999,MG,United States,1428.0,0.0,337.43052619461355
+finance,MG Advanced,Funholding,Jonathan Berthelot,Central,Melvin Marxen,3393.0,2819.5,MG,United States,7227.0,3808.0,1922.1786952791529
+retail,GTX Pro,Cancity,Marty Freudenburg,Central,Melvin Marxen,4821.0,718.6199999999999,GTX,United States,2448.0,4172.0,2912.2627451441554
+medical,GTX Plus Pro,Condax,Darcel Schlecht,Central,Melvin Marxen,5482.0,4.539999999999964,GTX,United States,9.0,5422.0,3158.883752782062
+telecommunications,GTX Pro,Faxquote,Kary Hendrixson,West,Summer Sewald,4821.0,1825.82,GTX,United States,5595.0,0.0,3034.405370957898
+medical,GTX Pro,Condax,Zane Levy,West,Summer Sewald,4821.0,4.539999999999964,GTX,United States,9.0,4480.0,3003.35269414739
+retail,MG Advanced,Singletechno,Kami Bicknell,West,Summer Sewald,3393.0,2214.94,MG,United States,5374.0,3388.0,2050.134717227244
+technolgy,MG Advanced,Doncon,Zane Levy,West,Summer Sewald,3393.0,587.72,MG,United States,1501.0,4253.0,2056.2098907369073
+entertainment,MG Special,Plusstrip,Kami Bicknell,West,Summer Sewald,55.0,349.80999999999995,MG,United States,315.0,0.0,366.7575172344177
+marketing,GTX Basic,Scottech,Moses Frase,Central,Dustin Brinkmann,550.0,45.38999999999987,GTX,United States,100.0,0.0,422.2202975560092
+retail,GTX Plus Basic,Streethex,Darcel Schlecht,Central,Melvin Marxen,1096.0,1376.8,GTX,Belgium,1165.0,0.0,648.4450840659156
+technolgy,GTX Plus Basic,Rangreen,Anna Snelling,Central,Dustin Brinkmann,1096.0,2938.67,GTX,Panama,8775.0,1037.0,785.2644640628832
+employment,MG Advanced,Finjob,Vicki Laflamme,West,Celia Rouche,3393.0,2059.9,MG,United States,3644.0,0.0,1972.3401648040542
+retail,MG Special,Toughzap,Lajuana Vencill,Central,Dustin Brinkmann,55.0,332.42999999999984,MG,United States,799.0,42.0,299.40036825795505
+medical,MG Special,Labdrill,Markita Hansen,West,Celia Rouche,55.0,2741.37,MG,United States,9226.0,0.0,394.91935712130044
+medical,MG Advanced,Labdrill,Vicki Laflamme,West,Celia Rouche,3393.0,2741.37,MG,United States,9226.0,0.0,2060.7591784729475
+technolgy,GTX Basic,Rundofase,Jonathan Berthelot,Central,Melvin Marxen,550.0,1008.06,GTX,United States,1238.0,526.0,421.34362196289294
+technolgy,GTX Basic,Doncon,Kary Hendrixson,West,Summer Sewald,550.0,587.72,GTX,United States,1501.0,0.0,522.6653542027551
+software,MG Advanced,Scotfind,Hayden Neloms,West,Celia Rouche,3393.0,6354.87,MG,United States,16780.0,0.0,2036.436880673735
+medical,GTX Plus Pro,Labdrill,Kami Bicknell,West,Summer Sewald,5482.0,2741.37,GTX,United States,9226.0,1490.9155118462227,3301.382051188363
+marketing,GTX Plus Basic,Goodsilron,Kami Bicknell,West,Summer Sewald,1096.0,2952.73,GTX,United States,5107.0,1207.0,830.458782945879
+technolgy,GTX Plus Pro,Hottechi,Darcel Schlecht,Central,Melvin Marxen,5482.0,8170.379999999999,GTX,Korea,16499.0,0.0,3037.794665964093
+employment,GTX Basic,Finjob,Kami Bicknell,West,Summer Sewald,550.0,2059.9,GTX,United States,3644.0,564.0,458.00403236654506
+retail,MG Special,J-Texon,Hayden Neloms,West,Celia Rouche,55.0,1388.67,MG,United States,3583.0,0.0,364.68655436370864
+marketing,MG Special,Inity,Versie Hillebrand,Central,Dustin Brinkmann,55.0,2403.58,MG,United States,8801.0,0.0,313.1369717866521
+marketing,MG Advanced,Goodsilron,Hayden Neloms,West,Celia Rouche,3393.0,2952.73,MG,United States,5107.0,3482.0,1968.5971482920845
+software,MG Advanced,Zotware,Cassey Cress,East,Rocco Neubert,3393.0,4478.47,MG,United States,13809.0,0.0,2050.74771992762
+entertainment,GTX Plus Basic,Cheers,Maureen Marcano,West,Summer Sewald,1096.0,4269.9,GTX,United States,6472.0,914.0,775.5776853798013
+retail,GTX Pro,Yearin,Rosie Papadopoulos,East,Cara Losch,4821.0,2261.05,GTX,United States,3851.0,0.0,2931.3911819103305
+technolgy,GTX Pro,Doncon,Markita Hansen,West,Celia Rouche,4821.0,587.72,GTX,United States,1501.0,4859.0,2998.94865762597
+technolgy,GTX Pro,Doncon,Elease Gluck,West,Celia Rouche,4821.0,587.72,GTX,United States,1501.0,4953.0,2996.211402664546
+marketing,GTX Plus Basic,Mathtouch,Reed Clapper,East,Rocco Neubert,1096.0,3027.46,GTX,Jordan,9516.0,1035.0,794.4829811690761
+employment,MG Advanced,Statholdings,Anna Snelling,Central,Dustin Brinkmann,3393.0,291.27,MG,United States,586.0,3647.0,1931.094943986648
+retail,GTX Plus Basic,Fasehatice,Elease Gluck,West,Celia Rouche,1096.0,4968.91,GTX,United States,7523.0,976.0,761.9821501984255
+medical,GTX Plus Basic,Betasoloin,Kary Hendrixson,West,Summer Sewald,1096.0,251.40999999999985,GTX,United States,495.0,1490.9155118462227,868.3919459687332
+marketing,MG Special,Sunnamplex,Markita Hansen,West,Celia Rouche,55.0,894.3699999999999,MG,Poland,1593.0,0.0,345.04508538612436
+medical,GTX Basic,Ron-tech,Lajuana Vencill,Central,Dustin Brinkmann,550.0,3922.42,GTX,United States,6837.0,489.0,358.42716874860366
+retail,MG Special,Genco Pura Olive Oil Company,Versie Hillebrand,Central,Dustin Brinkmann,55.0,894.3299999999999,MG,Italy,1635.0,0.0,187.11246558109906
+technolgy,MG Special,Rangreen,Marty Freudenburg,Central,Melvin Marxen,55.0,2938.67,MG,Panama,8775.0,54.0,289.93734778259613
+retail,GTX Basic,Groovestreet,Kary Hendrixson,West,Summer Sewald,550.0,223.80000000000018,GTX,United States,299.0,582.0,514.2369526373616
+finance,MG Advanced,Stanredtax,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,1698.1999999999998,MG,United States,3798.0,3228.0,1933.1220079020031
+finance,MG Advanced,Vehement Capital Partners,Darcel Schlecht,East,Rocco Neubert,3393.0,646.0999999999999,MG,United States,883.0,3440.0,1988.623140093956
+retail,MG Special,Genco Pura Olive Oil Company,Niesha Huffines,Central,Melvin Marxen,55.0,894.3299999999999,MG,Italy,1635.0,0.0,190.54593912454766
+technolgy,MG Special,Globex Corporation,Marty Freudenburg,Central,Melvin Marxen,55.0,1223.72,MG,Norway,2497.0,1490.9155118462227,243.79762558368157
+retail,GTX Basic,Yearin,Daniell Hammack,East,Rocco Neubert,550.0,2261.05,GTX,United States,3851.0,592.0,449.9375080044258
+marketing,GTX Plus Basic,dambase,Gladys Colclough,Central,Melvin Marxen,1096.0,2173.98,GTX,United States,2928.0,821.0,756.8393868534902
+technolgy,GTX Plus Basic,Rundofase,Moses Frase,Central,Dustin Brinkmann,1096.0,1008.06,GTX,United States,1238.0,0.0,790.4582422288493
+retail,GTX Pro,Kinnamplus,Reed Clapper,East,Rocco Neubert,4821.0,702.7199999999998,GTX,United States,1831.0,5401.0,2969.1343699123495
+finance,GTX Basic,Golddex,James Ascencio,West,Summer Sewald,550.0,52.5,GTX,United States,165.0,552.0,503.9138777127399
+medical,MG Advanced,Betatech,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,647.1799999999998,MG,Kenya,1185.0,0.0,1859.9033396869545
+finance,GTX Plus Basic,Stanredtax,Cecily Lampkin,Central,Dustin Brinkmann,1096.0,1698.1999999999998,GTX,United States,3798.0,966.0,771.5172862969399
+employment,GTX Plus Basic,Y-corporation,Maureen Marcano,West,Summer Sewald,1096.0,2871.35,GTX,United States,9561.0,1113.0,916.9865296141859
+telecommunications,MG Advanced,Sonron,Vicki Laflamme,West,Celia Rouche,3393.0,1699.85,MG,United States,5108.0,3426.0,2072.6226556653305
+retail,MG Advanced,Blackzim,Vicki Laflamme,West,Celia Rouche,3393.0,497.1100000000001,MG,United States,1588.0,0.0,2023.865107397899
+finance,MG Advanced,Funholding,Moses Frase,Central,Dustin Brinkmann,3393.0,2819.5,MG,United States,7227.0,0.0,1919.657640056179
+retail,GTX Pro,J-Texon,Kary Hendrixson,West,Summer Sewald,4821.0,1388.67,GTX,United States,3583.0,5415.0,3012.594369118179
+finance,GTX Plus Basic,Opentech,Daniell Hammack,East,Rocco Neubert,1096.0,355.23,GTX,United States,853.0,1116.0,832.4227131824745
+software,MG Special,Dontechi,Versie Hillebrand,Central,Dustin Brinkmann,55.0,4618.0,MG,United States,10083.0,57.0,242.91210421095002
+retail,GTX Basic,Gekko & Co,Daniell Hammack,East,Rocco Neubert,550.0,2520.83,GTX,United States,3502.0,678.0,407.06817133436084
+medical,MG Special,Condax,Rosalina Dieter,West,Celia Rouche,55.0,4.539999999999964,MG,United States,9.0,50.0,354.83660051260335
+retail,GTX Plus Basic,Genco Pura Olive Oil Company,Niesha Huffines,Central,Melvin Marxen,1096.0,894.3299999999999,GTX,Italy,1635.0,0.0,695.9975966317645
+marketing,GTX Basic,dambase,Jonathan Berthelot,Central,Melvin Marxen,550.0,2173.98,GTX,United States,2928.0,0.0,386.11612968503414
+marketing,GTX Plus Pro,Donware,Cassey Cress,East,Rocco Neubert,5482.0,1197.44,GTX,United States,2570.0,0.0,3193.326345101568
+marketing,GTX Plus Pro,Konmatfix,Darcel Schlecht,Central,Melvin Marxen,5482.0,375.42999999999984,GTX,United States,1190.0,5639.0,3172.1880417565326
+retail,GTX Basic,Blackzim,Zane Levy,West,Summer Sewald,550.0,497.1100000000001,GTX,United States,1588.0,570.0,514.0910665627631
+finance,GTX Basic,Opentech,Garret Kinder,East,Cara Losch,550.0,355.23,GTX,United States,853.0,0.0,443.4034702378508
+finance,GTX Plus Basic,Funholding,Darcel Schlecht,Central,Melvin Marxen,1096.0,2819.5,GTX,United States,7227.0,0.0,762.3988103150391
+retail,GTX Plus Basic,Genco Pura Olive Oil Company,Marty Freudenburg,Central,Melvin Marxen,1096.0,894.3299999999999,GTX,Italy,1635.0,1240.0,695.0851783112898
+software,GTX Plus Basic,Scotfind,Elease Gluck,West,Celia Rouche,1096.0,6354.87,GTX,United States,16780.0,1164.0,877.8735534702539
+retail,GTX Plus Basic,Cancity,Darcel Schlecht,Central,Melvin Marxen,1096.0,718.6199999999999,GTX,United States,2448.0,0.0,785.9735975919622
+retail,GTX Plus Pro,Zathunicon,Cassey Cress,East,Rocco Neubert,5482.0,71.11999999999989,GTX,United States,144.0,0.0,3243.1385281153234
+technolgy,GTX Plus Pro,Acme Corporation,Corliss Cosme,East,Cara Losch,5482.0,1100.04,GTX,United States,2822.0,0.0,3197.7011065442216
+employment,GTX Basic,Y-corporation,Kary Hendrixson,West,Summer Sewald,550.0,2871.35,GTX,United States,9561.0,653.0,544.1342963646223
+technolgy,GTX Plus Basic,Conecom,Darcel Schlecht,Central,Melvin Marxen,1096.0,1520.66,GTX,United States,1806.0,0.0,754.8160618715496
+telecommunications,GTX Plus Pro,Sonron,James Ascencio,West,Summer Sewald,5482.0,1699.85,GTX,United States,5108.0,4667.0,3312.63724950043
+services,GTX Plus Basic,Warephase,Darcel Schlecht,Central,Melvin Marxen,1096.0,2041.73,GTX,United States,5276.0,996.0,808.3969116627388
+medical,GTX Pro,Condax,Darcel Schlecht,Central,Melvin Marxen,4821.0,4.539999999999964,GTX,United States,9.0,1490.9155118462227,2898.199897388362
+marketing,MG Special,dambase,Lajuana Vencill,Central,Dustin Brinkmann,55.0,2173.98,MG,United States,2928.0,54.0,248.56253468314094
+retail,GTX Plus Basic,Gekko & Co,Corliss Cosme,East,Cara Losch,1096.0,2520.83,GTX,United States,3502.0,1079.0,759.7995821668065
+technolgy,GTX Plus Basic,Conecom,Darcel Schlecht,Central,Melvin Marxen,1096.0,1520.66,GTX,United States,1806.0,0.0,754.8160618715496
+finance,GTX Basic,Xx-holding,Vicki Laflamme,West,Celia Rouche,550.0,7537.24,GTX,United States,20293.0,523.0,500.5088046706759
+telecommunications,GTX Plus Basic,Initech,Daniell Hammack,East,Rocco Neubert,1096.0,6395.05,GTX,United States,20275.0,1096.0,898.8442887542856
+medical,GTX Pro,Bioholding,Niesha Huffines,Central,Melvin Marxen,4821.0,587.3400000000001,GTX,Philipines,1356.0,0.0,2869.848100635656
+retail,MG Advanced,Singletechno,Cassey Cress,East,Rocco Neubert,3393.0,2214.94,MG,United States,5374.0,1490.9155118462227,1997.4062491276509
+entertainment,GTX Pro,Massive Dynamic,Cassey Cress,East,Rocco Neubert,4821.0,665.06,GTX,United States,1095.0,4243.0,2937.183654389203
+employment,MG Advanced,Ontomedia,Darcel Schlecht,East,Rocco Neubert,3393.0,882.1199999999999,MG,United States,2769.0,3892.0,1988.4949153530977
+retail,GTX Pro,Singletechno,James Ascencio,West,Summer Sewald,4821.0,2214.94,GTX,United States,5374.0,0.0,3014.5150037342155
+technolgy,GTX Pro,Rangreen,Jonathan Berthelot,Central,Melvin Marxen,4821.0,2938.67,GTX,Panama,8775.0,5310.0,2916.5077823593165
+entertainment,GTX Basic,Xx-zobam,Corliss Cosme,East,Cara Losch,550.0,3838.39,GTX,United States,8274.0,515.0,412.62337521393533
+software,GTX Basic,Dontechi,Moses Frase,Central,Dustin Brinkmann,550.0,4618.0,GTX,United States,10083.0,615.0,375.20738902844505
+technolgy,GTX Basic,Iselectrics,Kary Hendrixson,West,Summer Sewald,550.0,527.1099999999999,GTX,United States,1428.0,1490.9155118462227,535.275754965022
+marketing,MG Advanced,Mathtouch,Corliss Cosme,East,Cara Losch,3393.0,3027.46,MG,Jordan,9516.0,3498.0,1928.059254912908
+entertainment,GTX Pro,Massive Dynamic,Cassey Cress,East,Rocco Neubert,4821.0,665.06,GTX,United States,1095.0,4256.0,2937.183654389203
+software,GTX Pro,Bubba Gump,Reed Clapper,East,Rocco Neubert,4821.0,987.3899999999999,GTX,United States,2253.0,4839.0,2955.8020736612502
+finance,MG Special,Golddex,Versie Hillebrand,Central,Dustin Brinkmann,55.0,52.5,MG,United States,165.0,1490.9155118462227,271.24408747703956
+finance,GTX Basic,Umbrella Corporation,Reed Clapper,East,Rocco Neubert,550.0,2022.14,GTX,United States,5113.0,555.0,469.9528046963626
+software,GTX Pro,Dontechi,Darcel Schlecht,Central,Melvin Marxen,4821.0,4618.0,GTX,United States,10083.0,4511.0,2869.8746179295367
+marketing,GTX Plus Pro,Donware,Cassey Cress,East,Rocco Neubert,5482.0,1197.44,GTX,United States,2570.0,0.0,3193.326345101568
+medical,MG Advanced,Isdom,Marty Freudenburg,Central,Melvin Marxen,3393.0,3178.24,MG,United States,4540.0,2763.0,1879.668671660761
+retail,GTX Plus Basic,Zathunicon,Daniell Hammack,East,Rocco Neubert,1096.0,71.11999999999989,GTX,United States,144.0,1490.9155118462227,860.727616771803
+software,MG Advanced,Zotware,Darcel Schlecht,East,Rocco Neubert,3393.0,4478.47,MG,United States,13809.0,3423.0,2052.268417128411
+telecommunications,GTX Plus Basic,Rantouch,Zane Levy,West,Summer Sewald,1096.0,1188.42,GTX,United States,3015.0,1053.0,920.2396441231033
+marketing,GTX Basic,Donware,Cassey Cress,East,Rocco Neubert,550.0,1197.44,GTX,United States,2570.0,614.0,438.3673399486429
+retail,GTX Plus Pro,Gekko & Co,Rosie Papadopoulos,East,Cara Losch,5482.0,2520.83,GTX,United States,3502.0,0.0,3149.2057006339655
+marketing,GTX Plus Pro,Goodsilron,Maureen Marcano,West,Summer Sewald,5482.0,2952.73,GTX,United States,5107.0,4974.0,3215.302809810665
+retail,GTX Basic,Ganjaflex,Daniell Hammack,East,Rocco Neubert,550.0,5158.71,GTX,Japan,17479.0,0.0,440.4449806772086
+medical,MG Advanced,Ron-tech,Anna Snelling,Central,Dustin Brinkmann,3393.0,3922.42,MG,United States,6837.0,0.0,1882.847522078009
+marketing,MG Special,Donware,Rosie Papadopoulos,East,Cara Losch,55.0,1197.44,MG,United States,2570.0,47.0,292.64230039751124
+software,MG Special,Dontechi,Anna Snelling,Central,Dustin Brinkmann,55.0,4618.0,MG,United States,10083.0,59.0,235.30861820699442
+marketing,GTX Pro,dambase,Darcel Schlecht,Central,Melvin Marxen,4821.0,2173.98,GTX,United States,2928.0,5600.0,2878.2623033631517
+technolgy,GTX Basic,Zencorporation,Cassey Cress,East,Rocco Neubert,550.0,40.789999999999964,GTX,China,142.0,567.0,405.02880439719866
+retail,MG Advanced,Streethex,Marty Freudenburg,Central,Melvin Marxen,3393.0,1376.8,MG,Belgium,1165.0,3367.0,1809.7456662308207
+services,GTX Pro,Hatfan,James Ascencio,West,Summer Sewald,4821.0,792.46,GTX,United States,1299.0,0.0,3003.1527637628087
+entertainment,GTX Plus Basic,Massive Dynamic,Cassey Cress,East,Rocco Neubert,1096.0,665.06,GTX,United States,1095.0,1039.0,814.5441801189086
+retail,GTX Plus Basic,Streethex,Gladys Colclough,Central,Melvin Marxen,1096.0,1376.8,GTX,Belgium,1165.0,1144.0,649.6616418265486
+technolgy,GTX Basic,Zencorporation,Wilburn Farren,East,Cara Losch,550.0,40.789999999999964,GTX,China,142.0,514.0,394.33630462498627
+marketing,GTX Plus Basic,Konmatfix,Marty Freudenburg,Central,Melvin Marxen,1096.0,375.42999999999984,GTX,United States,1190.0,1171.0,792.514385374437
+entertainment,GTX Basic,Plusstrip,Zane Levy,West,Summer Sewald,550.0,349.80999999999995,GTX,United States,315.0,498.0,505.13559085507734
+software,MG Special,Kan-code,Violet Mclelland,East,Cara Losch,55.0,11698.03,MG,United States,34288.0,1490.9155118462227,362.9291768091191
+retail,GTX Plus Pro,Streethex,Jonathan Berthelot,Central,Melvin Marxen,5482.0,1376.8,GTX,Belgium,1165.0,6049.0,3033.897389811018
+technolgy,GTX Pro,Donquadtech,Corliss Cosme,East,Cara Losch,4821.0,1712.68,GTX,United States,3194.0,5027.0,2923.102897205097
+medical,MG Advanced,Ron-tech,Anna Snelling,Central,Dustin Brinkmann,3393.0,3922.42,MG,United States,6837.0,3031.0,1882.847522078009
+technolgy,GTX Pro,Donquadtech,Boris Faz,East,Rocco Neubert,4821.0,1712.68,GTX,United States,3194.0,4155.0,2940.790604100949
+retail,MG Special,Genco Pura Olive Oil Company,Marty Freudenburg,Central,Melvin Marxen,55.0,894.3299999999999,MG,Italy,1635.0,0.0,189.633520804073
+technolgy,GTX Basic,Hottechi,Jonathan Berthelot,Central,Melvin Marxen,550.0,8170.379999999999,GTX,Korea,16499.0,519.0,284.96463689227517
+telecommunications,MG Advanced,Treequote,Niesha Huffines,Central,Melvin Marxen,3393.0,5266.09,MG,United States,8595.0,1490.9155118462227,1891.0476667163928
+technolgy,GTX Basic,Hottechi,Zane Levy,West,Summer Sewald,550.0,8170.379999999999,GTX,Korea,16499.0,0.0,387.9884575701965
+telecommunications,GTX Plus Basic,Faxquote,Darcel Schlecht,Central,Melvin Marxen,1096.0,1825.82,GTX,United States,5595.0,1490.9155118462227,810.8710520907903
+technolgy,GTX Basic,Hottechi,Vicki Laflamme,West,Celia Rouche,550.0,8170.379999999999,GTX,Korea,16499.0,537.0,368.47591403339516
+services,MG Special,Warephase,Gladys Colclough,Central,Melvin Marxen,55.0,2041.73,MG,United States,5276.0,0.0,304.1618119161551
+marketing,GTX Pro,Mathtouch,Daniell Hammack,East,Rocco Neubert,4821.0,3027.46,GTX,Jordan,9516.0,4475.0,2911.9520849566807
+entertainment,GTX Plus Basic,Xx-zobam,Niesha Huffines,Central,Melvin Marxen,1096.0,3838.39,GTX,United States,8274.0,1490.9155118462227,758.9507515841875
+medical,MG Special,Condax,Zane Levy,West,Summer Sewald,55.0,4.539999999999964,MG,United States,9.0,61.0,375.2615623698789
+retail,GTX Plus Basic,Toughzap,Niesha Huffines,Central,Melvin Marxen,1096.0,332.42999999999984,GTX,United States,799.0,0.0,811.0227542700445
+retail,GTX Pro,Groovestreet,Vicki Laflamme,West,Celia Rouche,4821.0,223.80000000000018,GTX,United States,299.0,0.0,2993.2575110220005
+technolgy,GTX Pro,Konex,Cassey Cress,East,Rocco Neubert,4821.0,7708.379999999999,GTX,United States,13756.0,0.0,2854.4115342144723
+finance,MG Special,Umbrella Corporation,Violet Mclelland,East,Cara Losch,55.0,2022.14,MG,United States,5113.0,63.0,319.0573946625409
+technolgy,GTX Plus Basic,Conecom,Jonathan Berthelot,Central,Melvin Marxen,1096.0,1520.66,GTX,United States,1806.0,0.0,756.9450379526571
+retail,GTX Plus Basic,Streethex,Darcel Schlecht,Central,Melvin Marxen,1096.0,1376.8,GTX,Belgium,1165.0,1076.0,648.4450840659156
+technolgy,GTX Pro,Conecom,Markita Hansen,West,Celia Rouche,4821.0,1520.66,GTX,United States,1806.0,1490.9155118462227,2960.358534402647
+services,MG Special,Warephase,Moses Frase,Central,Dustin Brinkmann,55.0,2041.73,MG,United States,5276.0,54.0,302.5531750136556
+technolgy,MG Special,Doncon,Kami Bicknell,West,Summer Sewald,55.0,587.72,MG,United States,1501.0,58.0,388.5452327443106
+retail,GTX Basic,Plexzap,Vicki Laflamme,West,Celia Rouche,550.0,2437.85,GTX,United States,4874.0,551.0,482.91944397333623
+entertainment,GTX Pro,Xx-zobam,Rosie Papadopoulos,East,Cara Losch,4821.0,3838.39,GTX,United States,8274.0,0.0,2912.981313776325
+retail,GTX Plus Basic,Singletechno,Markita Hansen,West,Celia Rouche,1096.0,2214.94,GTX,United States,5374.0,1252.0,874.796101448386
+telecommunications,GTX Plus Pro,Initech,Reed Clapper,East,Rocco Neubert,5482.0,6395.05,GTX,United States,20275.0,4500.0,3287.3379889009702
+software,GTX Basic,Dontechi,Lajuana Vencill,Central,Dustin Brinkmann,550.0,4618.0,GTX,United States,10083.0,0.0,373.99083126781215
+technolgy,GTX Plus Pro,Zencorporation,Daniell Hammack,East,Rocco Neubert,5482.0,40.789999999999964,GTX,China,142.0,5407.0,3160.9002278705984
+software,MG Advanced,Kan-code,Darcel Schlecht,East,Rocco Neubert,3393.0,11698.03,MG,United States,34288.0,3593.0,2038.549079612504
+retail,MG Advanced,Plexzap,Markita Hansen,West,Celia Rouche,3393.0,2437.85,MG,United States,4874.0,3663.0,2009.4687733838489
+services,MG Special,Hatfan,Hayden Neloms,West,Celia Rouche,55.0,792.46,MG,United States,1299.0,1490.9155118462227,356.15736732881305
+finance,GTX Pro,Stanredtax,Gladys Colclough,Central,Melvin Marxen,4821.0,1698.1999999999998,GTX,United States,3798.0,5729.0,2900.9357679524237
+telecommunications,GTX Plus Pro,Initech,Rosie Papadopoulos,East,Cara Losch,5482.0,6395.05,GTX,United States,20275.0,5582.0,3269.3461425649602
+marketing,GTX Plus Pro,Scottech,Versie Hillebrand,Central,Dustin Brinkmann,5482.0,45.38999999999987,GTX,United States,100.0,5046.0,3178.6999999097256
+retail,GTX Basic,Groovestreet,Jonathan Berthelot,Central,Melvin Marxen,550.0,223.80000000000018,GTX,United States,299.0,1490.9155118462227,415.4710841216561
+finance,MG Advanced,Stanredtax,Jonathan Berthelot,Central,Melvin Marxen,3393.0,1698.1999999999998,MG,United States,3798.0,0.0,1936.8596208856102
+finance,GTX Plus Pro,Stanredtax,Anna Snelling,Central,Dustin Brinkmann,5482.0,1698.1999999999998,GTX,United States,3798.0,5847.0,3153.92819764046
+retail,GTX Plus Basic,Sumace,Boris Faz,East,Rocco Neubert,1096.0,167.88999999999987,GTX,Romania,493.0,1106.0,846.8285699477576
+marketing,GTX Pro,Inity,Darcel Schlecht,Central,Melvin Marxen,4821.0,2403.58,GTX,United States,8801.0,4755.0,2940.0994855052386
+software,GTX Basic,Dontechi,Lajuana Vencill,Central,Dustin Brinkmann,550.0,4618.0,GTX,United States,10083.0,0.0,373.99083126781215
+marketing,GTX Basic,Sunnamplex,Kami Bicknell,West,Summer Sewald,550.0,894.3699999999999,GTX,Poland,1593.0,0.0,496.5487743002626
+technolgy,MG Special,Rundofase,Darcel Schlecht,Central,Melvin Marxen,55.0,1008.06,MG,United States,1238.0,1490.9155118462227,285.398663863499
+medical,MG Advanced,Betasoloin,Violet Mclelland,East,Cara Losch,3393.0,251.40999999999985,MG,United States,495.0,3673.0,1962.0136080996172
+marketing,GTX Pro,Goodsilron,Kami Bicknell,West,Summer Sewald,4821.0,2952.73,GTX,United States,5107.0,0.0,2953.0982572161734
+retail,GTX Pro,Plussunin,Corliss Cosme,East,Cara Losch,4821.0,1419.98,GTX,United States,4018.0,5197.0,2954.4271984510856
+medical,GTX Pro,Condax,Zane Levy,West,Summer Sewald,4821.0,4.539999999999964,GTX,United States,9.0,1490.9155118462227,3003.35269414739
+employment,GTX Pro,Y-corporation,Kary Hendrixson,West,Summer Sewald,4821.0,2871.35,GTX,United States,9561.0,4356.0,3038.4094461238474
+software,GTX Pro,Codehow,Darcel Schlecht,Central,Melvin Marxen,4821.0,2714.9,GTX,United States,2641.0,0.0,2831.646494449793
+telecommunications,MG Special,Gogozoom,Lajuana Vencill,Central,Dustin Brinkmann,55.0,86.67999999999984,MG,United States,187.0,0.0,298.3953742040569
+software,GTX Pro,Kan-code,Kary Hendrixson,West,Summer Sewald,4821.0,11698.03,GTX,United States,34288.0,4506.0,3055.0495553387527
+technolgy,GTX Basic,Doncon,Kary Hendrixson,West,Summer Sewald,550.0,587.72,GTX,United States,1501.0,568.0,522.6653542027551
+medical,GTX Plus Pro,Bioholding,Anna Snelling,Central,Dustin Brinkmann,5482.0,587.3400000000001,GTX,Philipines,1356.0,0.0,3119.4949964819525
+technolgy,MG Special,Conecom,Moses Frase,Central,Dustin Brinkmann,55.0,1520.66,MG,United States,1806.0,51.0,248.97232522246622
+retail,GTX Pro,Singletechno,Maureen Marcano,West,Summer Sewald,4821.0,2214.94,GTX,United States,5374.0,3959.0,3016.6439798153233
+technolgy,GTK 500,Konex,Markita Hansen,West,Celia Rouche,26768.0,7708.379999999999,GTK,United States,13756.0,0.0,14347.076374327486
+medical,MG Advanced,Isdom,Darcel Schlecht,Central,Melvin Marxen,3393.0,3178.24,MG,United States,4540.0,3455.0,1876.0189983788623
+technolgy,MG Advanced,Donquadtech,Moses Frase,Central,Dustin Brinkmann,3393.0,1712.68,MG,United States,3194.0,1490.9155118462227,1927.8518619548913
+software,MG Special,Codehow,Lajuana Vencill,Central,Dustin Brinkmann,55.0,2714.9,MG,United States,2641.0,1490.9155118462227,201.9467257697827
+retail,GTX Basic,Zathunicon,Garret Kinder,East,Cara Losch,550.0,71.11999999999989,GTX,United States,144.0,0.0,471.70837382717923
+retail,GTX Plus Pro,Zathunicon,Rosie Papadopoulos,East,Cara Losch,5482.0,71.11999999999989,GTX,United States,144.0,4668.0,3231.229470582478
+technolgy,GTX Pro,Rundofase,Darcel Schlecht,Central,Melvin Marxen,4821.0,1008.06,GTX,United States,1238.0,0.0,2913.4897956410105
+retail,MG Advanced,Blackzim,Markita Hansen,West,Celia Rouche,3393.0,497.1100000000001,MG,United States,1588.0,3015.0,2021.1278524364748
+technolgy,GTX Plus Basic,Konex,Reed Clapper,East,Rocco Neubert,1096.0,7708.379999999999,GTX,United States,13756.0,1135.0,737.8548487473422
+telecommunications,GTX Plus Basic,Initech,Reed Clapper,East,Rocco Neubert,1096.0,6395.05,GTX,United States,20275.0,0.0,904.0146592369754
+software,GTX Basic,Scotfind,Kary Hendrixson,West,Summer Sewald,550.0,6354.87,GTX,United States,16780.0,0.0,526.9669792787573
+medical,GTX Pro,Ron-tech,Darcel Schlecht,Central,Melvin Marxen,4821.0,3922.42,GTX,United States,6837.0,0.0,2854.3109554103276
+employment,MG Advanced,Ontomedia,Darcel Schlecht,East,Rocco Neubert,3393.0,882.1199999999999,MG,United States,2769.0,0.0,1988.4949153530977
+services,GTX Basic,Green-Plus,Kary Hendrixson,West,Summer Sewald,550.0,692.19,GTX,United States,1922.0,613.0,523.4596514841829
+retail,GTX Plus Basic,Kinnamplus,Darcel Schlecht,East,Rocco Neubert,1096.0,702.7199999999998,GTX,United States,1831.0,1161.0,841.9328040396815
+marketing,MG Special,Inity,Gladys Colclough,Central,Melvin Marxen,55.0,2403.58,MG,United States,8801.0,57.0,313.22491148836025
+software,GTX Basic,Kan-code,Corliss Cosme,East,Cara Losch,550.0,11698.03,GTX,United States,34288.0,0.0,489.749951703766
+retail,GTX Plus Pro,Sumace,Garret Kinder,East,Cara Losch,5482.0,167.88999999999987,GTX,Romania,493.0,0.0,3213.984889916692
+retail,GTX Plus Pro,Streethex,Darcel Schlecht,Central,Melvin Marxen,5482.0,1376.8,GTX,Belgium,1165.0,5220.0,3031.76841372991
+telecommunications,GTX Pro,Sonron,Kami Bicknell,West,Summer Sewald,4821.0,1699.85,GTX,United States,5108.0,0.0,3052.561672987046
+finance,MG Advanced,Vehement Capital Partners,Cassey Cress,East,Rocco Neubert,3393.0,646.0999999999999,MG,United States,883.0,0.0,1987.1024428931648
+employment,MG Advanced,Ontomedia,Reed Clapper,East,Rocco Neubert,3393.0,882.1199999999999,MG,United States,2769.0,0.0,1993.057006955471
+medical,MG Special,Betatech,Anna Snelling,Central,Dustin Brinkmann,55.0,647.1799999999998,MG,Kenya,1185.0,53.0,191.93454225419964
+finance,MG Advanced,Xx-holding,Rosalina Dieter,West,Celia Rouche,3393.0,7537.24,MG,United States,20293.0,0.0,2028.882970722138
+technolgy,MG Advanced,Konex,Daniell Hammack,East,Rocco Neubert,3393.0,7708.379999999999,MG,United States,13756.0,3194.0,1890.3353871476588
+retail,GTX Pro,Plussunin,Cassey Cress,East,Rocco Neubert,4821.0,1419.98,GTX,United States,4018.0,1490.9155118462227,2972.4190447870956
+marketing,GTX Basic,dambase,Moses Frase,Central,Dustin Brinkmann,550.0,2173.98,GTX,United States,2928.0,510.0,383.5950744620602
+retail,GTX Plus Basic,Cancity,Darcel Schlecht,Central,Melvin Marxen,1096.0,718.6199999999999,GTX,United States,2448.0,0.0,785.9735975919622
+software,GTX Plus Basic,Codehow,Jonathan Berthelot,Central,Melvin Marxen,1096.0,2714.9,GTX,United States,2641.0,1012.0,711.1359962606064
+retail,GTX Plus Basic,Gekko & Co,Darcel Schlecht,East,Rocco Neubert,1096.0,2520.83,GTX,United States,3502.0,877.0,779.3121257036076
+employment,GTX Basic,Y-corporation,Maureen Marcano,West,Summer Sewald,550.0,2871.35,GTX,United States,9561.0,584.0,545.3508541252552
+medical,GTX Plus Basic,Labdrill,Kary Hendrixson,West,Summer Sewald,1096.0,2741.37,GTX,United States,9226.0,0.0,918.362860964527
+entertainment,GTX Pro,Dalttechnology,Darcel Schlecht,Central,Melvin Marxen,4821.0,217.8699999999999,GTX,United States,551.0,5052.0,2885.2862185165686
+retail,GTX Basic,Genco Pura Olive Oil Company,Jonathan Berthelot,Central,Melvin Marxen,550.0,894.3299999999999,GTX,Italy,1635.0,0.0,321.928805621568
+entertainment,GTX Plus Pro,Plusstrip,Kary Hendrixson,West,Summer Sewald,5482.0,349.80999999999995,GTX,United States,315.0,0.0,3255.8366438457874
+retail,MG Advanced,Plussunin,Corliss Cosme,East,Cara Losch,3393.0,1419.98,MG,United States,4018.0,0.0,1989.4386330637976
+retail,MG Advanced,Streethex,Marty Freudenburg,Central,Melvin Marxen,3393.0,1376.8,MG,Belgium,1165.0,1490.9155118462227,1809.7456662308207
+medical,GTX Pro,Labdrill,Kary Hendrixson,West,Summer Sewald,4821.0,2741.37,GTX,United States,9226.0,4901.0,3041.0023352348217
+employment,GTX Plus Pro,Ontomedia,Cassey Cress,East,Rocco Neubert,5482.0,882.1199999999999,GTX,United States,2769.0,5425.0,3212.6466389332945
+technolgy,GTX Plus Basic,Donquadtech,Darcel Schlecht,East,Rocco Neubert,1096.0,1712.68,GTX,United States,3194.0,1166.0,819.975966471604
+telecommunications,GTX Plus Pro,Sonron,Maureen Marcano,West,Summer Sewald,5482.0,1699.85,GTX,United States,5108.0,4631.0,3314.7662255815376
+medical,GTX Pro,Silis,Darcel Schlecht,East,Rocco Neubert,4821.0,2818.38,GTX,United States,6290.0,0.0,2946.5591525765567
+telecommunications,GTX Plus Pro,Sonron,Vicki Laflamme,West,Celia Rouche,5482.0,1699.85,GTX,United States,5108.0,1490.9155118462227,3298.2950764463185
+retail,GTX Plus Basic,Gekko & Co,Cassey Cress,East,Rocco Neubert,1096.0,2520.83,GTX,United States,3502.0,1114.0,777.7914285028165
+software,MG Special,Dalttechnology,Rosalina Dieter,West,Celia Rouche,55.0,98.78999999999996,MG,United States,96.0,0.0,366.48051122991
+software,GTX Pro,Kan-code,Vicki Laflamme,West,Celia Rouche,4821.0,11698.03,GTX,United States,34288.0,0.0,3039.7949639641665
+technolgy,MG Advanced,Globex Corporation,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,1223.72,MG,Norway,2497.0,0.0,1901.641881789507
+technolgy,GTX Pro,Konex,Zane Levy,West,Summer Sewald,4821.0,7708.379999999999,GTX,United States,13756.0,5360.0,2911.7020939164386
+marketing,GTX Plus Pro,Inity,Niesha Huffines,Central,Melvin Marxen,5482.0,2403.58,GTX,United States,8801.0,6255.0,3205.345432501312
+retail,GTX Plus Pro,Kinnamplus,Darcel Schlecht,East,Rocco Neubert,5482.0,702.7199999999998,GTX,United States,1831.0,0.0,3225.256133703676
+technolgy,GTX Plus Basic,Zencorporation,Zane Levy,West,Summer Sewald,1096.0,40.789999999999964,GTX,China,142.0,1490.9155118462227,833.9550395880958
+finance,GTX Pro,Xx-holding,Markita Hansen,West,Celia Rouche,4821.0,7537.24,GTX,United States,20293.0,4592.0,2992.0466994684766
+technolgy,GTX Plus Basic,Rundofase,Niesha Huffines,Central,Melvin Marxen,1096.0,1008.06,GTX,United States,1238.0,0.0,795.4124129730892
+entertainment,MG Special,Plusstrip,Rosalina Dieter,West,Celia Rouche,55.0,349.80999999999995,MG,United States,315.0,0.0,350.8946469795155
+technolgy,GTX Basic,Acme Corporation,Reed Clapper,East,Rocco Neubert,550.0,1100.04,GTX,United States,2822.0,0.0,466.81673653047096
+entertainment,GTX Pro,Zoomit,Kary Hendrixson,West,Summer Sewald,4821.0,324.19000000000005,GTX,United States,978.0,0.0,3020.5289496425403
+employment,MG Special,Finjob,Vicki Laflamme,West,Celia Rouche,55.0,2059.9,MG,United States,3644.0,0.0,309.23759841383117
+medical,GTX Basic,Isdom,Niesha Huffines,Central,Melvin Marxen,550.0,3178.24,GTX,United States,4540.0,662.0,351.294505609299
+employment,GTX Plus Basic,Statholdings,Darcel Schlecht,Central,Melvin Marxen,1096.0,291.27,GTX,United States,586.0,1308.0,779.9189030486727
+retail,GTX Pro,Cancity,Darcel Schlecht,Central,Melvin Marxen,4821.0,718.6199999999999,GTX,United States,2448.0,4375.0,2908.6130718622567
+retail,GTX Plus Basic,Plussunin,Darcel Schlecht,East,Rocco Neubert,1096.0,1419.98,GTX,United States,4018.0,0.0,851.3002677175921
+medical,MG Special,Betatech,Cecily Lampkin,Central,Dustin Brinkmann,55.0,647.1799999999998,MG,Kenya,1185.0,0.0,192.8469605746743
+retail,GTX Basic,Toughzap,Darcel Schlecht,Central,Melvin Marxen,550.0,332.42999999999984,GTX,United States,799.0,620.0,434.8249871787407
+software,GTX Plus Pro,Zotware,Reed Clapper,East,Rocco Neubert,5482.0,4478.47,GTX,United States,13809.0,0.0,3282.502929511773
+entertainment,GTX Plus Pro,Zoomit,Maureen Marcano,West,Summer Sewald,5482.0,324.19000000000005,GTX,United States,978.0,4786.0,3282.4293627968736
+technolgy,GTX Pro,Rundofase,Jonathan Berthelot,Central,Melvin Marxen,4821.0,1008.06,GTX,United States,1238.0,4404.0,2915.618771722118
+software,MG Special,Bubba Gump,Violet Mclelland,East,Cara Losch,55.0,987.3899999999999,MG,United States,2253.0,56.0,310.6315138682039
+technolgy,GTX Pro,Rangreen,Darcel Schlecht,Central,Melvin Marxen,4821.0,2938.67,GTX,Panama,8775.0,4829.0,2914.3788062782087
+software,GTX Pro,Codehow,Darcel Schlecht,Central,Melvin Marxen,4821.0,2714.9,GTX,United States,2641.0,5987.0,2831.646494449793
+retail,MG Special,Blackzim,Kami Bicknell,West,Summer Sewald,55.0,497.1100000000001,MG,United States,1588.0,0.0,375.71299294210326
+telecommunications,GTX Basic,Gogozoom,Lajuana Vencill,Central,Dustin Brinkmann,550.0,86.67999999999984,GTX,United States,187.0,574.0,432.2113562223433
+technolgy,GTX Plus Pro,Konex,Rosie Papadopoulos,East,Cara Losch,5482.0,7708.379999999999,GTX,United States,13756.0,0.0,3103.186332075327
+telecommunications,GTX Basic,Treequote,Niesha Huffines,Central,Melvin Marxen,550.0,5266.09,GTX,United States,8595.0,637.0,361.7610823444559
+medical,GTX Plus Pro,Ron-tech,Darcel Schlecht,Central,Melvin Marxen,5482.0,3922.42,GTX,United States,6837.0,5522.0,3114.994810804028
+software,GTX Plus Pro,Kan-code,Corliss Cosme,East,Cara Losch,5482.0,11698.03,GTX,United States,34288.0,5820.0,3244.7089568566907
+telecommunications,GTX Plus Pro,Rantouch,Kami Bicknell,West,Summer Sewald,5482.0,1188.42,GTX,United States,3015.0,0.0,3299.000882184724
+medical,GTX Pro,Condax,Darcel Schlecht,Central,Melvin Marxen,4821.0,4.539999999999964,GTX,United States,9.0,0.0,2898.199897388362
+telecommunications,MG Special,Treequote,Cecily Lampkin,Central,Dustin Brinkmann,55.0,5266.09,MG,United States,8595.0,66.0,217.82055909923974
+medical,MG Special,Condax,Niesha Huffines,Central,Melvin Marxen,55.0,4.539999999999964,MG,United States,9.0,54.0,274.67085721322405
+medical,MG Special,Condax,Cecily Lampkin,Central,Dustin Brinkmann,55.0,4.539999999999964,MG,United States,9.0,47.0,264.5463159862943
+medical,MG Advanced,Bioholding,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,587.3400000000001,MG,Philipines,1356.0,2857.0,1898.6888067434957
+software,GTX Plus Basic,Kan-code,Daniell Hammack,East,Rocco Neubert,1096.0,11698.03,GTX,United States,34288.0,1291.0,880.2898918491811
+entertainment,GTX Plus Basic,Xx-zobam,Cassey Cress,East,Rocco Neubert,1096.0,3838.39,GTX,United States,8274.0,0.0,802.2508970388758
+technolgy,MG Special,Hottechi,Moses Frase,Central,Dustin Brinkmann,55.0,8170.379999999999,MG,Korea,16499.0,59.0,148.6275996510151
+entertainment,GTX Pro,Zoomit,Maureen Marcano,West,Summer Sewald,4821.0,324.19000000000005,GTX,United States,978.0,0.0,3021.745507403173
+medical,GTX Plus Basic,Ron-tech,Gladys Colclough,Central,Melvin Marxen,1096.0,3922.42,GTX,United States,6837.0,0.0,732.8880389006663
+finance,GTX Basic,Opentech,Cassey Cress,East,Rocco Neubert,550.0,355.23,GTX,United States,853.0,0.0,459.87461937306944
+marketing,GTX Basic,Inity,Versie Hillebrand,Central,Dustin Brinkmann,550.0,2403.58,GTX,United States,8801.0,1490.9155118462227,446.95295380493826
+medical,GTX Basic,Isdom,Cecily Lampkin,Central,Dustin Brinkmann,550.0,3178.24,GTX,United States,4540.0,0.0,341.169964382369
+medical,MG Special,The New York Inquirer,Violet Mclelland,East,Cara Losch,55.0,439.21000000000026,MG,United States,792.0,61.0,327.95428882860756
+retail,MG Special,Fasehatice,Elease Gluck,West,Celia Rouche,55.0,4968.91,MG,United States,7523.0,0.0,256.5304926912088
+finance,GTX Basic,Funholding,Jonathan Berthelot,Central,Melvin Marxen,550.0,2819.5,GTX,United States,7227.0,583.0,392.89211090721597
+telecommunications,GTX Basic,Treequote,Corliss Cosme,East,Cara Losch,550.0,5266.09,GTX,United States,8595.0,1490.9155118462227,387.0693814631343
+marketing,GTX Basic,Goodsilron,James Ascencio,West,Summer Sewald,550.0,2952.73,GTX,United States,5107.0,0.0,458.21482857663204
+technolgy,MG Special,Rundofase,Anna Snelling,Central,Dustin Brinkmann,55.0,1008.06,MG,United States,1238.0,61.0,278.92379591846816
+technolgy,GTX Basic,Hottechi,James Ascencio,West,Summer Sewald,550.0,8170.379999999999,GTX,Korea,16499.0,586.0,382.81808708750646
+services,GTX Plus Basic,Warephase,Darcel Schlecht,Central,Melvin Marxen,1096.0,2041.73,GTX,United States,5276.0,986.0,808.3969116627388
+technolgy,GTX Pro,Iselectrics,Darcel Schlecht,Central,Melvin Marxen,4821.0,527.1099999999999,GTX,United States,1428.0,1490.9155118462227,2928.6560601274336
+marketing,GTX Pro,Goodsilron,Zane Levy,West,Summer Sewald,4821.0,2952.73,GTX,United States,5107.0,4797.0,2957.6603488185465
+medical,GTX Basic,Silis,Markita Hansen,West,Celia Rouche,550.0,2818.38,GTX,United States,6290.0,1490.9155118462227,485.80406682028206
+software,MG Special,Codehow,Niesha Huffines,Central,Melvin Marxen,55.0,2714.9,MG,United States,2641.0,0.0,208.1174542746553
+entertainment,GTK 500,Cheers,Elease Gluck,West,Celia Rouche,26768.0,4269.9,GTK,United States,6472.0,27971.0,14333.895579501303
+telecommunications,GTX Basic,Treequote,Lajuana Vencill,Central,Dustin Brinkmann,550.0,5266.09,GTX,United States,8595.0,0.0,355.59035383958303
+finance,GTX Plus Basic,Finhigh,Anna Snelling,Central,Dustin Brinkmann,1096.0,1102.43,GTX,United States,1759.0000000000005,1216.0,743.7306962123388
+software,MG Advanced,Dontechi,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,4618.0,MG,United States,10083.0,3428.0,1906.0146706011733
+technolgy,GTX Pro,Acme Corporation,Reed Clapper,East,Rocco Neubert,4821.0,1100.04,GTX,United States,2822.0,0.0,2961.091886289696
+retail,MG Special,Cancity,Versie Hillebrand,Central,Dustin Brinkmann,55.0,718.6199999999999,MG,United States,2448.0,61.0,281.6505581436702
+employment,MG Special,Finjob,Zane Levy,West,Summer Sewald,55.0,2059.9,MG,United States,3644.0,57.0,328.75014195063227
+telecommunications,MG Advanced,Treequote,Jonathan Berthelot,Central,Melvin Marxen,3393.0,5266.09,MG,United States,8595.0,0.0,1888.614551195127
+finance,GTX Basic,Stanredtax,Lajuana Vencill,Central,Dustin Brinkmann,550.0,1698.1999999999998,GTX,United States,3798.0,588.0,403.83542353006646
+retail,MG Special,Yearin,Violet Mclelland,East,Cara Losch,55.0,2261.05,MG,United States,3851.0,0.0,304.21246845329415
+medical,GTX Plus Pro,Lexiqvolax,Vicki Laflamme,West,Celia Rouche,5482.0,1618.89,GTX,United States,3889.0,5930.0,3250.977425345184
+software,GTX Basic,Kan-code,Boris Faz,East,Rocco Neubert,550.0,11698.03,GTX,United States,34288.0,522.0,507.43765859961775
+retail,MG Special,Blackzim,Markita Hansen,West,Celia Rouche,55.0,497.1100000000001,MG,United States,1588.0,59.0,358.0252860462517
+technolgy,GTX Plus Basic,Konex,James Ascencio,West,Summer Sewald,1096.0,7708.379999999999,GTX,United States,13756.0,1049.0,783.8922491634544
+entertainment,GTX Plus Basic,Plusstrip,Vicki Laflamme,West,Celia Rouche,1096.0,349.80999999999995,GTX,United States,315.0,1118.0,857.2587228072066
+finance,MG Advanced,Opentech,Cassey Cress,East,Rocco Neubert,3393.0,355.23,MG,United States,853.0,0.0,1989.1612037450063
+retail,GTX Plus Pro,J-Texon,James Ascencio,West,Summer Sewald,5482.0,1388.67,GTX,United States,3583.0,4824.0,3272.3658061914048
+marketing,MG Special,Konmatfix,Cecily Lampkin,Central,Dustin Brinkmann,55.0,375.42999999999984,MG,United States,1190.0,62.0,277.85060496076494
+medical,MG Advanced,Isdom,Anna Snelling,Central,Dustin Brinkmann,3393.0,3178.24,MG,United States,4540.0,0.0,1869.5441304338315
+technolgy,MG Advanced,Rangreen,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,2938.67,MG,Panama,8775.0,3254.0,1950.5188589498453
+retail,GTX Basic,Genco Pura Olive Oil Company,Gladys Colclough,Central,Melvin Marxen,550.0,894.3299999999999,GTX,Italy,1635.0,650.0,321.01638730109335
+employment,GTX Basic,Finjob,Vicki Laflamme,West,Celia Rouche,550.0,2059.9,GTX,United States,3644.0,532.0,443.0535804321173
+telecommunications,GTX Basic,Rantouch,Kami Bicknell,West,Summer Sewald,550.0,1188.42,GTX,United States,3015.0,0.0,544.0418770317993
+technolgy,GTX Plus Pro,Donquadtech,Wilburn Farren,East,Cara Losch,5482.0,1712.68,GTX,United States,3194.0,5960.0,3191.086099162595
+technolgy,GTX Plus Basic,Hottechi,Cecily Lampkin,Central,Dustin Brinkmann,1096.0,8170.379999999999,GTX,Korea,16499.0,0.0,648.9088866755422
+technolgy,GTX Plus Pro,Globex Corporation,Niesha Huffines,Central,Melvin Marxen,5482.0,1223.72,GTX,Norway,2497.0,5972.0,3133.4850310753677
+medical,GTX Plus Basic,Condax,Daniell Hammack,East,Rocco Neubert,1096.0,4.539999999999964,GTX,United States,9.0,1490.9155118462227,824.3350784956037
+software,MG Special,Codehow,Gladys Colclough,Central,Melvin Marxen,55.0,2714.9,MG,United States,2641.0,52.0,204.77192043291484
+finance,MG Special,Funholding,Anna Snelling,Central,Dustin Brinkmann,55.0,2819.5,MG,United States,7227.0,0.0,250.4722848627914
+finance,GTX Plus Basic,Finhigh,Darcel Schlecht,Central,Melvin Marxen,1096.0,1102.43,GTX,United States,1759.0000000000005,984.0,750.2055641573698
+technolgy,GTX Basic,Bluth Company,Lajuana Vencill,Central,Dustin Brinkmann,550.0,1242.32,GTX,United States,3027.0,1490.9155118462227,411.05412789293064
+medical,MG Advanced,Labdrill,Elease Gluck,West,Celia Rouche,3393.0,2741.37,MG,United States,9226.0,1490.9155118462227,2055.2846685500995
+technolgy,GTX Plus Basic,Donquadtech,Marty Freudenburg,Central,Melvin Marxen,1096.0,1712.68,GTX,United States,3194.0,1490.9155118462227,774.24270549565
+finance,GTX Plus Basic,Golddex,Hayden Neloms,West,Celia Rouche,1096.0,52.5,GTX,United States,165.0,1040.0,856.6452885451858
+medical,GTX Pro,Isdom,Gladys Colclough,Central,Melvin Marxen,4821.0,3178.24,GTX,United States,4540.0,5115.0,2842.224121526783
+medical,GTX Plus Pro,Betasoloin,Corliss Cosme,East,Cara Losch,5482.0,251.40999999999985,GTX,United States,495.0,4974.0,3180.690821756966
+finance,GTX Pro,Funholding,Darcel Schlecht,Central,Melvin Marxen,4821.0,2819.5,GTX,United States,7227.0,4247.0,2885.0382845853333
+telecommunications,MG Advanced,Gogozoom,Gladys Colclough,Central,Melvin Marxen,3393.0,86.67999999999984,MG,United States,187.0,0.0,1964.3231352574126
+technolgy,GTX Basic,Conecom,Vicki Laflamme,West,Celia Rouche,550.0,1520.66,GTX,United States,1806.0,1490.9155118462227,468.8206396048463
+retail,GTX Plus Pro,Yearin,Boris Faz,East,Rocco Neubert,5482.0,2261.05,GTX,United States,3851.0,0.0,3203.679955396718
+technolgy,MG Special,Rundofase,Versie Hillebrand,Central,Dustin Brinkmann,55.0,1008.06,MG,United States,1238.0,66.0,286.52728192242375
+retail,GTX Basic,Fasehatice,Kary Hendrixson,West,Summer Sewald,550.0,4968.91,GTX,United States,7523.0,430.0,411.07557600692917
+retail,MG Special,Plexzap,Vicki Laflamme,West,Celia Rouche,55.0,2437.85,MG,United States,4874.0,0.0,349.10346195504985
+software,MG Special,Dontechi,Rosalina Dieter,West,Celia Rouche,55.0,4618.0,MG,United States,10083.0,1490.9155118462227,326.51132105377815
+technolgy,MG Special,Doncon,Markita Hansen,West,Celia Rouche,55.0,587.72,MG,United States,1501.0,0.0,370.8575258484591
+medical,GTX Basic,Condax,Markita Hansen,West,Celia Rouche,550.0,4.539999999999964,GTX,United States,9.0,566.0,486.82774588994016
+telecommunications,MG Special,Gogozoom,Lajuana Vencill,Central,Dustin Brinkmann,55.0,86.67999999999984,MG,United States,187.0,54.0,298.3953742040569
+technolgy,MG Special,Iselectrics,Cassey Cress,East,Rocco Neubert,55.0,527.1099999999999,MG,United States,1428.0,57.0,348.4271654069844
+technolgy,MG Advanced,Rundofase,Gladys Colclough,Central,Melvin Marxen,3393.0,1008.06,MG,United States,1238.0,0.0,1949.717788014355
+software,GTX Pro,Zotware,Reed Clapper,East,Rocco Neubert,4821.0,4478.47,GTX,United States,13809.0,4743.0,3021.8190741180724
+technolgy,GTX Basic,Iselectrics,Daniell Hammack,East,Rocco Neubert,550.0,527.1099999999999,GTX,United States,1428.0,1490.9155118462227,483.155565745745
+medical,GTX Pro,Labdrill,Kary Hendrixson,West,Summer Sewald,4821.0,2741.37,GTX,United States,9226.0,4221.0,3041.0023352348217
+technolgy,GTX Plus Basic,Bluth Company,Cassey Cress,East,Rocco Neubert,1096.0,1242.32,GTX,United States,3027.0,1078.0,832.1606773414222
+software,GTX Plus Basic,Bubba Gump,Corliss Cosme,East,Cara Losch,1096.0,987.3899999999999,GTX,United States,2253.0,1046.0,809.0879642517813
+technolgy,GTX Basic,Conecom,Marty Freudenburg,Central,Melvin Marxen,550.0,1520.66,GTX,United States,1806.0,0.0,386.83005966451765
+finance,GTX Plus Basic,Finhigh,Daniell Hammack,East,Rocco Neubert,1096.0,1102.43,GTX,United States,1759.0000000000005,1490.9155118462227,798.9802195349062
+software,GTX Pro,Zotware,Boris Faz,East,Rocco Neubert,4821.0,4478.47,GTX,United States,13809.0,4125.0,3015.43214587475
+finance,GTX Pro,Funholding,Darcel Schlecht,Central,Melvin Marxen,4821.0,2819.5,GTX,United States,7227.0,5678.0,2885.0382845853333
+medical,MG Special,Ron-tech,Versie Hillebrand,Central,Dustin Brinkmann,55.0,3922.42,MG,United States,6837.0,46.0,227.3484416917413
+employment,MG Advanced,Finjob,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,2059.9,MG,United States,3644.0,1490.9155118462227,1885.0912746793276
+employment,GTX Plus Pro,Ontomedia,Garret Kinder,East,Cara Losch,5482.0,882.1199999999999,GTX,United States,2769.0,0.0,3196.1754897980763
+services,MG Advanced,Hatfan,Vicki Laflamme,West,Celia Rouche,3393.0,792.46,MG,United States,1299.0,0.0,2023.8220253214095
+medical,GTX Plus Basic,Isdom,Jonathan Berthelot,Central,Melvin Marxen,1096.0,3178.24,GTX,United States,4540.0,834.0,720.4970655769635
+services,GTX Plus Basic,Warephase,Jonathan Berthelot,Central,Melvin Marxen,1096.0,2041.73,GTX,United States,5276.0,1190.0,810.5258877438464
+marketing,GTX Pro,Mathtouch,Reed Clapper,East,Rocco Neubert,4821.0,3027.46,GTX,Jordan,9516.0,5420.0,2917.1224554393702
+services,MG Advanced,Warephase,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,2041.73,MG,United States,5276.0,0.0,1960.4853709211889
+medical,GTX Plus Pro,Lexiqvolax,Kary Hendrixson,West,Summer Sewald,5482.0,1618.89,GTX,United States,3889.0,5056.0,3266.23201671977
+software,GTX Plus Basic,Kan-code,Cassey Cress,East,Rocco Neubert,1096.0,11698.03,GTX,United States,34288.0,0.0,879.3774735287064
+technolgy,GTX Plus Pro,Acme Corporation,Boris Faz,East,Rocco Neubert,5482.0,1100.04,GTX,United States,2822.0,0.0,3215.388813440073
+medical,MG Special,Bioholding,Gladys Colclough,Central,Melvin Marxen,55.0,587.3400000000001,MG,Philipines,1356.0,0.0,238.41143501640454
+technolgy,MG Advanced,Konex,Reed Clapper,East,Rocco Neubert,3393.0,7708.379999999999,MG,United States,13756.0,0.0,1895.5057576303486
+employment,GTX Pro,Y-corporation,Markita Hansen,West,Celia Rouche,4821.0,2871.35,GTX,United States,9561.0,4487.0,3020.4175997878374
+medical,MG Advanced,Labdrill,Hayden Neloms,West,Celia Rouche,3393.0,2741.37,MG,United States,9226.0,3807.0,2056.197086870574
+medical,MG Advanced,Condax,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,4.539999999999964,MG,United States,9.0,0.0,1927.6488823765176
+retail,GTX Plus Basic,J-Texon,Markita Hansen,West,Celia Rouche,1096.0,1388.67,GTX,United States,3583.0,788.0,871.9630485118746
+telecommunications,MG Advanced,Treequote,Niesha Huffines,Central,Melvin Marxen,3393.0,5266.09,MG,United States,8595.0,3841.0,1891.0476667163928
+retail,MG Advanced,Fasehatice,Markita Hansen,West,Celia Rouche,3393.0,4968.91,MG,United States,7523.0,3271.0,1922.3703140428559
+finance,GTX Plus Basic,Golddex,James Ascencio,West,Summer Sewald,1096.0,52.5,GTX,United States,165.0,0.0,875.5495532016705
+software,GTX Basic,Dontechi,Lajuana Vencill,Central,Dustin Brinkmann,550.0,4618.0,GTX,United States,10083.0,0.0,373.99083126781215
+retail,MG Special,Ganjaflex,Rosalina Dieter,West,Celia Rouche,55.0,5158.71,MG,Japan,17479.0,1490.9155118462227,342.58217818313824
+technolgy,GTX Pro,Bluth Company,Cassey Cress,East,Rocco Neubert,4821.0,1242.32,GTX,United States,3027.0,4519.0,2954.8001516117165
+retail,GTX Basic,Genco Pura Olive Oil Company,Darcel Schlecht,Central,Melvin Marxen,550.0,894.3299999999999,GTX,Italy,1635.0,657.0,319.79982954046045
+retail,MG Special,Genco Pura Olive Oil Company,Cecily Lampkin,Central,Dustin Brinkmann,55.0,894.3299999999999,MG,Italy,1635.0,0.0,180.4213978976179
+services,GTX Basic,Warephase,Moses Frase,Central,Dustin Brinkmann,550.0,2041.73,GTX,United States,5276.0,575.0,436.369157031942
+software,GTX Plus Basic,Zotware,Boris Faz,East,Rocco Neubert,1096.0,4478.47,GTX,United States,13809.0,1114.0,892.7926716044552
+marketing,GTX Basic,Scottech,Jonathan Berthelot,Central,Melvin Marxen,550.0,45.38999999999987,GTX,United States,100.0,595.0,424.74135277898336
+medical,GTX Basic,Bioplex,Daniell Hammack,East,Rocco Neubert,550.0,326.82000000000016,GTX,United States,1016.0,0.0,451.12832759028197
+technolgy,GTX Pro,Acme Corporation,Daniell Hammack,East,Rocco Neubert,4821.0,1100.04,GTX,United States,2822.0,5378.0,2955.921515807006
+marketing,GTX Pro,Mathtouch,Darcel Schlecht,East,Rocco Neubert,4821.0,3027.46,GTX,Jordan,9516.0,0.0,2912.5603638369967
+marketing,MG Special,dambase,Versie Hillebrand,Central,Dustin Brinkmann,55.0,2173.98,MG,United States,2928.0,61.0,251.29978964456495
+retail,GTX Plus Basic,Toughzap,Niesha Huffines,Central,Melvin Marxen,1096.0,332.42999999999984,GTX,United States,799.0,0.0,811.0227542700445
+marketing,MG Advanced,Inity,Niesha Huffines,Central,Melvin Marxen,3393.0,2403.58,MG,United States,8801.0,3392.0,1979.6730117203238
+marketing,GTX Plus Pro,Inity,Versie Hillebrand,Central,Dustin Brinkmann,5482.0,2403.58,GTX,United States,8801.0,0.0,3201.9119589578636
+entertainment,GTX Pro,Plusstrip,Gladys Colclough,Central,Melvin Marxen,4821.0,349.80999999999995,GTX,United States,315.0,1490.9155118462227,2895.474501615907
+marketing,MG Advanced,Konmatfix,Moses Frase,Central,Dustin Brinkmann,3393.0,375.42999999999984,MG,United States,1190.0,3330.0,1946.1235418336782
+telecommunications,GTX Plus Basic,Faxquote,Markita Hansen,West,Celia Rouche,1096.0,1825.82,GTX,United States,5595.0,1169.0,893.7740503515936
+marketing,MG Advanced,Inity,Moses Frase,Central,Dustin Brinkmann,3393.0,2403.58,MG,United States,8801.0,0.0,1974.718840976084
+retail,MG Advanced,Blackzim,Hayden Neloms,West,Celia Rouche,3393.0,497.1100000000001,MG,United States,1588.0,0.0,2019.3030157955254
+retail,GTX Pro,Genco Pura Olive Oil Company,Darcel Schlecht,Central,Melvin Marxen,4821.0,894.3299999999999,GTX,Italy,1635.0,4577.0,2814.0749792996853
+medical,GTX Pro,Condax,Zane Levy,West,Summer Sewald,4821.0,4.539999999999964,GTX,United States,9.0,4642.0,3003.35269414739
+technolgy,MG Special,Hottechi,Vicki Laflamme,West,Celia Rouche,55.0,8170.379999999999,MG,Korea,16499.0,53.0,234.65993201510878
+retail,GTX Pro,J-Texon,Kami Bicknell,West,Summer Sewald,4821.0,1388.67,GTX,United States,3583.0,4467.0,3012.2902296780208
+entertainment,GTK 500,Cheers,Markita Hansen,West,Celia Rouche,26768.0,4269.9,GTK,United States,6472.0,29166.0,14336.632834462725
+technolgy,GTX Pro,Conecom,Kary Hendrixson,West,Summer Sewald,4821.0,1520.66,GTX,United States,1806.0,1490.9155118462227,2978.350380738657
+entertainment,MG Advanced,Massive Dynamic,Corliss Cosme,East,Cara Losch,3393.0,665.06,MG,United States,1095.0,1490.9155118462227,1954.203242665905
+software,GTX Basic,Bubba Gump,Darcel Schlecht,East,Rocco Neubert,550.0,987.3899999999999,GTX,United States,2253.0,0.0,456.964832299652
+technolgy,GTX Basic,Konex,Maureen Marcano,West,Summer Sewald,550.0,7708.379999999999,GTX,United States,13756.0,0.0,414.3855497556317
+technolgy,GTX Pro,Zencorporation,Rosie Papadopoulos,East,Cara Losch,4821.0,40.789999999999964,GTX,China,142.0,4575.0,2887.394896623578
+marketing,GTX Pro,Mathtouch,Violet Mclelland,East,Cara Losch,4821.0,3027.46,GTX,Jordan,9516.0,5159.0,2900.043027423835
+marketing,GTX Plus Basic,Konmatfix,Moses Frase,Central,Dustin Brinkmann,1096.0,375.42999999999984,GTX,United States,1190.0,0.0,788.4726329506718
+entertainment,GTX Basic,Cheers,Kary Hendrixson,West,Summer Sewald,550.0,4269.9,GTX,United States,6472.0,0.0,402.72545213023795
+telecommunications,MG Advanced,Faxquote,Kami Bicknell,West,Summer Sewald,3393.0,1825.82,MG,United States,5595.0,3523.0,2069.1126661304515
+medical,MG Special,Isdom,Versie Hillebrand,Central,Dustin Brinkmann,55.0,3178.24,MG,United States,4540.0,54.0,214.04505004756402
+finance,GTX Basic,Funholding,Darcel Schlecht,Central,Melvin Marxen,550.0,2819.5,GTX,United States,7227.0,571.0,390.7631348261084
+technolgy,GTX Basic,Konex,James Ascencio,West,Summer Sewald,550.0,7708.379999999999,GTX,United States,13756.0,0.0,412.2565736745239
+marketing,MG Advanced,dambase,Niesha Huffines,Central,Melvin Marxen,3393.0,2173.98,MG,United States,2928.0,0.0,1917.835829578237
+finance,GTX Plus Basic,Funholding,Jonathan Berthelot,Central,Melvin Marxen,1096.0,2819.5,GTX,United States,7227.0,0.0,764.5277863961467
+telecommunications,MG Special,Rantouch,Elease Gluck,West,Celia Rouche,55.0,1188.42,MG,United States,3015.0,60.0,389.8009331562373
+marketing,MG Special,dambase,Marty Freudenburg,Central,Melvin Marxen,55.0,2173.98,MG,United States,2928.0,64.0,253.8208448675391
+retail,GTX Basic,Zathunicon,Cassey Cress,East,Rocco Neubert,550.0,71.11999999999989,GTX,United States,144.0,553.0,488.179522962398
+software,GTX Basic,Kan-code,Darcel Schlecht,East,Rocco Neubert,550.0,11698.03,GTX,United States,34288.0,462.0,509.2624952405671
+retail,GTX Pro,Singletechno,Kami Bicknell,West,Summer Sewald,4821.0,2214.94,GTX,United States,5374.0,4373.0,3015.1232826145324
+technolgy,GTX Basic,Rundofase,Anna Snelling,Central,Dustin Brinkmann,550.0,1008.06,GTX,United States,1238.0,0.0,412.7397779367543
+technolgy,GTX Pro,Hottechi,Jonathan Berthelot,Central,Melvin Marxen,4821.0,8170.379999999999,GTX,Korea,16499.0,4606.0,2779.2397866515003
+finance,GTX Plus Pro,Finhigh,Gladys Colclough,Central,Melvin Marxen,5482.0,1102.43,GTX,United States,1759.0000000000005,5385.0,3134.7454515819973
+technolgy,GTX Basic,Hottechi,Kary Hendrixson,West,Summer Sewald,550.0,8170.379999999999,GTX,Korea,16499.0,0.0,383.7305054079809
+retail,GTX Plus Basic,Fasehatice,Zane Levy,West,Summer Sewald,1096.0,4968.91,GTX,United States,7523.0,0.0,786.9692036580748
+medical,MG Advanced,Condax,Niesha Huffines,Central,Melvin Marxen,3393.0,4.539999999999964,MG,United States,9.0,3079.0,1937.773423603447
+software,MG Special,Codehow,Niesha Huffines,Central,Melvin Marxen,55.0,2714.9,MG,United States,2641.0,0.0,208.1174542746553
+medical,GTX Pro,Condax,Reed Clapper,East,Rocco Neubert,4821.0,4.539999999999964,GTX,United States,9.0,0.0,2952.144923248588
+services,GTX Plus Pro,Hatfan,Darcel Schlecht,Central,Melvin Marxen,5482.0,792.46,GTX,United States,1299.0,1490.9155118462227,3163.8541928801706
+services,GTX Pro,Warephase,Darcel Schlecht,Central,Melvin Marxen,4821.0,2041.73,GTX,United States,5276.0,5192.0,2931.0363859330337
+medical,GTX Plus Pro,The New York Inquirer,Corliss Cosme,East,Cara Losch,5482.0,439.21000000000026,GTX,United States,792.0,5529.0,3209.7340688761797
+marketing,MG Special,dambase,Darcel Schlecht,Central,Melvin Marxen,55.0,2173.98,MG,United States,2928.0,0.0,250.17117158564042
+software,GTX Plus Basic,Kan-code,Markita Hansen,West,Celia Rouche,1096.0,11698.03,GTX,United States,34288.0,1045.0,914.4182347324482
+medical,MG Advanced,Ron-tech,Niesha Huffines,Central,Melvin Marxen,3393.0,3922.42,MG,United States,6837.0,3167.0,1893.8844816254132
+technolgy,GTX Pro,Hottechi,Gladys Colclough,Central,Melvin Marxen,4821.0,8170.379999999999,GTX,Korea,16499.0,0.0,2778.3273683310254
+technolgy,GTX Plus Basic,Konex,Markita Hansen,West,Celia Rouche,1096.0,7708.379999999999,GTX,United States,13756.0,0.0,766.8128211479193
+software,MG Special,Dontechi,Versie Hillebrand,Central,Dustin Brinkmann,55.0,4618.0,MG,United States,10083.0,59.0,242.91210421095002
+retail,MG Advanced,J-Texon,Rosalina Dieter,West,Celia Rouche,3393.0,1388.67,MG,United States,3583.0,3379.0,2031.4387940358304
+software,GTX Basic,Zotware,Corliss Cosme,East,Cara Losch,550.0,4478.47,GTX,United States,13809.0,0.0,503.469289219673
+medical,GTX Basic,Ron-tech,Niesha Huffines,Central,Melvin Marxen,550.0,3922.42,GTX,United States,6837.0,461.0,364.5978972534763
+marketing,MG Special,Scottech,Gladys Colclough,Central,Melvin Marxen,55.0,45.38999999999987,MG,United States,100.0,57.0,290.0129524402223
+entertainment,GTX Basic,Cheers,Kami Bicknell,West,Summer Sewald,550.0,4269.9,GTX,United States,6472.0,568.0,402.4213126900795
+retail,GTX Basic,J-Texon,James Ascencio,West,Summer Sewald,550.0,1388.67,GTX,United States,3583.0,507.0,517.4068010384794
+medical,GTX Pro,Condax,Darcel Schlecht,Central,Melvin Marxen,4821.0,4.539999999999964,GTX,United States,9.0,5559.0,2898.199897388362
+technolgy,GTX Pro,Konex,Markita Hansen,West,Celia Rouche,4821.0,7708.379999999999,GTX,United States,13756.0,0.0,2889.4522954182135
+finance,MG Advanced,Funholding,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,2819.5,MG,United States,7227.0,2871.0,1921.17833725697
+technolgy,MG Advanced,Rangreen,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,2938.67,MG,Panama,8775.0,0.0,1950.5188589498453
+medical,MG Special,Ron-tech,Niesha Huffines,Central,Melvin Marxen,55.0,3922.42,MG,United States,6837.0,0.0,230.7819152351899
+employment,GTX Plus Basic,Y-corporation,Maureen Marcano,West,Summer Sewald,1096.0,2871.35,GTX,United States,9561.0,1121.0,916.9865296141859
+retail,GTX Plus Basic,Singletechno,Kary Hendrixson,West,Summer Sewald,1096.0,2214.94,GTX,United States,5374.0,0.0,892.787947784396
+retail,GTX Pro,Plussunin,Zane Levy,West,Summer Sewald,4821.0,1419.98,GTX,United States,4018.0,1490.9155118462227,3029.7096044890623
+medical,MG Special,Isdom,Versie Hillebrand,Central,Dustin Brinkmann,55.0,3178.24,MG,United States,4540.0,61.0,214.0450500475638
+marketing,MG Special,Inity,Niesha Huffines,Central,Melvin Marxen,55.0,2403.58,MG,United States,8801.0,48.0,316.5704453301007
+telecommunications,GTX Plus Basic,Rantouch,Kami Bicknell,West,Summer Sewald,1096.0,1188.42,GTX,United States,3015.0,1104.0,915.6775525207298
+medical,GTX Basic,Labdrill,Vicki Laflamme,West,Celia Rouche,550.0,2741.37,GTX,United States,9226.0,595.0,531.4725941010106
+software,GTX Plus Pro,Zotware,Wilburn Farren,East,Cara Losch,5482.0,4478.47,GTX,United States,13809.0,0.0,3265.727640936396
+retail,GTX Basic,Gekko & Co,Darcel Schlecht,East,Rocco Neubert,550.0,2520.83,GTX,United States,3502.0,635.0,407.6764502146773
+employment,GTX Pro,Y-corporation,Zane Levy,West,Summer Sewald,4821.0,2871.35,GTX,United States,9561.0,0.0,3042.667398286062
+retail,GTX Plus Basic,Streethex,Cecily Lampkin,Central,Dustin Brinkmann,1096.0,1376.8,GTX,Belgium,1165.0,0.0,642.8826344413593
+technolgy,MG Special,Donquadtech,Violet Mclelland,East,Cara Losch,55.0,1712.68,MG,United States,3194.0,55.0,302.00697255122554
+telecommunications,GTX Plus Pro,Rantouch,James Ascencio,West,Summer Sewald,5482.0,1188.42,GTX,United States,3015.0,0.0,3298.392603304408
+employment,MG Special,Y-corporation,Vicki Laflamme,West,Celia Rouche,55.0,2871.35,MG,United States,9561.0,46.0,395.06372297175017
+technolgy,GTX Basic,Conecom,Cecily Lampkin,Central,Dustin Brinkmann,550.0,1520.66,GTX,United States,1806.0,497.0,377.6179367580628
+medical,MG Special,Condax,Violet Mclelland,East,Cara Losch,55.0,4.539999999999964,MG,United States,9.0,55.0,306.9743634555416
+software,GTX Plus Basic,Zotware,Reed Clapper,East,Rocco Neubert,1096.0,4478.47,GTX,United States,13809.0,1123.0,899.1795998477779
+retail,GTX Plus Basic,Singletechno,Kary Hendrixson,West,Summer Sewald,1096.0,2214.94,GTX,United States,5374.0,1028.0,892.787947784396
+medical,GTX Basic,Bioholding,Lajuana Vencill,Central,Dustin Brinkmann,550.0,587.3400000000001,GTX,Philipines,1356.0,0.0,369.40222237155854
+software,MG Special,Codehow,Versie Hillebrand,Central,Dustin Brinkmann,55.0,2714.9,MG,United States,2641.0,0.0,204.6839807312067
+retail,GTX Plus Pro,Cancity,Gladys Colclough,Central,Melvin Marxen,5482.0,718.6199999999999,GTX,United States,2448.0,0.0,3170.5134850165896
+technolgy,GTX Basic,Donquadtech,Corliss Cosme,East,Cara Losch,550.0,1712.68,GTX,United States,3194.0,542.0,428.82774744587255
+medical,GTX Basic,Condax,Markita Hansen,West,Celia Rouche,550.0,4.539999999999964,GTX,United States,9.0,522.0,486.82774588994016
+employment,GTX Pro,Ontomedia,Daniell Hammack,East,Rocco Neubert,4821.0,882.1199999999999,GTX,United States,2769.0,4942.0,2952.875201860069
+marketing,GTX Plus Basic,Donware,Boris Faz,East,Rocco Neubert,1096.0,1197.44,GTX,United States,2570.0,1171.0,809.698875997415
+medical,GTX Basic,Betatech,Darcel Schlecht,Central,Melvin Marxen,550.0,647.1799999999998,GTX,Kenya,1185.0,576.0,332.2253922175171
+retail,MG Special,Yearin,Violet Mclelland,East,Cara Losch,55.0,2261.05,MG,United States,3851.0,55.0,304.21246845329415
+telecommunications,GTX Plus Pro,Initech,Darcel Schlecht,East,Rocco Neubert,5482.0,6395.05,GTX,United States,20275.0,5204.0,3282.7758972985966
+finance,GTX Basic,Golddex,Vicki Laflamme,West,Celia Rouche,550.0,52.5,GTX,United States,165.0,544.0,489.57170465862885
+finance,GTX Plus Pro,Vehement Capital Partners,Cassey Cress,East,Rocco Neubert,5482.0,646.0999999999999,GTX,United States,883.0,6117.0,3212.774863674153
+retail,GTX Pro,Genco Pura Olive Oil Company,Gladys Colclough,Central,Melvin Marxen,4821.0,894.3299999999999,GTX,Italy,1635.0,1490.9155118462227,2815.2915370603187
+software,MG Advanced,Zotware,Garret Kinder,East,Cara Losch,3393.0,4478.47,MG,United States,13809.0,0.0,2034.2765707924011
+employment,GTX Plus Basic,Finjob,Maureen Marcano,West,Summer Sewald,1096.0,2059.9,GTX,United States,3644.0,0.0,831.1604050562668
+medical,GTX Plus Pro,Isdom,Darcel Schlecht,Central,Melvin Marxen,5482.0,3178.24,GTX,United States,4540.0,1490.9155118462227,3101.6914191598507
+medical,MG Advanced,The New York Inquirer,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,439.21000000000026,MG,United States,792.0,1490.9155118462227,1952.5826204716402
+technolgy,MG Special,Konex,Cassey Cress,East,Rocco Neubert,55.0,7708.379999999999,MG,United States,13756.0,59.0,226.3204024369611
+medical,MG Advanced,Isdom,Darcel Schlecht,Central,Melvin Marxen,3393.0,3178.24,MG,United States,4540.0,2837.0,1876.0189983788623
+retail,MG Advanced,Toughzap,Gladys Colclough,Central,Melvin Marxen,3393.0,332.42999999999984,MG,United States,799.0,0.0,1965.3281293113102
+technolgy,GTX Plus Basic,Konex,Boris Faz,East,Rocco Neubert,1096.0,7708.379999999999,GTX,United States,13756.0,1140.0,731.4679205040195
+medical,GTX Plus Basic,Bioholding,Darcel Schlecht,Central,Melvin Marxen,1096.0,587.3400000000001,GTX,Philipines,1356.0,1118.0,742.6465347629885
+technolgy,MG Special,Doncon,Versie Hillebrand,Central,Dustin Brinkmann,55.0,587.72,MG,United States,1501.0,1490.9155118462227,289.0831456465803
+technolgy,GTX Plus Pro,Doncon,Zane Levy,West,Summer Sewald,5482.0,587.72,GTX,United States,1501.0,5370.0,3281.8823115178957
+telecommunications,MG Special,Initech,Darcel Schlecht,East,Rocco Neubert,55.0,6395.05,MG,United States,20275.0,0.0,394.0009101273856
+services,GTX Pro,Hatfan,Rosalina Dieter,West,Celia Rouche,4821.0,792.46,GTX,United States,1299.0,4760.0,2987.8981723882225
+employment,GTX Plus Pro,Y-corporation,James Ascencio,West,Summer Sewald,5482.0,2871.35,GTX,United States,9561.0,0.0,3298.180883197073
+telecommunications,MG Special,Rantouch,Rosalina Dieter,West,Celia Rouche,55.0,1188.42,MG,United States,3015.0,0.0,394.36302475861066
+retail,MG Special,Kinnamplus,Corliss Cosme,East,Cara Losch,55.0,702.7199999999998,MG,United States,1831.0,50.0,316.968602995664
+entertainment,GTX Plus Pro,Xx-zobam,Daniell Hammack,East,Rocco Neubert,5482.0,3838.39,GTX,United States,8274.0,6920.0,3186.486645023345
+medical,GTX Pro,Bioplex,Reed Clapper,East,Rocco Neubert,4821.0,326.82000000000016,GTX,United States,1016.0,5186.0,2950.5738478321964
+retail,MG Special,Kinnamplus,Boris Faz,East,Rocco Neubert,55.0,702.7199999999998,MG,United States,1831.0,0.0,334.65630989151555
+entertainment,GTX Basic,Xx-zobam,Darcel Schlecht,East,Rocco Neubert,550.0,3838.39,GTX,United States,8274.0,0.0,432.13591875073644
+employment,MG Advanced,Finjob,James Ascencio,West,Summer Sewald,3393.0,2059.9,MG,United States,3644.0,3296.0,1986.6823378581655
+software,GTX Basic,Kan-code,Garret Kinder,East,Cara Losch,550.0,11698.03,GTX,United States,34288.0,566.0,491.2706489045571
+finance,GTX Basic,Vehement Capital Partners,Garret Kinder,East,Cara Losch,550.0,646.0999999999999,GTX,United States,883.0,0.0,441.3447093860091
+retail,GTX Basic,Gekko & Co,Daniell Hammack,East,Rocco Neubert,550.0,2520.83,GTX,United States,3502.0,0.0,407.06817133436084
+services,GTX Basic,Green-Plus,James Ascencio,West,Summer Sewald,550.0,692.19,GTX,United States,1922.0,0.0,522.5472331637083
+telecommunications,MG Advanced,Rantouch,Vicki Laflamme,West,Celia Rouche,3393.0,1188.42,MG,United States,3015.0,3615.0,2058.3780094693084
+retail,GTX Plus Pro,Toughzap,Darcel Schlecht,Central,Melvin Marxen,5482.0,332.42999999999984,GTX,United States,799.0,0.0,3189.783992331666
+finance,MG Advanced,Finhigh,Darcel Schlecht,Central,Melvin Marxen,3393.0,1102.43,MG,United States,1759.0000000000005,3031.0,1907.8564730403762
+finance,MG Special,Xx-holding,Rosalina Dieter,West,Celia Rouche,55.0,7537.24,MG,United States,20293.0,1490.9155118462227,365.78040433191495
+technolgy,MG Advanced,Rundofase,Moses Frase,Central,Dustin Brinkmann,3393.0,1008.06,MG,United States,1238.0,0.0,1948.1091511118557
+medical,MG Advanced,Zumgoity,Niesha Huffines,Central,Melvin Marxen,3393.0,441.0799999999999,MG,United States,1210.0,0.0,1972.182349297335
+technolgy,MG Advanced,Globex Corporation,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,1223.72,MG,Norway,2497.0,3522.0,1904.3791367509307
+employment,MG Advanced,Statholdings,Anna Snelling,Central,Dustin Brinkmann,3393.0,291.27,MG,United States,586.0,0.0,1931.094943986648
+retail,GTX Basic,Zathunicon,Cassey Cress,East,Rocco Neubert,550.0,71.11999999999989,GTX,United States,144.0,580.0,488.179522962398
+finance,MG Special,Opentech,Violet Mclelland,East,Cara Losch,55.0,355.23,MG,United States,853.0,57.0,315.0619981424127
+software,GTX Plus Pro,Kan-code,Maureen Marcano,West,Summer Sewald,5482.0,11698.03,GTX,United States,34288.0,0.0,3316.949968493086
+retail,MG Special,Cancity,Moses Frase,Central,Dustin Brinkmann,55.0,718.6199999999999,MG,United States,2448.0,0.0,280.1298609428791
+technolgy,GTX Pro,Hottechi,Elease Gluck,West,Celia Rouche,4821.0,8170.379999999999,GTX,Korea,16499.0,4330.0,2857.276553869772
+retail,MG Advanced,Blackzim,Elease Gluck,West,Celia Rouche,3393.0,497.1100000000001,MG,United States,1588.0,0.0,2018.3905974750508
+marketing,MG Special,dambase,Anna Snelling,Central,Dustin Brinkmann,55.0,2173.98,MG,United States,2928.0,0.0,243.69630364060936
+entertainment,GTX Basic,Dalttechnology,Niesha Huffines,Central,Melvin Marxen,550.0,217.8699999999999,GTX,United States,551.0,0.0,395.5731603597171
+retail,MG Special,Yearin,Violet Mclelland,East,Cara Losch,55.0,2261.05,MG,United States,3851.0,55.0,304.21246845329415
+services,GTX Pro,Warephase,Darcel Schlecht,Central,Melvin Marxen,4821.0,2041.73,GTX,United States,5276.0,0.0,2931.0363859330337
+finance,GTX Basic,Vehement Capital Partners,Boris Faz,East,Rocco Neubert,550.0,646.0999999999999,GTX,United States,883.0,0.0,457.5117190810697
+technolgy,MG Special,Zencorporation,Kary Hendrixson,West,Summer Sewald,55.0,40.789999999999964,MG,China,142.0,1490.9155118462227,324.24542991866383
+software,MG Advanced,Kan-code,Markita Hansen,West,Celia Rouche,3393.0,11698.03,MG,United States,34288.0,0.0,2072.0691436154543
+medical,GTX Basic,Condax,Violet Mclelland,East,Cara Losch,550.0,4.539999999999964,GTX,United States,9.0,0.0,440.79034547382776
+medical,GTX Plus Basic,Betatech,Jonathan Berthelot,Central,Melvin Marxen,1096.0,647.1799999999998,GTX,Kenya,1185.0,1243.0,705.9900437875551
+marketing,GTX Plus Pro,dambase,Moses Frase,Central,Dustin Brinkmann,5482.0,2173.98,GTX,United States,2928.0,0.0,3138.5540796149853
+retail,MG Advanced,Gekko & Co,Corliss Cosme,East,Cara Losch,3393.0,2520.83,MG,United States,3502.0,3351.0,1917.450491049813
+software,MG Special,Zotware,James Ascencio,West,Summer Sewald,55.0,4478.47,MG,United States,13809.0,1490.9155118462227,439.7653427566736
+retail,MG Advanced,Plussunin,Violet Mclelland,East,Cara Losch,3393.0,1419.98,MG,United States,4018.0,3863.0,1996.4338401874365
+marketing,MG Special,Konmatfix,Moses Frase,Central,Dustin Brinkmann,55.0,375.42999999999984,MG,United States,1190.0,50.0,283.020975443455
+telecommunications,GTX Pro,Treequote,Jonathan Berthelot,Central,Melvin Marxen,4821.0,5266.09,GTX,United States,8595.0,0.0,2853.603116582415
+software,MG Advanced,Bubba Gump,Cassey Cress,East,Rocco Neubert,3393.0,987.3899999999999,MG,United States,2253.0,0.0,1984.7307194707978
+medical,GTX Basic,Betasoloin,Boris Faz,East,Rocco Neubert,550.0,251.40999999999985,GTX,United States,495.0,574.0,443.4195234998929
+retail,MG Special,Streethex,Niesha Huffines,Central,Melvin Marxen,55.0,1376.8,MG,Belgium,1165.0,0.0,147.5555181610723
+medical,MG Advanced,Ron-tech,Darcel Schlecht,Central,Melvin Marxen,3393.0,3922.42,MG,United States,6837.0,3771.0,1889.3223900230398
+marketing,GTX Basic,Donware,Cassey Cress,East,Rocco Neubert,550.0,1197.44,GTX,United States,2570.0,633.0,438.3673399486429
+retail,MG Special,Kinnamplus,Violet Mclelland,East,Cara Losch,55.0,702.7199999999998,MG,United States,1831.0,50.0,323.9638101193034
+medical,GTX Basic,Bioplex,Zane Levy,West,Summer Sewald,550.0,326.82000000000016,GTX,United States,1016.0,1490.9155118462227,507.5064689717741
+technolgy,GTX Pro,Donquadtech,Reed Clapper,East,Rocco Neubert,4821.0,1712.68,GTX,United States,3194.0,0.0,2947.1775323442716
+technolgy,GTX Basic,Acme Corporation,Reed Clapper,East,Rocco Neubert,550.0,1100.04,GTX,United States,2822.0,556.0,466.81673653047096
+software,GTX Plus Pro,Dontechi,Anna Snelling,Central,Dustin Brinkmann,5482.0,4618.0,GTX,United States,10083.0,4784.0,3124.083605378206
+medical,GTX Basic,Zumgoity,Lajuana Vencill,Central,Dustin Brinkmann,550.0,441.0799999999999,GTX,United States,1210.0,559.0,436.7250364205256
+software,MG Advanced,Zotware,Darcel Schlecht,East,Rocco Neubert,3393.0,4478.47,MG,United States,13809.0,0.0,2052.268417128411
+retail,GTX Pro,Yearin,Darcel Schlecht,East,Rocco Neubert,4821.0,2261.05,GTX,United States,3851.0,5316.0,2944.820936643967
+entertainment,MG Special,Plusstrip,Maureen Marcano,West,Summer Sewald,55.0,349.80999999999995,MG,United States,315.0,57.0,368.27821443520884
+medical,GTX Basic,Condax,Vicki Laflamme,West,Celia Rouche,550.0,4.539999999999964,GTX,United States,9.0,499.0,489.5650008513642
+retail,GTX Plus Pro,Plexzap,Zane Levy,West,Summer Sewald,5482.0,2437.85,GTX,United States,4874.0,0.0,3257.390992663062
+technolgy,GTX Plus Basic,Donquadtech,Corliss Cosme,East,Cara Losch,1096.0,1712.68,GTX,United States,3194.0,1251.0,800.4634229348029
+retail,GTX Plus Basic,Singletechno,Kary Hendrixson,West,Summer Sewald,1096.0,2214.94,GTX,United States,5374.0,993.0,892.787947784396
+entertainment,GTX Basic,Massive Dynamic,Garret Kinder,East,Cara Losch,550.0,665.06,GTX,United States,1095.0,0.0,426.43735549475923
+retail,GTX Basic,Kinnamplus,Corliss Cosme,East,Cara Losch,550.0,702.7199999999998,GTX,United States,1831.0,495.0,450.78458501395016
+software,GTX Plus Basic,Dontechi,Darcel Schlecht,Central,Melvin Marxen,1096.0,4618.0,GTX,United States,10083.0,1029.0,747.2351436592421
+finance,GTX Basic,Stanredtax,Niesha Huffines,Central,Melvin Marxen,550.0,1698.1999999999998,GTX,United States,3798.0,0.0,410.0061520349391
+telecommunications,GTX Pro,Treequote,Niesha Huffines,Central,Melvin Marxen,4821.0,5266.09,GTX,United States,8595.0,0.0,2856.036232103681
+finance,MG Special,Finhigh,Hayden Neloms,West,Celia Rouche,55.0,1102.43,MG,United States,1759.0000000000005,1490.9155118462227,325.8320682700071
+employment,MG Advanced,Statholdings,Anna Snelling,Central,Dustin Brinkmann,3393.0,291.27,MG,United States,586.0,0.0,1931.094943986648
+software,MG Special,Dontechi,Versie Hillebrand,Central,Dustin Brinkmann,55.0,4618.0,MG,United States,10083.0,56.0,242.91210421095002
+medical,MG Advanced,Ron-tech,Niesha Huffines,Central,Melvin Marxen,3393.0,3922.42,MG,United States,6837.0,0.0,1893.8844816254132
+services,GTX Pro,Warephase,Jonathan Berthelot,Central,Melvin Marxen,4821.0,2041.73,GTX,United States,5276.0,0.0,2933.165362014141
+retail,GTX Plus Pro,Kinnamplus,Corliss Cosme,East,Cara Losch,5482.0,702.7199999999998,GTX,United States,1831.0,5711.0,3205.743590166875
+medical,MG Special,Ron-tech,Anna Snelling,Central,Dustin Brinkmann,55.0,3922.42,MG,United States,6837.0,58.0,219.7449556877857
+services,GTX Pro,Green-Plus,Vicki Laflamme,West,Celia Rouche,4821.0,692.19,GTX,United States,1922.0,1490.9155118462227,3002.4802098688215
+technolgy,GTX Plus Basic,Globex Corporation,Jonathan Berthelot,Central,Melvin Marxen,1096.0,1223.72,GTX,Norway,2497.0,1490.9155118462227,747.7285858901074
+retail,GTX Plus Basic,Genco Pura Olive Oil Company,Niesha Huffines,Central,Melvin Marxen,1096.0,894.3299999999999,GTX,Italy,1635.0,1051.0,695.9975966317645
+telecommunications,GTX Pro,Gogozoom,Darcel Schlecht,Central,Melvin Marxen,4821.0,86.67999999999984,GTX,United States,187.0,4413.0,2928.0951428840676
+finance,MG Advanced,Vehement Capital Partners,Reed Clapper,East,Rocco Neubert,3393.0,646.0999999999999,MG,United States,883.0,0.0,1993.1852316963295
+retail,GTX Basic,J-Texon,Zane Levy,West,Summer Sewald,550.0,1388.67,GTX,United States,3583.0,502.0,522.5771715211692
+technolgy,GTX Pro,Globex Corporation,Darcel Schlecht,Central,Melvin Marxen,4821.0,1223.72,GTX,Norway,2497.0,5107.0,2868.239084079294
+marketing,GTX Plus Pro,Goodsilron,Maureen Marcano,West,Summer Sewald,5482.0,2952.73,GTX,United States,5107.0,4667.0,3215.302809810665
+entertainment,GTX Plus Basic,Massive Dynamic,Cassey Cress,East,Rocco Neubert,1096.0,665.06,GTX,United States,1095.0,1311.0,814.5441801189086
+technolgy,MG Advanced,Iselectrics,Cassey Cress,East,Rocco Neubert,3393.0,527.1099999999999,MG,United States,1428.0,3772.0,2011.5297317972074
+telecommunications,GTX Basic,Treequote,Lajuana Vencill,Central,Dustin Brinkmann,550.0,5266.09,GTX,United States,8595.0,0.0,355.59035383958303
+entertainment,MG Special,Dalttechnology,Anna Snelling,Central,Dustin Brinkmann,55.0,217.8699999999999,MG,United States,551.0,0.0,250.72021879402632
+marketing,GTX Basic,Scottech,Cecily Lampkin,Central,Dustin Brinkmann,550.0,45.38999999999987,GTX,United States,100.0,0.0,417.0499270733194
+medical,MG Special,The New York Inquirer,Cassey Cress,East,Rocco Neubert,55.0,439.21000000000026,MG,United States,792.0,44.0,338.9509280409784
+medical,GTX Plus Basic,Labdrill,Kami Bicknell,West,Summer Sewald,1096.0,2741.37,GTX,United States,9226.0,885.0,918.0587215243688
+entertainment,MG Advanced,Dalttechnology,Cecily Lampkin,Central,Dustin Brinkmann,3393.0,217.8699999999999,MG,United States,551.0,3616.0,1914.7352035047243
+telecommunications,GTX Basic,Treequote,Moses Frase,Central,Dustin Brinkmann,550.0,5266.09,GTX,United States,8595.0,583.0,356.8069116002159
+entertainment,GTX Pro,Plusstrip,Zane Levy,West,Summer Sewald,4821.0,349.80999999999995,GTX,United States,315.0,5144.0,2999.410740614302
+finance,GTX Plus Basic,Vehement Capital Partners,Kary Hendrixson,West,Summer Sewald,1096.0,646.0999999999999,GTX,United States,883.0,1490.9155118462227,882.48414154991
+marketing,MG Special,Scottech,Versie Hillebrand,Central,Dustin Brinkmann,55.0,45.38999999999987,MG,United States,100.0,58.0,289.92501273851417
+medical,GTX Plus Pro,Bioholding,Moses Frase,Central,Dustin Brinkmann,5482.0,587.3400000000001,GTX,Philipines,1356.0,0.0,3125.577785285117
+technolgy,GTX Pro,Rundofase,Darcel Schlecht,Central,Melvin Marxen,4821.0,1008.06,GTX,United States,1238.0,0.0,2913.4897956410105
+retail,GTX Plus Basic,Singletechno,Hayden Neloms,West,Celia Rouche,1096.0,2214.94,GTX,United States,5374.0,1157.0,872.9712648074367
+retail,GTX Plus Basic,J-Texon,Zane Levy,West,Summer Sewald,1096.0,1388.67,GTX,United States,3583.0,1490.9155118462227,894.2128470100997
+telecommunications,MG Advanced,Faxquote,Hayden Neloms,West,Celia Rouche,3393.0,1825.82,MG,United States,5595.0,2918.0,2049.6001225936507
+medical,GTX Plus Basic,Zumgoity,Niesha Huffines,Central,Melvin Marxen,1096.0,441.0799999999999,GTX,United States,1210.0,1026.0,814.5314404143286
+medical,MG Advanced,Ron-tech,Versie Hillebrand,Central,Dustin Brinkmann,3393.0,3922.42,MG,United States,6837.0,3548.0,1890.4510080819646
+software,GTX Pro,Scotfind,Kami Bicknell,West,Summer Sewald,4821.0,6354.87,GTX,United States,16780.0,4449.0,3020.9379895978245
+technolgy,GTX Basic,Bluth Company,Kami Bicknell,West,Summer Sewald,550.0,1242.32,GTX,United States,3027.0,1490.9155118462227,513.2534699520851
+marketing,GTX Plus Basic,Sunnamplex,Kami Bicknell,West,Summer Sewald,1096.0,894.3699999999999,GTX,Poland,1593.0,1048.0,868.1844497891932
+finance,GTX Plus Pro,Funholding,Anna Snelling,Central,Dustin Brinkmann,5482.0,2819.5,GTX,United States,7227.0,5600.0,3139.247272034003
+retail,GTX Basic,Plussunin,Boris Faz,East,Rocco Neubert,550.0,1419.98,GTX,United States,4018.0,0.0,477.83975558771226
+finance,GTX Pro,Opentech,Kami Bicknell,West,Summer Sewald,4821.0,355.23,GTX,United States,853.0,1490.9155118462227,3006.8782372318874
+medical,MG Advanced,Ron-tech,Gladys Colclough,Central,Melvin Marxen,3393.0,3922.42,MG,United States,6837.0,3772.0,1890.5389477836727
+software,MG Advanced,Bubba Gump,Cassey Cress,East,Rocco Neubert,3393.0,987.3899999999999,MG,United States,2253.0,3333.0,1984.7307194707978
+retail,GTX Plus Pro,Kinnamplus,Darcel Schlecht,East,Rocco Neubert,5482.0,702.7199999999998,GTX,United States,1831.0,5051.0,3225.256133703676
+retail,GTX Pro,Gekko & Co,Violet Mclelland,East,Cara Losch,4821.0,2520.83,GTX,United States,3502.0,5031.0,2889.43426356074
+retail,GTX Basic,Genco Pura Olive Oil Company,Niesha Huffines,Central,Melvin Marxen,550.0,894.3299999999999,GTX,Italy,1635.0,528.0,324.3619211428338
+retail,GTX Pro,Singletechno,Kary Hendrixson,West,Summer Sewald,4821.0,2214.94,GTX,United States,5374.0,0.0,3015.4274220546904
+telecommunications,GTX Basic,Sonron,James Ascencio,West,Summer Sewald,550.0,1699.85,GTX,United States,5108.0,0.0,557.6782443475048
+telecommunications,GTX Plus Basic,Initech,Cassey Cress,East,Rocco Neubert,1096.0,6395.05,GTX,United States,20275.0,1372.0,897.9318704338109
+marketing,GTX Basic,Scottech,Jonathan Berthelot,Central,Melvin Marxen,550.0,45.38999999999987,GTX,United States,100.0,574.0,424.74135277898336
+finance,MG Special,Stanredtax,Anna Snelling,Central,Dustin Brinkmann,55.0,1698.1999999999998,MG,United States,3798.0,57.0,265.1532104692483
+finance,MG Special,Opentech,Cassey Cress,East,Rocco Neubert,55.0,355.23,MG,United States,853.0,59.0,326.0586373547835
+retail,MG Special,Yearin,Violet Mclelland,East,Cara Losch,55.0,2261.05,MG,United States,3851.0,63.0,304.21246845329415
+finance,GTX Plus Basic,Xx-holding,Cassey Cress,East,Rocco Neubert,1096.0,7537.24,GTX,United States,20293.0,1490.9155118462227,834.3664639944408
+retail,GTX Pro,Toughzap,Darcel Schlecht,Central,Melvin Marxen,4821.0,332.42999999999984,GTX,United States,799.0,5010.0,2929.1001369379655
+software,GTX Pro,Codehow,Jonathan Berthelot,Central,Melvin Marxen,4821.0,2714.9,GTX,United States,2641.0,5625.0,2833.7754705309007
+technolgy,MG Special,Rangreen,Versie Hillebrand,Central,Dustin Brinkmann,55.0,2938.67,MG,Panama,8775.0,52.0,287.416292559622
+marketing,GTX Basic,Mathtouch,Corliss Cosme,East,Cara Losch,550.0,3027.46,GTX,Jordan,9516.0,560.0,398.77267054097115
+entertainment,MG Special,Massive Dynamic,Reed Clapper,East,Rocco Neubert,55.0,665.06,MG,United States,1095.0,54.0,315.1753114148564
+entertainment,MG Advanced,Cheers,James Ascencio,West,Summer Sewald,3393.0,4269.9,MG,United States,6472.0,3294.0,1931.0996181817
+entertainment,GTX Plus Basic,Xx-zobam,Daniell Hammack,East,Rocco Neubert,1096.0,3838.39,GTX,United States,8274.0,1490.9155118462227,803.1633153593505
+finance,GTX Plus Basic,Funholding,Niesha Huffines,Central,Melvin Marxen,1096.0,2819.5,GTX,United States,7227.0,984.0,766.9609019174125
+marketing,GTX Pro,Goodsilron,Vicki Laflamme,West,Celia Rouche,4821.0,2952.73,GTX,United States,5107.0,4445.0,2938.1478052817456
+technolgy,GTX Plus Pro,Donquadtech,Wilburn Farren,East,Cara Losch,5482.0,1712.68,GTX,United States,3194.0,0.0,3191.086099162595
+employment,GTX Basic,Statholdings,Niesha Huffines,Central,Melvin Marxen,550.0,291.27,GTX,United States,586.0,0.0,412.84531916211563
+software,GTX Plus Pro,Kan-code,Gladys Colclough,Central,Melvin Marxen,5482.0,11698.03,GTX,United States,34288.0,1490.9155118462227,3216.0551238962726
+software,GTX Plus Basic,Zotware,Corliss Cosme,East,Cara Losch,1096.0,4478.47,GTX,United States,13809.0,0.0,875.1049647086035
+services,GTX Basic,Warephase,Jonathan Berthelot,Central,Melvin Marxen,550.0,2041.73,GTX,United States,5276.0,0.0,438.8902122549159
+retail,GTX Basic,Singletechno,Elease Gluck,West,Celia Rouche,550.0,2214.94,GTX,United States,5374.0,608.0,500.42317099803154
+retail,GTX Plus Basic,Singletechno,Zane Levy,West,Summer Sewald,1096.0,2214.94,GTX,United States,5374.0,1091.0,897.0458999466111
+medical,GTX Pro,Condax,Gladys Colclough,Central,Melvin Marxen,4821.0,4.539999999999964,GTX,United States,9.0,0.0,2899.416455148995
+technolgy,MG Advanced,Hottechi,Gladys Colclough,Central,Melvin Marxen,3393.0,8170.379999999999,MG,Korea,16499.0,0.0,1813.3388029437376
+technolgy,MG Advanced,Hottechi,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,8170.379999999999,MG,Korea,16499.0,0.0,1810.5136082806052
+medical,GTX Pro,Silis,Corliss Cosme,East,Cara Losch,4821.0,2818.38,GTX,United States,6290.0,0.0,2927.0466090397554
+telecommunications,GTX Pro,Treequote,Darcel Schlecht,Central,Melvin Marxen,4821.0,5266.09,GTX,United States,8595.0,0.0,2851.4741405013074
+retail,GTX Plus Pro,Ganjaflex,Daniell Hammack,East,Rocco Neubert,5482.0,5158.71,GTX,Japan,17479.0,0.0,3195.4039858301335
+retail,MG Advanced,Cancity,Lajuana Vencill,Central,Dustin Brinkmann,3393.0,718.6199999999999,MG,United States,2448.0,0.0,1942.0158695724692
+retail,GTX Plus Pro,Fasehatice,Kary Hendrixson,West,Summer Sewald,5482.0,4968.91,GTX,United States,7523.0,4989.0,3166.0345811598545
+technolgy,GTX Plus Pro,Hottechi,Anna Snelling,Central,Dustin Brinkmann,5482.0,8170.379999999999,GTX,Korea,16499.0,5271.0,3031.3197980190625
+technolgy,GTX Pro,Conecom,Marty Freudenburg,Central,Melvin Marxen,4821.0,1520.66,GTX,United States,1806.0,4926.0,2881.105209423743
+telecommunications,GTX Plus Basic,Gogozoom,Jonathan Berthelot,Central,Melvin Marxen,1096.0,86.67999999999984,GTX,United States,187.0,1066.0,807.5846446948808
+retail,MG Advanced,Plussunin,Cassey Cress,East,Rocco Neubert,3393.0,1419.98,MG,United States,4018.0,3329.0,2007.4304793998076
+retail,GTX Plus Basic,Yearin,Violet Mclelland,East,Cara Losch,1096.0,2261.05,GTX,United States,3851.0,0.0,809.6641259605107
+retail,GTX Pro,Yearin,Boris Faz,East,Rocco Neubert,4821.0,2261.05,GTX,United States,3851.0,0.0,2942.996100003018
+telecommunications,MG Special,Gogozoom,Lajuana Vencill,Central,Dustin Brinkmann,55.0,86.67999999999984,MG,United States,187.0,0.0,298.3953742040569
+marketing,GTX Plus Pro,Scottech,Darcel Schlecht,Central,Melvin Marxen,5482.0,45.38999999999987,GTX,United States,100.0,0.0,3177.571381850801
+technolgy,GTX Basic,Donquadtech,Corliss Cosme,East,Cara Losch,550.0,1712.68,GTX,United States,3194.0,0.0,428.82774744587255
+services,GTX Pro,Newex,Kary Hendrixson,West,Summer Sewald,4821.0,1012.72,GTX,Germany,3492.0,1490.9155118462227,2947.1143919077613
+entertainment,GTX Basic,Xx-zobam,Cassey Cress,East,Rocco Neubert,550.0,3838.39,GTX,United States,8274.0,582.0,430.6152215499453
+medical,GTX Basic,Lexiqvolax,Zane Levy,West,Summer Sewald,550.0,1618.89,GTX,United States,3889.0,0.0,515.5309637290601
+entertainment,GTX Basic,Zoomit,Kami Bicknell,West,Summer Sewald,550.0,324.19000000000005,GTX,United States,978.0,0.0,525.9496604431575
+retail,GTX Plus Basic,Singletechno,Kary Hendrixson,West,Summer Sewald,1096.0,2214.94,GTX,United States,5374.0,0.0,892.787947784396
+retail,MG Advanced,Genco Pura Olive Oil Company,Moses Frase,Central,Dustin Brinkmann,3393.0,894.3299999999999,MG,Italy,1635.0,0.0,1848.694334770531
+software,MG Special,Kan-code,Rosie Papadopoulos,East,Cara Losch,55.0,11698.03,MG,United States,34288.0,0.0,362.01675848864465
+software,MG Special,Codehow,Versie Hillebrand,Central,Dustin Brinkmann,55.0,2714.9,MG,United States,2641.0,0.0,204.6839807312067
+medical,MG Special,Condax,Elease Gluck,West,Celia Rouche,55.0,4.539999999999964,MG,United States,9.0,0.0,350.27450891023
+retail,MG Special,Cancity,Corliss Cosme,East,Cara Losch,55.0,718.6199999999999,MG,United States,2448.0,1490.9155118462227,310.3923308057974
+employment,MG Special,Statholdings,Gladys Colclough,Central,Melvin Marxen,55.0,291.27,MG,United States,586.0,68.0,275.6838033020888
+retail,GTX Basic,Groovestreet,Niesha Huffines,Central,Melvin Marxen,550.0,223.80000000000018,GTX,United States,299.0,1490.9155118462227,417.90419964292187
+marketing,GTX Plus Pro,dambase,Jonathan Berthelot,Central,Melvin Marxen,5482.0,2173.98,GTX,United States,2928.0,5991.0,3141.0751348379595
+retail,MG Advanced,Genco Pura Olive Oil Company,Jonathan Berthelot,Central,Melvin Marxen,3393.0,894.3299999999999,MG,Italy,1635.0,0.0,1851.215389993505
+medical,GTX Basic,Silis,Boris Faz,East,Rocco Neubert,550.0,2818.38,GTX,United States,6290.0,541.0,450.45916617638227
+marketing,MG Special,Inity,Anna Snelling,Central,Dustin Brinkmann,55.0,2403.58,MG,United States,8801.0,58.0,305.5334857826963
